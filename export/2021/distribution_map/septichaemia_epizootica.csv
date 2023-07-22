@@ -1,0 +1,78 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2910721,02-09-2021,2,sapi,22,Septichaemia Epizootica,Sumatera Utara,Dairi,Silima Pungga Pungga,Uruk Belin,98.1025010984633,2.86058685450004
+2782337,15-06-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Sumba Tengah,Umbu Ratu Nggay Barat,Umbu Mamijuk,119.651824259117,-9.60673799749995
+2941746,17-07-2021,2,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil,Kampong Siti Ambia,97.7779774629156,2.29911168100006
+2918873,09-09-2021,1,sapi,22,Septichaemia Epizootica,Sumatera Utara,Labuhan Batu Selatan,Silangkitang,Ulu Mahuam,99.931046632974,1.90718632350004
+2941764,17-07-2021,5,sapi,22,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil,Kampong Paya Bumbung,97.7793271577582,2.40903252350006
+3148939,15-12-2021,2,kerbau,36,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Barat,121.073744027564,-8.47320748999994
+2941820,19-06-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Mbueain,122.823014149853,-10.794839961
+2941935,16-11-2021,2,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Oelolot,122.839611685421,-10.819874961
+3148560,15-10-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Timur,121.073744027564,-8.47320748999994
+2918885,17-09-2021,1,sapi,22,Septichaemia Epizootica,Sumatera Utara,Labuhan Batu Selatan,Silangkitang,Ulu Mahuam,99.931046632974,1.90718632350004
+2941767,26-07-2021,18,sapi,22,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil,Kampong Pulo Sarok,97.8128551320737,2.29619977300007
+2941775,01-08-2021,4,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Gosong Telaga Selatan,98.1052422065885,2.22109461150004
+2941875,01-08-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Sedeoen,122.853590742664,-10.861504961
+3140911,15-05-2021,21,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Soa,Ngabheo,121.058625633344,-8.70692648999994
+2941819,18-07-2021,6,sapi,22,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Telaga Sakti,98.1421791105432,2.32222410900005
+2941700,10-08-2021,3,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Gunung Meriah,Kampong Sebatang,97.9276943154784,2.39682707650005
+2768888,15-06-2021,7,sapi bali,24,Septichaemia Epizootica,Sumatera Barat,Pesisir Selatan,Pancung Soal,Taluk Ampalu Inderapura,100.949023155606,-2.05648559049996
+2941789,21-07-2021,1,sapi,22,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Gosong Telaga Timur,98.0601138040001,2.28169200500005
+2782338,15-06-2021,2,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Sumba Tengah,Umbu Ratu Nggay Barat,Umbu Mamijuk,119.651824259117,-9.60673799749995
+2941913,14-10-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Oenitas,122.866630661903,-10.832979961
+2941815,27-06-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Sedeoen,122.853590742664,-10.861504961
+2941802,25-07-2021,3,sapi,22,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Gosong Telaga Barat,97.8566558324017,2.30982873300005
+2668599,15-01-2021,8,sapi,22,Septichaemia Epizootica,Sulawesi Tengah,Banggai,Luwuk Utara,Biak,122.876718127203,-0.914243484999957
+2910695,10-07-2021,3,sapi,22,Septichaemia Epizootica,Sumatera Utara,Dairi,Sidikalang,Bintang Hulu,98.339281067826,2.77191338650005
+2782331,15-06-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Sumba Tengah,Katikutana,Makata Keri,119.578232560975,-9.60333749649996
+2941847,23-07-2021,4,sapi,22,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Kampung Baru,98.0534851199001,2.33975655850006
+2910717,11-08-2021,3,sapi,22,Septichaemia Epizootica,Sumatera Utara,Dairi,Lae Parira,Kentara,98.1899219356547,2.78913435800004
+2941928,02-11-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Lobalain,Sanggaoen,123.060155373404,-10.7893099545
+3140915,15-05-2021,8,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Soa,Masu,121.058625633344,-8.70692648999994
+2941779,27-07-2021,1,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Gosong Telaga Utara,97.8975118482089,2.26557824550002
+2910726,10-09-2021,3,sapi,22,Septichaemia Epizootica,Sumatera Utara,Dairi,Siempat Nempu,Jumateguh,98.2193065310569,2.81211171050003
+2696670,31-03-2021,20,Babi Liar,565,Septichaemia Epizootica,Kalimantan Utara,Nunukan,Tulin Onsoi,Salang,117.06299593969,4.24024820300005
+2910727,12-10-2021,1,sapi,22,Septichaemia Epizootica,Sumatera Utara,Dairi,Sumbul,Pegagan Julu Ii,98.4599875113071,2.75870011100002
+2696807,31-03-2021,10,Babi Liar,565,Septichaemia Epizootica,Kalimantan Utara,Nunukan,Tulin Onsoi,Tinampak Dua,116.967768179236,4.21222972850003
+2768884,15-06-2021,14,sapi bali,24,Septichaemia Epizootica,Sumatera Barat,Pesisir Selatan,Air Pura,Inderapura Utara,101.0104,-1.932222
+3148953,15-12-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Latung,120.967930947591,-8.42112699049994
+2941865,19-07-2021,67,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Kampung Baru,98.0534851199001,2.33975655850006
+2941848,16-07-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Mbueain,122.823014149853,-10.794839961
+3148956,15-12-2021,4,kerbau,36,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Taen Terong II,121.073744027564,-8.47320748999994
+3140653,15-04-2021,2,kerbau,36,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Benteng Tengah,121.012216613804,-8.43986898999995
+2768915,15-06-2021,2,Sapi Bali Cross,294,Septichaemia Epizootica,Sumatera Barat,Pesisir Selatan,Air Pura,Damar Lapan Batang Inderapura,101.0104,-1.932222
+2918854,20-08-2021,1,sapi,22,Septichaemia Epizootica,Sumatera Utara,Labuhan Batu Selatan,Kota Pinang,Mampang,100.037968079837,1.82849299400004
+2681926,10-02-2021,1,sapi,22,Septichaemia Epizootica,Sulawesi Tengah,Banggai Laut,Banggai Tengah,Adean,123.531194092539,-1.63242064599993
+2677252,18-03-2021,1,sapi,22,Septichaemia Epizootica,Sulawesi Tengah,Banggai,Moilong,Minahaki,122.325490597283,-1.50894772449993
+2941851,08-07-2021,1,kerbau,36,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Mbueain,122.823014149853,-10.794839961
+2768864,15-06-2021,5,sapi,22,Septichaemia Epizootica,Sumatera Barat,Pesisir Selatan,Air Pura,Lalang Panjang Inderapura,101.0104,-1.932222
+3140650,15-03-2021,5,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Soa,Loa,121.07294620253,-8.73341398999995
+2941528,03-01-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Oenggaut,122.833574811098,-10.912329961
+2933383,06-04-2021,1,sapi,22,Septichaemia Epizootica,Sulawesi Tengah,Banggai Laut,Banggai Tengah,Adean,123.531194092539,-1.63242064599993
+2941909,18-10-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Selatan,Daleholu,123.178310415782,-10.793909952
+3140913,15-05-2021,1,kerbau,36,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Soa,Ngabheo,121.058625633344,-8.70692648999994
+2910734,13-11-2021,2,sapi,22,Septichaemia Epizootica,Sumatera Utara,Dairi,Pegagan Hilir,Laksa,98.3953136204412,2.89790032000005
+3148931,15-12-2021,2,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Nangamese,121.002741888646,-8.41054348949996
+2941912,02-10-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Oenitas,122.866630661903,-10.832979961
+2941908,25-10-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Lobalain,Holoama,123.0419697742,-10.7959049555
+2941763,24-07-2021,3,sapi,22,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil,Kampong Selok Aceh,97.7768772736294,2.38121959800006
+2768890,15-06-2021,17,sapi bali,24,Septichaemia Epizootica,Sumatera Barat,Pesisir Selatan,Silaut,Air Hitam,101.026188,-2.413364
+3143646,15-07-2021,1,kerbau,36,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Nangamese,121.002741888646,-8.41054348949996
+2680556,15-02-2021,1,sapi,22,Septichaemia Epizootica,Sumatera Utara,Langkat,Sei Lepan,Harapan Jaya,98.1116979445519,3.86903043950005
+2941822,19-07-2021,11,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Telaga Sakti,98.1421791105432,2.32222410900005
+3140917,15-05-2021,2,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Soa,Masu Kedhi,121.058625633344,-8.70692648999994
+2941873,17-08-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Mbueain,122.823014149853,-10.794839961
+2941812,31-07-2021,47,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Gosong Telaga Barat,97.8566558324017,2.30982873300005
+2768908,15-06-2021,1,sapi pesisir,26,Septichaemia Epizootica,Sumatera Barat,Pesisir Selatan,Air Pura,Damar Lapan Batang Inderapura,101.0104,-1.932222
+2941709,10-08-2021,1,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Gunung Meriah,Kampong Perangusan,97.9495508799868,2.42532071950004
+2793357,24-06-2021,1,sapi bali,24,Septichaemia Epizootica,Sumatera Utara,Toba Samosir,Siantar Narumonda,Narumonda I,99.1971972276989,2.43929182300005
+2941771,07-08-2021,3,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil,Kampong Pulo Sarok,97.8128551320737,2.29619977300007
+2941845,13-07-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Rote Barat,Sedeoen,122.853590742664,-10.861504961
+2941692,10-08-2021,10,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Gunung Meriah,Kampong Tanah Merah,97.8826257400639,2.40124854850006
+2941786,20-07-2021,3,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil Utara,Gosong Telaga Timur,98.0601138040001,2.28169200500005
+3140649,15-04-2021,1,kambing,40,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Riung,Benteng Tengah,121.012216613804,-8.43986898999995
+2680553,11-01-2021,1,sapi,22,Septichaemia Epizootica,Sumatera Utara,Langkat,Sei Lepan,Harapan Jaya,98.1116979445519,3.86903043950005
+2768854,15-06-2021,4,sapi,22,Septichaemia Epizootica,Sumatera Barat,Pesisir Selatan,Air Pura,Damar Lapan Batang Inderapura,101.0104,-1.932222
+2941787,23-06-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Rote Ndao,Lobalain,Sanggaoen,123.060155373404,-10.7893099545
+3140925,15-05-2021,1,kerbau,36,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Soa,Libunio,121.058625633344,-8.70692648999994
+3136703,15-03-2021,1,sapi,22,Septichaemia Epizootica,Nusa Tenggara Timur,Ngada,Soa,Libunio,121.058625633344,-8.70692648999994
+2941768,26-07-2021,10,kerbau,36,Septichaemia Epizootica,Aceh,Aceh Singkil,Singkil,Kampong Pulo Sarok,97.8128551320737,2.29619977300007

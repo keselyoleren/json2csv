@@ -1,0 +1,5 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2691119,18-05-2020,2,Anjing,60,Leptospirosis,Sumatera Utara,Labuhan Batu Selatan,Kota Pinang,Kota Pinang,100.108913388871,1.89403247350003
+2691111,17-04-2020,4,sapi,22,Leptospirosis,Sumatera Utara,Labuhan Batu Selatan,Torgamba,Pinang Damai,100.208960048987,1.88130873000006
+2673072,18-08-2020,1,kambing,40,Leptospirosis,Jawa Tengah,Boyolali,Sambi,Kepoh,110.704978556191,-7.46789600049996
+2673071,01-03-2020,1,sapi,22,Leptospirosis,Jawa Tengah,Boyolali,Sawit,Kemasan,110.683789378093,-7.57636199999996

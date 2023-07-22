@@ -1,0 +1,1203 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2768614,08-07-2021,24,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan,Wa Yagung,115.877951546633,3.97068583950005
+2934994,27-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2904029,15-11-2021,2,babi,55,African swine fever,Jawa Timur,Blitar,Doko,Sumber Urip,112.449746401761,-7.99216842649994
+2692265,26-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2689708,23-01-2021,6,babi,55,African swine fever,Sumatera Utara,Dairi,Sidikalang,Batang Beruh,98.3182466269098,2.74998436100006
+2683894,16-03-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+3136530,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Latung,120.967930947591,-8.42112699049994
+2686260,01-03-2021,51,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Petuntawa,123.463902940423,-8.30008194899995
+2670014,15-01-2021,623,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Waibao,122.772518196655,-8.19727596549995
+2651368,10-02-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Welak,Lale,120.175584111459,-8.66486549599998
+2667084,15-01-2021,269,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Pantai Oa,122.754808897734,-8.59151046599996
+3136441,15-02-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Uluwae,120.91401531135,-8.69303499099993
+2862473,19-10-2021,10,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Kuala Kurun,113.83822959897,-0.784466147499955
+2683446,16-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Aesesa Selatan,Renduwawo,121.234142292851,-8.69837248799993
+2933995,06-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Nadawawi,121.900003324573,-10.4970999785
+2668721,01-03-2021,26,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2646977,05-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+2919552,17-12-2021,5,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Menteng,113.836827334665,-2.02168911699997
+2648662,08-02-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2853620,10-10-2021,25,babi,55,African swine fever,Kalimantan Tengah,Katingan,Pulau Malan,Buntut Bali,113.216548207564,-1.67035156499998
+2620787,03-01-2021,3,babi,55,African swine fever,Jawa Tengah,Klaten,Ngawen,Manjung,110.588897928751,-7.68136999999993
+2660734,21-02-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Nginamanu Selatan,121.022031188809,-8.65213248999996
+2892741,17-11-2021,324,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+3136658,15-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Trikora,120.951753969437,-8.77208599049993
+2691642,25-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Ratogesa,121.064930782517,-8.84847998999996
+2706548,15-04-2021,23,babi,55,African swine fever,Jawa Tengah,Semarang,Getasan,Getasan,110.438137564271,-7.37545199999994
+2861162,18-10-2021,43,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2662560,23-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Wae Kelambu,119.94670174618,-8.49957849699996
+2678417,10-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2871242,27-10-2021,79,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2664983,25-02-2021,100,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Aesesa,Danga,121.266888679026,-8.58567198899996
+2936984,13-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Hawu Mehara,Molie,121.740562106654,-10.556934981
+2937047,18-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimadake,121.92445982268,-10.4832349785
+2669986,15-01-2021,150,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Tengah,Hoko Horowura,123.045499397,-8.34837096099997
+2683642,16-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Sobo I,121.022031188809,-8.65213248999996
+2768609,08-07-2021,6,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan,Bungayan,115.832199908023,4.00699746600006
+2862629,23-09-2021,38,babi,55,African swine fever,Jawa Timur,Malang,Dau,Mulyoagung,112.564797774147,-7.92172050449994
+2669084,01-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Boawae,Natanage,121.164479066413,-8.78746698899997
+2666736,26-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Benteng Tengah,121.012216613804,-8.43986898999995
+2660537,20-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Lebijaga,120.970522597437,-8.76000698999997
+2666992,15-01-2021,77,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Amagarapati,122.991704708734,-8.28954596149995
+2655280,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Bola,Umauta,122.315555002142,-8.72307097349994
+2662879,23-02-2021,152,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Wae Mose,120.188529862203,-8.70914499599996
+2638281,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Wutung,122.231706996152,-8.70312447649994
+2867626,25-10-2021,71,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Manuhing Raya,Kel. Tehang,113.549742682002,-0.895158335499957
+2687674,21-03-2021,569,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Barat,Leer,124.055367166091,-8.35849092699996
+2862414,19-10-2021,8,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Batu Nyiwuh,113.632377918541,-0.789366960499962
+2733161,24-05-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inelika,120.966991439547,-8.72085799099995
+2684055,14-01-2021,2,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Parlilitan,Sihas Habinsaran,98.4622904977682,2.25584076100003
+2717630,28-04-2021,92,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Pargarutan,98.602560292635,1.91465537400003
+3136635,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Mataloko,121.039399050962,-8.80025198949997
+2642043,29-01-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Magepanda,Magepanda,122.056566395634,-8.56130097899995
+2664320,24-02-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inegena,120.984667424792,-8.69333048999994
+2666970,15-01-2021,99,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Mandiri,Lewohala,122.93826126996,-8.26375096249996
+2654404,14-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kadi Pada,119.255307641982,-9.48402099749995
+2668968,15-01-2021,339,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Lewolema,Ile Padung,122.874782820157,-8.29823346449996
+2651364,10-02-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Welak,Orong,120.233422205688,-8.63092349549996
+2937097,22-03-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2638382,26-01-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Wolomotong,122.344415507776,-8.72082847349995
+2662530,23-02-2021,152,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Wae Mose,120.188529862203,-8.70914499599996
+2647276,05-02-2021,34,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Takaplager,122.191310441174,-8.64152147649995
+2669919,15-01-2021,99,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Wailebe,123.011143375235,-8.38868596099994
+2656057,16-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2666322,26-02-2021,398,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Baopana,123.514790569883,-8.37154294699997
+2935054,28-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eilode,121.928315147023,-10.4682356185
+2934973,26-02-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2655318,15-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Wutung,122.231706996152,-8.70312447649994
+2935151,03-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimadake,121.92445982268,-10.4832349785
+2686285,28-02-2021,112,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Katakeja,123.462980325647,-8.43908344849993
+2646286,04-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Kamot,124.765372584872,-8.20068989349997
+2692095,26-03-2021,52,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Sobo I,121.022031188809,-8.65213248999996
+3134564,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Lebijaga,120.970522597437,-8.76000698999997
+2669997,15-01-2021,97,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Tengah,Lite,123.121782111116,-8.31671095949997
+2839827,29-09-2021,17,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Mihing Raya,Dahian Tambuk,113.952147315685,-1.04308593249993
+2686261,02-03-2021,139,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Dori Pewut,123.48727833151,-8.47126944849995
+2670565,15-01-2021,195,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Baobage,123.284551815017,-8.28481445599996
+2666987,15-01-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lohayong,123.002304750443,-8.30761046249995
+2667948,28-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Kota Kupang,Maulafa,Sikumana,123.618075921376,-10.2344699385
+2668937,01-03-2021,921,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Ile Kimok,123.546954008265,-8.44501694599995
+2686404,19-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Ubedolumolo,120.968612586543,-8.79331348999995
+2751922,17-06-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Nginamanu Barat,121.022031188809,-8.65213248999996
+2718061,28-04-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2895323,19-11-2021,8,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Sejiram,111.973492947955,0.427270785000047
+2696233,31-03-2021,285,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Tengah,Tude,124.088573389673,-8.46500192549993
+2669026,15-01-2021,90,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Selatan,Kalike,122.99431325094,-8.48322916649994
+2646988,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+2924705,24-12-2021,25,babi,55,African swine fever,Kalimantan Barat,Sintang,Tempunak,Pangkal Baru,111.344376812661,-0.222301721499946
+2658860,18-02-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Macang Pacar,Benteng Ndope,120.189503527121,-8.46262049599994
+2693167,28-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Barat,Leer,124.055367166091,-8.35849092699996
+2935990,03-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2666330,26-02-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Lerahinga,123.589251290129,-8.40041944499995
+2638337,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Wolonterang,122.356178544903,-8.73332547299995
+2696043,21-01-2021,10,babi,55,African swine fever,Sumatera Utara,Tanjung Balai,Datuk Bandar,Sirantau,99.7690689985638,2.94284700400004
+2686284,01-03-2021,113,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Buriwutung,123.813135551884,-8.19762493799996
+2715089,25-04-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Inerie,120.905589523664,-8.88078749099995
+2662742,23-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Golo Bilas,119.897718408819,-8.56629649599995
+2668960,01-03-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Dori Pewut,123.48727833151,-8.47126944849995
+2670673,15-01-2021,50,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Ile Gerong,122.781572494716,-8.44322746649996
+2768604,08-07-2021,36,babi,55,African swine fever,Kalimantan Utara,Nunukan,Sembakung,Tujung,117.174386253901,3.74336099650006
+2669563,02-03-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Nilanapo,123.702109406746,-8.36717594099994
+2662968,23-02-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2638396,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Watumerak,122.364727933476,-8.71853297299995
+2669811,15-01-2021,27,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Saosina,123.169272664394,-8.34872195749995
+2896807,22-11-2021,3,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Sebangau,Sabaru,113.966430950136,-2.10155757899997
+2655284,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Nebe,122.552775372902,-8.49651846999996
+2654953,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Lorang,122.22978706217,-8.68015647549996
+2666982,15-01-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Sarotari,122.99276123801,-8.26884346149996
+2669192,01-03-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Taen Terong,121.019474769109,-8.50192998999995
+2662234,22-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Tadho,121.070748610381,-8.46317148999995
+2668983,01-03-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Tubung Walang,123.828395491125,-8.26102693699994
+2685847,02-03-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Normal,123.773129510664,-8.22156543949995
+2781958,25-07-2021,28,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan Selatan,Ba Liku,115.873319820133,3.73156642900005
+3134572,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2668984,15-01-2021,974,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Lewolema,Painapang,122.914926810749,-8.24019546349996
+2941748,15-05-2021,32,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Lobalain,Mokdale,123.060053081597,-10.7693299545
+2637067,25-01-2021,133,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Tengah,Mauta,124.181325117665,-8.47263092249995
+2655231,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Blatatatin,122.274882435166,-8.70218747599995
+2731176,27-04-2021,4,babi,55,African swine fever,Jawa Timur,Blitar,Sutojayan,Kalipang,112.190172142441,-8.20180606849996
+2662523,23-02-2021,103,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Golo Bilas,119.897718408819,-8.56629649599995
+2638249,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tekaiku,122.250455578596,-8.69610047599994
+2869089,25-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2876739,01-11-2021,3,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Beluis Harum,111.987670748617,0.320115715000071
+2670045,02-03-2021,130,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Hoelea,123.721120792782,-8.24724194049995
+2847671,04-10-2021,86,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Palangka,113.841694778833,-1.96899539249995
+2693170,28-03-2021,94,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Timur,Mawar,124.286465672736,-8.26973691799998
+2733167,24-05-2021,45,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Nabelena,120.925883219994,-8.69671599149996
+2638380,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Nebe,122.552775372902,-8.49651846999996
+2937231,20-03-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2669526,15-01-2021,304,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Bura,Lewoawang,122.827700244874,-8.57414146549993
+2677268,09-03-2021,33,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2666994,15-01-2021,54,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lewolere,122.964840683203,-8.31428046299996
+2671908,04-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Trikora,120.951753969437,-8.77208599049993
+2642120,29-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2867627,25-10-2021,7,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Kuala Kurun,113.83822959897,-0.784466147499955
+2675199,06-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Selatan,Were Ii,121.080936755949,-8.89462548849997
+2934934,24-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2670534,03-03-2021,24,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Aesesa,Nggolo Mbay,121.232346478646,-8.57990598799995
+2659744,19-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Pogotena,119.30289164708,-9.42545999749996
+2650488,09-02-2021,830,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Kakor,120.20901803441,-8.70366899599995
+2941765,17-05-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Rote Barat Laut,Busalangga,123.012101639321,-10.801464957
+2938096,24-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2669041,15-01-2021,104,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Klubagolit,Pepageka,123.219849517356,-8.27551345549995
+2863693,20-10-2021,19,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Nanga Lot,112.179031,0.303852
+2768867,08-07-2021,30,babi,55,African swine fever,Kalimantan Utara,Malinau,Malinau Utara,Respen Biru,116.6497154215,3.56258702250005
+2666168,26-02-2021,77,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2655316,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Hewuli,122.183218508453,-8.59145397649993
+2683938,16-03-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2640754,28-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Hewokloang,Munerana,122.290994309757,-8.66035327249995
+2689364,23-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kadi Pada,119.255307641982,-9.48402099749995
+2640710,28-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Du,122.220198887179,-8.73058639049995
+3136468,15-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2689445,01-03-2021,61,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Dulitukan,123.399476179223,-8.27370845099995
+2679599,11-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kalena Wano,119.298760471214,-9.42653849749996
+2640622,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tanaduen,122.268648698233,-8.65681697599996
+2910714,25-11-2021,40,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Samasi,97.6278987479914,1.10998116550005
+2892466,11-10-2021,15,babi,55,African swine fever,Jawa Timur,Blitar,Kademangan,Rejowinangun,112.152704065789,-8.14890050899996
+2685371,18-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kadi Pada,119.255307641982,-9.48402099749995
+2856988,13-10-2021,1,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Belikai,112.160405922476,0.313785687000035
+2669628,15-01-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Tapobali,123.149602303015,-8.32103145799996
+2674246,05-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Selatan,Sadha,121.083774836514,-8.86165248949996
+2689545,04-03-2021,403,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Amakaka,123.482147387895,-8.26248394849998
+2669995,15-01-2021,180,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Tengah,Lewobele,123.099732259626,-8.29839045949996
+2638389,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Wailamung,122.570832832056,-8.46304446999994
+2938071,20-03-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2668988,01-03-2021,141,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Benihading,123.792949748344,-8.24103493749993
+2685807,02-03-2021,160,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Duawutun,123.287812747333,-8.48181895399995
+2669497,02-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Alap Atadei,123.531425152649,-8.55430994599996
+2928042,29-12-2021,1,babi,55,African swine fever,Sumatera Barat,Agam,Palembayan,Salareh Aia,100.079895949232,-0.130758593999957
+2669023,15-01-2021,414,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Selatan,Lemanu,122.985209382581,-8.49019496099996
+2667003,15-01-2021,215,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lamawalang,122.93467939468,-8.31836946199994
+2651618,10-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kadi Pada,119.255307641982,-9.48402099749995
+2655289,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Namangkewa,122.292596362021,-8.63916584149993
+2669518,15-01-2021,342,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Bura,Riang Rita,122.823217233347,-8.52888746599993
+2655230,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Takaplager,122.191310441174,-8.64152147649995
+2685821,02-03-2021,19,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Lamawolo,123.531816520344,-8.27932994699995
+2655232,15-02-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Wailamung,122.570832832056,-8.46304446999994
+2689153,22-03-2021,51,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Rakateda I,121.013920401926,-8.85939549099996
+2689477,26-02-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Tapobaran,123.609452939841,-8.32480201149997
+2666332,26-02-2021,66,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Waienga,123.594612587847,-8.35118944449994
+2669037,15-01-2021,117,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Klubagolit,Redontena,123.233607780982,-8.28068295549997
+2669502,02-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Posiwatu,123.505247007254,-8.50704744599994
+2743105,07-06-2021,19,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan,Wa Yagung,115.877951546633,3.97068583950005
+2666972,15-01-2021,70,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Mandiri,Halakodanuan,122.926030659603,-8.24326196349995
+2941749,17-05-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Lobalain,Holoama,123.0419697742,-10.7959049555
+2668976,01-03-2021,79,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Kaohua,123.811292571903,-8.21850043799995
+2655195,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Mekendetung,122.261044721569,-8.69830947599996
+2850832,07-10-2021,4,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Sepang,Sepang Kota,113.859566752131,-1.24255156499996
+2685839,02-03-2021,53,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Imulolong,123.389814133207,-8.52068195049998
+2933940,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Ree Madia,121.891777103345,-10.4653177515
+2670680,15-01-2021,65,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Dun Tana Lewoingu,122.830226,-8.403999
+2638383,26-01-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Lete Konda,119.361218474877,-9.41388649749996
+2686259,01-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Tubuk Rajan,123.499249132694,-8.44773944749997
+2692473,26-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Nangamese,121.002741888646,-8.41054348949996
+2933921,15-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2685787,02-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Aulesa,123.525956579221,-8.25896844649995
+2670633,15-01-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Watololong,123.252097665574,-8.31842295499996
+2665794,25-02-2021,195,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi,121.119295159246,-8.47870598949996
+2688578,22-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Faobata,120.995432273752,-8.76036649049996
+2681337,13-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2689752,04-03-2021,319,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Bungamuda,123.491651639493,-8.25942894749994
+2686264,01-03-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Tubung Walang,123.828395491125,-8.26102693699994
+2921594,20-12-2021,42,babi,55,African swine fever,Kalimantan Barat,Sintang,Tempunak,Paribang Baru,111.326582407603,-0.0936595664999516
+2670046,02-03-2021,112,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Hoelea Ii,123.712935433025,-8.23071044249994
+2662557,23-02-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2670923,15-01-2021,285,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Kiwang Ona,123.186542345744,-8.34746345699995
+2669916,15-01-2021,177,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Bliko,123.024194377043,-8.35149996049995
+2935440,12-12-2021,7,babi,55,African swine fever,Lampung,Lampung Selatan,Ketapang,Sri Pendowo,105.748094455682,-5.74134099999995
+2674478,05-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Mangulewa,121.00021614511,-8.80331649049995
+2863703,20-10-2021,11,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Bati,112.063936288341,0.379063398000028
+2711749,20-04-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Warupele Ii,120.90679306824,-8.89958199099993
+2896806,22-11-2021,8,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2689458,28-02-2021,112,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Katakeja,123.462980325647,-8.43908344849993
+2655208,15-02-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Baang Koor,122.640147731204,-8.48322269149998
+2642066,29-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+2645930,03-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2686277,01-03-2021,216,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Umaleu,123.826938660764,-8.20545993749997
+2666978,15-01-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Pohon Sirih,122.994147129696,-8.31018796249995
+2860997,18-10-2021,15,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Tahawa,114.009774668734,-1.73348414899996
+2876737,01-11-2021,6,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Pala Kota,111.904642013494,0.38559786600004
+2650661,09-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2686256,02-03-2021,523,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Panama,123.793232382655,-8.25527643849995
+2666737,26-02-2021,162,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi,121.119295159246,-8.47870598949996
+2692889,27-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Kabola,Kabola,124.571994470918,-8.16030090399997
+2655281,15-02-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Baang Koor,122.640147731204,-8.48322269149998
+2861028,18-10-2021,3,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Tumbang Tarusan,113.898661606771,-1.40518820299994
+2670022,15-01-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Demon Pagong,Watotika Ile,122.867964880724,-8.39768546449997
+2692263,26-03-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Piga,121.080480653266,-8.69641098949995
+2668550,15-01-2021,166,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Bukit Seburi,123.089743669931,-8.33796195999997
+2655275,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Bola,Ipir,122.330184071177,-8.72419147399995
+2668971,01-03-2021,216,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Umaleu,123.826938660764,-8.20545993749997
+2689714,25-01-2021,6,babi,55,African swine fever,Sumatera Utara,Dairi,Berampu,Karing,98.2909684095012,2.73299238750005
+2668944,01-03-2021,51,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Petuntawa,123.463902940423,-8.30008194899995
+2669480,02-03-2021,58,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Belabaja,123.381805063134,-8.46309944999996
+2673214,05-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Panyola Umbu,119.30289164708,-9.42545999749996
+2640628,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tanaduen,122.268648698233,-8.65681697599996
+2661595,22-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Takari,Benu,124.020802299577,-9.94661292299995
+2711761,20-04-2021,29,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Warupele Ii,120.90679306824,-8.89958199099993
+2860971,18-10-2021,8,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Tanjung Sangalang,114.206553655187,-2.02641642099996
+2901491,26-11-2021,98,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2663129,23-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Munting,120.200091888354,-8.72996049549994
+2853596,10-10-2021,21,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2669932,15-01-2021,184,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Wotanulumado,123.0189376925,-8.39518846049995
+2669500,15-01-2021,573,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Bura,Nobokonga,122.774944515207,-8.48193746649994
+2655295,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Watumilok,122.278465985923,-8.65185447599995
+2668547,15-01-2021,47,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Nimun Dani Bao,123.11184937275,-8.33968645899995
+2655188,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Blatatatin,122.274882435166,-8.70218747599995
+3136459,15-02-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2654897,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Takaplager,122.191310441174,-8.64152147649995
+2665342,25-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2683752,16-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2860994,18-10-2021,45,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Balukun,114.026041501904,-1.78764235999995
+2669989,15-01-2021,264,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Tengah,Lewopao,123.05479939425,-8.33357246099996
+2856946,13-10-2021,3,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Gurung,112.053427512844,0.434678271500047
+2689474,26-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nubatukan,Paobokol,123.368426118877,-8.43504445149995
+2707537,16-04-2021,21,babi,55,African swine fever,Sumatera Barat,Pasaman,Panti,Panti,100.095631351317,0.350880845500058
+3136477,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Libunio,121.058625633344,-8.70692648999994
+2738052,30-05-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Turamuri,120.925883219994,-8.69671599149996
+2897231,22-11-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Sejiram,111.973492947955,0.427270785000047
+2650666,09-02-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2646995,05-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Kringa,122.590483356055,-8.52217746899996
+2847733,04-10-2021,16,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Menteng,113.836827334665,-2.02168911699997
+2667086,15-01-2021,371,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Ojan Detun,122.688122017195,-8.59108946899997
+2732278,22-05-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2647047,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Habi,122.258293646758,-8.65563647599996
+2669837,15-01-2021,66,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Lamalota,123.232844,-8.339142
+2668992,01-03-2021,523,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Panama,123.793232382655,-8.25527643849995
+2851271,07-10-2021,20,babi,55,African swine fever,Kalimantan Tengah,Katingan,Katingan Tengah,Samba Kahayan,113.050160746576,-1.43692189449996
+2687270,20-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kodi Utara,Bukambero,119.155285529038,-9.45729649699996
+2650557,09-02-2021,578,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Lalong,120.23328905334,-8.71653549549995
+2930148,31-12-2021,15,babi,55,African swine fever,Kalimantan Barat,Sintang,Tempunak,Gurung Mali,111.325488349895,-0.316667601499944
+2941805,19-06-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Rote Barat Laut,Busalangga,123.012101639321,-10.801464957
+2860986,18-10-2021,27,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Bukit Liti,114.102765612273,-1.85136640099995
+2651782,10-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Golo Bilas,119.897718408819,-8.56629649599995
+2664427,24-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2638048,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Watuliwung,122.262882380977,-8.65649097499997
+2647043,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Du,122.220198887179,-8.73058639049995
+2768611,08-07-2021,50,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan Selatan,Long Padi,115.94950151565,3.61159336600005
+2891233,16-11-2021,2,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Sebangau,Sabaru,113.966430950136,-2.10155757899997
+2668949,01-03-2021,299,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Laranwuntun,123.486962121385,-8.31854694899997
+2934065,21-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2668537,15-01-2021,387,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Kima Kamak,123.04212636535,-8.32120396049996
+2676693,08-03-2021,20,babi,55,African swine fever,Bangka Belitung,Bangka,Sungai Liat,Jelitik,106.109899389299,-1.84521746619945
+2688752,22-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Mataloko,121.039399050962,-8.80025198949997
+2669547,02-03-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Balauring,123.70278642238,-8.27968544149994
+2650471,09-02-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Golo Bilas,119.897718408819,-8.56629649599995
+2787212,31-07-2021,2,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Purba Dolok,98.7333210214289,2.19199405650005
+2662245,22-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Utara,121.073744027564,-8.47320748999994
+2733208,24-05-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inegena,120.984667424792,-8.69333048999994
+2685299,18-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Trikora,120.951753969437,-8.77208599049993
+2892438,17-11-2021,3,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Sebangau,Sabaru,113.966430950136,-2.10155757899997
+2936001,07-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Limaggu,121.982320523831,-10.4955049769999
+2861008,18-10-2021,2,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Manen Kaleka,113.98639380134,-1.62285822599995
+2920900,19-12-2021,150,babi,55,African swine fever,Kalimantan Barat,Sintang,Tempunak,Kenyabur Baru,111.460222522328,-0.140078075499957
+2646986,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+3136462,15-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2689468,26-02-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Petuntawa,123.463902940423,-8.30008194899995
+2810756,01-09-2021,3,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Bonani Onan,98.7497238075031,2.24511550400007
+2669841,15-01-2021,82,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Waiwerang Kota,123.145162446308,-8.36650445799995
+2670003,15-01-2021,219,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Ratu Lodong,122.892842677568,-8.13351646449993
+2749235,14-06-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Selatan,Wogowela,120.995672299496,-8.92499448899997
+2679621,11-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Masu,121.058625633344,-8.70692648999994
+2691088,25-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2685796,02-03-2021,75,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Atakera,123.453419750423,-8.50623244849996
+2670000,15-01-2021,427,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Sinamalaka,122.925568179276,-8.15785096399995
+2934014,09-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Nadawawi,121.900003324573,-10.4970999785
+2662632,23-02-2021,26,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Macang Pacar,Pacar,120.190290231719,-8.49572949549994
+2647269,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Watugong,122.241171540774,-8.68397347649994
+2934989,27-02-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2689164,22-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Mangulewa,121.00021614511,-8.80331649049995
+2679065,10-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Barat,Kalaki Kambe,119.248770424993,-9.54555499799997
+2689749,04-03-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Napasabok,123.50085001535,-8.25835594799997
+2670665,15-01-2021,88,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Lamablawa,123.250949466798,-8.28701195499994
+2678412,10-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Jawameze,120.944207272654,-8.77496099049998
+2847847,04-10-2021,35,babi,55,African swine fever,Kalimantan Timur,Kutai Barat,Manor Bulatn,Sakaq Lotoq,115.988355252738,0.0417020410000646
+2781954,25-07-2021,35,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan Selatan,Ba Binuang,115.952783230374,3.75277602700004
+2657816,17-02-2021,43,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Macang Pacar,Compang,120.21541203891,-8.54192849449996
+2858806,15-10-2021,5,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2934941,24-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Ree Madia,121.891777103345,-10.4653177515
+2705187,13-04-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Dadawea,121.054780860874,-8.85115698949997
+2936956,10-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimau,121.934646905064,-10.437492936
+2935999,06-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimau,121.934646905064,-10.437492936
+2650403,09-02-2021,70,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Watu Tiri,120.215788,-8.726305
+2669660,15-01-2021,380,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Tuawolo,123.200925791048,-8.35710695549994
+2669665,15-01-2021,56,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Narasaosina,123.166317701772,-8.36032045699997
+2919231,16-12-2021,20,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Mentebah,Tekalong,112.815586338774,0.574696630000034
+2862425,19-10-2021,11,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Sepang,Tewai Baru,113.891014369109,-1.20049160699995
+2638051,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Langir,122.25464932281,-8.65601547549997
+2671973,04-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2638297,26-01-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waigete,Wairterang,122.457444087995,-8.65791247149994
+2670647,15-01-2021,28,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Balaweling,123.25225174872,-8.25055445599995
+2669911,15-01-2021,20112,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Nayubaya,123.055084258956,-8.38891845999996
+2685767,02-03-2021,45,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Belobao,123.413926700387,-8.52938495049995
+2667089,15-01-2021,85,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Hokeng Jaya,122.779103293958,-8.51337746549996
+2689495,26-02-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Tagawiti,123.429430941677,-8.27597644949995
+2663080,23-02-2021,175,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Surunumbeng,120.208720753558,-8.75982649499994
+2670004,15-01-2021,331,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Sina Hadigala,122.868941722185,-8.15291596399996
+2696245,31-03-2021,308,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Barat Laut,Beang Onong,124.030611087948,-8.33717542849996
+2847841,04-10-2021,50,babi,55,African swine fever,Kalimantan Timur,Kutai Barat,Manor Bulatn,Gemuruh,115.928910818517,-0.025336943999946
+2642048,29-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Magepanda,Magepanda,122.056566395634,-8.56130097899995
+2938083,22-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2750929,16-06-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Turekisa,121.022031188809,-8.65213248999996
+2683882,16-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2683869,05-02-2021,10,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Kampung Dalam,98.4821369737977,3.11053416800007
+2715092,25-04-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Warupele Ii,120.90679306824,-8.89958199099993
+2669522,15-01-2021,412,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Bura,Birawan,122.82612465003,-8.55045296499995
+3136649,15-02-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Dadawea,121.054780860874,-8.85115698949997
+2654964,15-02-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Bola,Ipir,122.330184071177,-8.72419147399995
+2731843,21-05-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inelika,120.966991439547,-8.72085799099995
+2655296,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Wutung,122.231706996152,-8.70312447649994
+2768102,07-07-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Aimere,Foa,120.880399545477,-8.83721899199998
+2655292,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Seusina,122.297389570969,-8.68505647549995
+2679378,11-03-2021,69,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Watu Tiri,120.215788,-8.726305
+2662362,23-02-2021,152,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Wae Mose,120.188529862203,-8.70914499599996
+2647272,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Du,122.220198887179,-8.73058639049995
+2669481,02-03-2021,160,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Duawutun,123.287812747333,-8.48181895399995
+2638371,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Nebe,122.552775372902,-8.49651846999996
+2666318,26-02-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nubatukan,Waijarang,123.350233764707,-8.40640895199996
+2850834,07-10-2021,11,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Mihing Raya,Rangan Tate,113.849076885577,-1.11465400449993
+2669925,15-01-2021,157,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Tobilota,123.0135365066,-8.36676496049995
+2861027,18-10-2021,12,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Bawan,113.895720442067,-1.43705904499993
+2862420,19-10-2021,12,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Petak Bahandang,113.893311372346,-0.813397079499964
+2856995,13-10-2021,2,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Nanga Lot,112.179031,0.303852
+2860970,18-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2666335,26-02-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Tapolangu,123.589872676686,-8.29793594449995
+2673929,05-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Takari,Takari,123.983256591379,-9.99423642399995
+2711549,20-04-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Inerie,120.905589523664,-8.88078749099995
+2674252,05-03-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Radabata,121.034701090573,-8.85532899049997
+2670667,15-01-2021,19,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Weranggere,123.265417733262,-8.29369095549995
+2655270,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Ian Tena,122.283233355147,-8.69486897499993
+2670675,15-01-2021,292,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Tenawahang,122.754290195896,-8.39685496699994
+2673860,05-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kadi Pada,119.255307641982,-9.48402099749995
+2669817,15-01-2021,80,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Lelenbala,123.169313711322,-8.31716545649996
+2847697,04-10-2021,36,babi,55,African swine fever,Kalimantan Timur,Kutai Barat,Nyuatan,Jontai,115.336311575253,-0.32874248899995
+2692891,27-03-2021,111,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Tengah Utara,Kafakbeka,124.643285866195,-8.22205540099995
+2689159,22-03-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Rakalaba,121.01800997226,-8.82350449099994
+2897312,30-11-2021,199,babi,55,African swine fever,Kalimantan Timur,Kutai Timur,Kombeng,Miau Baru,117.103717298618,1.31815874600005
+2686255,02-03-2021,53,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Lebewala,123.665407086533,-8.29241194299996
+2731173,11-04-2021,4,babi,55,African swine fever,Jawa Timur,Blitar,Sutojayan,Kalipang,112.190172142441,-8.20180606849996
+2935596,05-04-2021,20,babi,55,African swine fever,Jawa Timur,Gresik,Menganti,Pengalangan,112.61607649963,-7.27371215849996
+2668268,28-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Faobata,120.995432273752,-8.76036649049996
+2938066,19-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2675118,06-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Panyola Umbu,119.30289164708,-9.42545999749996
+2863879,20-10-2021,10,babi,55,African swine fever,Kalimantan Tengah,Katingan,Katingan Hilir,Kasongan Lama,113.386642511199,-1.86292541049994
+2934955,24-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2686387,19-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Malanuza,121.062161495791,-8.82968748949995
+2669516,02-03-2021,52,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Todanara,123.504634751771,-8.30050894649997
+2685849,02-03-2021,99,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Jontona,123.521669109831,-8.29516544749995
+2648169,07-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2914363,10-12-2021,400,babi,55,African swine fever,Kalimantan Barat,Mempawah,Anjongan,Dema,109.211549,0.364629
+2661812,22-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Lebijaga,120.970522597437,-8.76000698999997
+2670029,02-03-2021,166,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Mahal,123.770648552189,-8.27226293799995
+2696047,26-01-2021,6,babi,55,African swine fever,Sumatera Utara,Tanjung Balai,Datuk Bandar,Sirantau,99.7690689985638,2.94284700400004
+2666977,15-01-2021,381,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Mandiri,Riang Kemie,122.92241206521,-8.26977346249996
+2845157,01-10-2021,8,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Hurung Bunut,113.929247816083,-0.976001590499948
+2655212,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Takaplager,122.191310441174,-8.64152147649995
+2689157,22-03-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Sobo I,121.022031188809,-8.65213248999996
+2650818,09-02-2021,85,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Sano Nggoang,Golo Leleng,120.071595552325,-8.68187999549997
+2665964,26-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2689556,23-03-2021,1,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Lumban Sitorus,99.166715,2.477897
+2669902,15-01-2021,1540,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Helanlangowuyo,123.264256409986,-8.36437395449997
+2640701,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tanaduen,122.268648698233,-8.65681697599996
+2936002,07-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimau,121.934646905064,-10.437492936
+2757901,24-06-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2665650,25-02-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Sobo I,121.022031188809,-8.65213248999996
+2732378,22-05-2021,62,babi,55,African swine fever,Kalimantan Timur,Berau,Gunung Tabur,Maluang,117.599662001251,2.31590342500004
+2655198,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Nangameting,122.237628339763,-8.64527997599996
+2710079,19-04-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Warupele Ii,120.90679306824,-8.89958199099993
+2646974,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+2667097,15-01-2021,87,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara,Kolimasang,123.198027,-8.278737
+2668543,15-01-2021,94,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Danibao,123.076176467585,-8.32751345999998
+2721585,03-05-2021,2,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sarudik,Sarudik,98.8473801959637,1.72679959700005
+3136548,15-02-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Barat,121.073744027564,-8.47320748999994
+2668972,15-01-2021,746,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Lewolema,Bantala,122.894950754054,-8.29189496399997
+2670888,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Barat,Tanah Lein,122.899787544894,-8.58588696249996
+2647001,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Kringa,122.590483356055,-8.52217746899996
+2686258,01-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Watodiri,123.494707970807,-8.33414794699996
+2668947,01-03-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Muruona,123.4733834246,-8.34371794949993
+2657509,17-02-2021,2,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Lumban Manurung,99.3300711342615,2.38032375550003
+2663092,23-02-2021,394,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Watu Tiri,120.215788,-8.726305
+2666997,15-01-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Waihali,122.981147940971,-8.30158396199997
+2671047,03-03-2021,28,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Pacar,Loha,120.171430525749,-8.55554049599994
+2870468,27-10-2021,16,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Bati,112.063936288341,0.379063398000028
+2933994,06-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Nadawawi,121.900003324573,-10.4970999785
+2666973,15-01-2021,425,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Mandiri,Watotutu,122.950765855856,-8.23967546299997
+2675507,07-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2765770,03-07-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ende,Ndona,Nanganesa,121.698333600304,-8.83118448349995
+2655905,16-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Wae Kelambu,119.94670174618,-8.49957849699996
+2677073,08-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Tarus,123.665688944542,-10.150179936
+2666329,26-02-2021,522,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Merdeka,123.538607751925,-8.38794994599994
+2936937,22-10-2021,12,babi,55,African swine fever,Kalimantan Barat,Melawi,Belimbing,Batu Buil,111.670491762288,-0.269286043999955
+2935992,04-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2651374,10-02-2021,29,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Welak,Wewa,120.216571192089,-8.62184349449996
+2847687,04-10-2021,86,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Palangka,113.841694778833,-1.96899539249995
+2829108,19-09-2021,15,babi,55,African swine fever,Kalimantan Timur,Mahakam Ulu,Long Pahangai,Long Tuyoq,114.710747820891,1.03868824250006
+2667081,15-01-2021,782,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Waiula,122.7807171267,-8.58253846549997
+2673864,05-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Barat,Kalaki Kambe,119.248770424993,-9.54555499799997
+2669845,15-01-2021,277,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Waiburak,123.164181812132,-8.37435595699998
+2670036,02-03-2021,52,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Peusawah,123.761288191414,-8.27879393949993
+2679529,11-03-2021,45,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Benteng Tado,120.215788,-8.726305
+2669832,15-01-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Karinglamalouk,123.204970538137,-8.33978345549997
+2937217,29-03-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2684028,28-01-2021,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Paranginan,Lobu Tolong,98.8928342971091,2.27238820650004
+2937027,16-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2655320,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Kota Baru,122.232408168893,-8.63557197549994
+2647274,05-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Hepang,122.173151888666,-8.71628547699996
+2670018,15-01-2021,216,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Demon Pagong,Lamika,122.831331345051,-8.41569646549996
+2689493,26-02-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nubatukan,Waijarang,123.350233764707,-8.40640895199996
+2655319,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Kota Baru,122.232408168893,-8.63557197549994
+2683956,16-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2667093,15-01-2021,148,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Timur,Wulublolong,123.040486424258,-8.44603595999996
+2665549,25-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2938103,25-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+3136512,15-02-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Benteng Tengah,121.012216613804,-8.43986898999995
+2669656,15-01-2021,352,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Lamatewelu,123.203714042789,-8.37445782549997
+2647263,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tanaduen,122.268648698233,-8.65681697599996
+2930157,31-12-2021,9,babi,55,African swine fever,Kalimantan Barat,Sintang,Tempunak,Sungai Buluh,111.257992,-0.280709
+2682868,15-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2670671,15-01-2021,66,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Tobitika,123.317290523821,-8.26305895349995
+2653391,12-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2669903,15-01-2021,91,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Harubala,123.281316259899,-8.36425895499997
+2682855,15-03-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2655269,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Bola,Ipir,122.330184071177,-8.72419147399995
+2647265,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wolomarang,122.2075175071,-8.61475447749993
+2692262,26-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2655311,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wolomarang,122.2075175071,-8.61475447749993
+2866379,23-10-2021,5,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Sejiram,111.973492947955,0.427270785000047
+2863621,20-10-2021,50,babi,55,African swine fever,Bangka Belitung,Bangka Tengah,Pangkalan Baru,Benteng,106.188079320183,-2.31868749999995
+2873644,29-10-2021,5,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2858807,15-10-2021,5,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Petuk Katimpun,113.796073420262,-1.83410465699995
+2657819,17-02-2021,112,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Pacar,Loha,120.171430525749,-8.55554049599994
+2638264,26-01-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tekaiku,122.250455578596,-8.69610047599994
+2652335,11-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Utara,Wee Paboba,119.397234739979,-9.53400799699995
+2662583,23-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Nggorang,119.939584115131,-8.57394099599998
+2861007,18-10-2021,3,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Manen Paduran,113.951850114447,-1.66177487399995
+2695372,30-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Selatan,Sadha,121.083774836514,-8.86165248949996
+2938079,21-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2657822,17-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2640781,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Wutung,122.231706996152,-8.70312447649994
+2655233,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Baang Koor,122.640147731204,-8.48322269149998
+2640571,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Takaplager,122.191310441174,-8.64152147649995
+3136596,15-02-2021,357,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi,121.119295159246,-8.47870598949996
+3136559,15-02-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Timur,121.073744027564,-8.47320748999994
+2691096,25-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Piga,121.080480653266,-8.69641098949995
+2903218,28-11-2021,2,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Pandumaan,98.6884978929902,2.28295908800004
+2655200,15-02-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Watugong,122.241171540774,-8.68397347649994
+2938048,24-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Huwaga,121.934507283399,-10.454080362
+2924690,24-12-2021,1,babi,55,African swine fever,Kalimantan Barat,Sintang,Kelam Permai,Kebong,111.627026174224,0.0652541685000472
+2859475,16-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2669486,02-03-2021,45,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Belobao,123.413926700387,-8.52938495049995
+2937114,23-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2662546,23-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2941801,17-06-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Rote Barat Laut,Busalangga,123.012101639321,-10.801464957
+2670690,15-01-2021,476,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Lewolaga,122.763854800361,-8.43125946599997
+2689054,22-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2685792,02-03-2021,52,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Peusawah,123.761288191414,-8.27879393949993
+2647185,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wolomarang,122.2075175071,-8.61475447749993
+2642062,29-01-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Talibura,122.536807502603,-8.54916896999995
+2861036,18-10-2021,5,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Tangkahen,113.916072468043,-1.31540417649995
+2654403,14-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Pogotena,119.30289164708,-9.42545999749996
+2689455,01-03-2021,113,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Buriwutung,123.813135551884,-8.19762493799996
+2768613,08-07-2021,20,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan Selatan,Ba Liku,115.873319820133,3.73156642900005
+2724568,06-05-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2655306,15-02-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Bola,Bola,122.299006472442,-8.73305197499997
+2669650,15-01-2021,183,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Lewobunga,123.172882410131,-8.35114995749996
+2668542,15-01-2021,186,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Hurung,123.05173598781,-8.30196446049996
+2668950,01-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Amakaka,123.482147387895,-8.26248394849998
+2685836,02-03-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Lamatokan,123.543651728398,-8.25359344649996
+2863743,20-10-2021,12,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Bukit Batu,Marang,113.745839850326,-1.78681668199994
+2669922,15-01-2021,596,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Klukengnuking,123.086674715584,-8.37277995949995
+2677201,09-03-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Keo Tengah,Kotadirumali,121.282318715727,-8.89022898699994
+2829105,19-09-2021,4,babi,55,African swine fever,Kalimantan Timur,Mahakam Ulu,Long Pahangai,Naha Aru,114.634920806098,1.06750252850006
+2664422,24-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Langagedha,120.939386936894,-8.79304749149995
+2667001,15-01-2021,132,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Weri,122.999310219616,-8.26739796249996
+2662240,22-02-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Benteng Tengah,121.012216613804,-8.43986898999995
+2661982,22-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2938119,18-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bolou,121.967546262596,-10.4835199779999
+2851268,07-10-2021,4,babi,55,African swine fever,Kalimantan Tengah,Katingan,Katingan Hilir,Kasongan Lama,113.386642511199,-1.86292541049994
+2664421,24-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2664426,24-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2668977,01-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Tobotani,123.886695414502,-8.23238543399995
+2669038,15-01-2021,49,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Klubagolit,Sukutokan,123.236249314387,-8.30350095599997
+2690851,24-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Nangamese,121.002741888646,-8.41054348949996
+2692264,26-03-2021,44,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2638362,26-01-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Wolomotong,122.344415507776,-8.72082847349995
+2669929,15-01-2021,135,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Kawela,123.067065995046,-8.37790395999997
+2937158,24-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Limaggu,121.982320523831,-10.4955049769999
+2855486,12-10-2021,29,babi,55,African swine fever,Kalimantan Tengah,Katingan,Katingan Tengah,Tewang Panjang,113.148715842672,-1.48403030599997
+2661838,22-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Lebijaga,120.970522597437,-8.76000698999997
+2638709,26-01-2021,22,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2678420,10-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Trikora,120.951753969437,-8.77208599049993
+2904918,30-11-2021,3,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2662029,22-02-2021,26,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Lendong,120.215788,-8.726305
+2669635,15-01-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Kwaelaga Lamawato,123.220467300614,-8.33934664799995
+2638370,26-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Watumerak,122.364727933476,-8.71853297299995
+3136491,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Denatana,121.062816465487,-8.63012198999996
+2650596,09-02-2021,102,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor,Daleng,120.193381592124,-8.68912699449996
+2828478,18-09-2021,35,babi,55,African swine fever,Kalimantan Timur,Mahakam Ulu,Long Pahangai,Long Pahangai Satu,114.687744013771,0.801719934000062
+2854043,11-10-2021,8,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Tumbang Habaon,113.653935893555,-0.702330290999953
+2646285,04-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2933923,16-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2670032,02-03-2021,127,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Mahal Ii,123.782423461831,-8.27055093849995
+2669824,15-01-2021,80,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Dawataa,123.110003885553,-8.35801945899996
+3134576,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Jawameze,120.944207272654,-8.77496099049998
+2810751,01-09-2021,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Sijama Polang,Siborboron,98.6862256782405,2.17641995850002
+2655213,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Namangkewa,122.292596362021,-8.63916584149993
+2741378,06-05-2021,1,babi,55,African swine fever,Jawa Timur,Blitar,Sutojayan,Kalipang,112.190172142441,-8.20180606849996
+2669498,15-01-2021,124,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Bura,Dulipali,122.823217233347,-8.52888746599993
+2935993,04-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2655268,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tanaduen,122.268648698233,-8.65681697599996
+2669993,15-01-2021,80,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Tengah,Kenotan,123.119338059252,-8.30165845849996
+2655439,15-02-2021,56,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Munting,120.200091888354,-8.72996049549994
+2664431,24-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2651609,10-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2667095,15-01-2021,27,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara,Kolilanang,123.171114485796,-8.27819995699994
+2848969,05-10-2021,2,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Menteng,113.836827334665,-2.02168911699997
+2674612,05-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2638534,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Ladogahar,122.148486966754,-8.62110097749996
+2669110,01-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Boawae,Nagesapadhi,121.150177733186,-8.78541148799994
+2776047,14-07-2021,52,babi,55,African swine fever,Kalimantan Timur,Berau,Gunung Tabur,Maluang,117.599662001251,2.31590342500004
+2768865,08-07-2021,2,babi,55,African swine fever,Kalimantan Utara,Malinau,Malinau Kota,Batu Lidung,116.694046442794,3.43823798750006
+3136420,15-02-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inegena,120.984667424792,-8.69333048999994
+2670681,15-01-2021,545,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Kobasoma,122.716322241083,-8.38406696699994
+2903242,28-11-2021,5,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Parlilitan,Sihas Tonga,98.4888269590218,2.24098501900005
+2684056,08-01-2021,2,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Pakkat,98.8014834857013,2.22372208650003
+2691093,25-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kodi,Koki,119.040672112446,-9.59722599699995
+2669043,15-01-2021,33,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Klubagolit,Lamabunga,123.210021921655,-8.26948745699994
+2639897,27-01-2021,22,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2886569,11-11-2021,2,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2678133,09-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Wae Kelambu,119.94670174618,-8.49957849699996
+2670051,02-03-2021,77,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Leuwayang,123.744487048975,-8.23033693949995
+2851111,07-10-2021,30,babi,55,African swine fever,Kalimantan Tengah,Katingan,Tewang S Garing,Hapalam,113.324383904749,-1.76879584799997
+2745506,09-06-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Ende,Ndona,Nanganesa,121.698333600304,-8.83118448349995
+2659034,18-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2668533,15-01-2021,568,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Waiwadan,123.061590641324,-8.30420245949998
+2935989,03-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Huwaga,121.934507283399,-10.454080362
+2655226,15-02-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Lorang,122.22978706217,-8.68015647549996
+2656052,16-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2941766,17-05-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Rote Barat Daya,Oebaffok,122.975566363604,-10.8326749574999
+2861018,18-10-2021,11,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Ramang,113.928838539933,-1.53232735399996
+3136662,15-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Jawameze,120.944207272654,-8.77496099049998
+2650681,09-02-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Kamot,124.765372584872,-8.20068989349997
+2670725,15-01-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Barat,Ongalereng,122.988177344232,-8.45628296099994
+2934999,27-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2692266,26-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Meliwaru,121.058625633344,-8.70692648999994
+2664326,24-02-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Nabelena,120.925883219994,-8.69671599149996
+2862442,19-10-2021,5,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tumbang Hakau,113.844491091473,-1.02862465399994
+2668982,15-01-2021,943,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Lewolema,Riangkotek,122.887821627762,-8.28267896499995
+2936005,08-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimau,121.934646905064,-10.437492936
+2678414,10-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Kisanata,120.952155126981,-8.77787649049998
+2669506,02-03-2021,193,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Lamalera B,123.409207993738,-8.55235644949997
+2666319,26-02-2021,56,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nubatukan,Nuba Mado,123.404783319389,-8.41859050349996
+3136488,15-02-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Nginamanu Selatan,121.022031188809,-8.65213248999996
+2669042,15-01-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Klubagolit,Hinga,123.217032850476,-8.28929795699995
+2670636,15-01-2021,36,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Lewopulo,123.246476274784,-8.26878695499994
+2641448,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Lela,122.185361811433,-8.72150297599995
+2659669,19-02-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Macang Pacar,Waka,120.189503527121,-8.46262049599994
+2669886,15-01-2021,494,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Duablolong,123.291871778386,-8.32703095349996
+2640733,28-01-2021,4,babi,55,African swine fever,Jawa Tengah,Boyolali,Boyolali,Karanggeneng,110.611255999473,-7.51800399999993
+2850846,07-10-2021,64,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Kel. Tewah,113.655616992668,-0.751095831499953
+2768871,08-07-2021,2,babi,55,African swine fever,Kalimantan Utara,Malinau,Mentarang,Pulau Sapi,116.301372189204,3.80011188950004
+2669870,15-01-2021,228,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Lewat,123.231537,-8.375576
+2829107,19-09-2021,19,babi,55,African swine fever,Kalimantan Timur,Mahakam Ulu,Long Pahangai,Long Isun,114.701796582423,1.01486441450004
+2670023,15-01-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Demon Pagong,Watotika Ile,122.867964880724,-8.39768546449997
+3136653,15-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Faobata,120.995432273752,-8.76036649049996
+2662526,23-02-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2724353,06-05-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2862426,19-10-2021,2,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tumbang Manyangan,113.807378411841,-0.745131581999971
+2669039,15-01-2021,26,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Klubagolit,Mangaaleng,123.190039753697,-8.28791595749996
+2861021,18-10-2021,1,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Tambak,113.925038310661,-1.50936603499997
+2941958,21-12-2021,4,babi,55,African swine fever,Kalimantan Barat,Singkawang,Singkawang Timur,Bagak Sahwa,109.08602029055,0.88087493200004
+2730431,19-05-2021,21,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2689294,23-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Selatan,Sadha,121.083774836514,-8.86165248949996
+2647270,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Du,122.220198887179,-8.73058639049995
+2934942,24-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Ree Madia,121.891777103345,-10.4653177515
+2676052,08-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor,Wae Mowol,120.122446749714,-8.75342949599994
+2655259,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Kolidetung,122.148788552113,-8.72162747799996
+2655255,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waigete,Wairterang,122.457444087995,-8.65791247149994
+2668965,01-03-2021,113,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Buriwutung,123.813135551884,-8.19762493799996
+2937223,28-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2941843,09-07-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Rote Barat Laut,Busalangga,123.012101639321,-10.801464957
+2686276,01-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Tobotani,123.886695414502,-8.23238543399995
+2669884,15-01-2021,259,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Lewopao,123.274665943555,-8.36534895399996
+2680007,03-03-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Lamalera A,123.392261643212,-8.55507694999994
+2869088,25-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2689448,01-03-2021,299,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Laranwuntun,123.486962121385,-8.31854694899997
+3136386,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inelika,120.966991439547,-8.72085799099995
+2663047,23-02-2021,59,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Surunumbeng,120.208720753558,-8.75982649499994
+2860985,18-10-2021,13,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Petuk Liti,114.111933856368,-1.87504792249996
+2686976,07-03-2021,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Utara,Pagaran,Sipultak,98.8845768798825,2.16936205550005
+2655257,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Kolidetung,122.148788552113,-8.72162747799996
+2828894,18-09-2021,3,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Tuwung,114.15493184763,-1.91458898799993
+2664430,24-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2644279,01-02-2021,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Kampung Dalam,98.4821369737977,3.11053416800007
+2676670,08-03-2021,77,babi,55,African swine fever,Jawa Timur,Kediri,Wates,Segaran,112.094958025162,-7.93138551699994
+3136397,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Wololika,120.995685877912,-8.71289199049997
+2649376,08-02-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2685826,02-03-2021,174,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Wuakerong,123.305203735807,-8.46977245299996
+2691166,25-03-2021,52,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Nginamanu,121.120193142018,-8.64601849049996
+2668651,01-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Wae Kelambu,119.94670174618,-8.49957849699996
+2861017,18-10-2021,14,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Hanua,113.935964419229,-1.55363881549997
+2665359,25-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2861034,18-10-2021,2,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Pangi,113.93315524171,-1.33192741899995
+2685828,02-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Leubatang,123.718240532982,-8.30643743949994
+2727311,11-05-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Inerie,120.905589523664,-8.88078749099995
+2667090,15-01-2021,92,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Klatanlo,122.744103752284,-8.52199096849998
+3136688,15-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Wololika,120.995685877912,-8.71289199049997
+2938058,18-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2647261,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tanaduen,122.268648698233,-8.65681697599996
+2685803,02-03-2021,67,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Roma,123.730899957293,-8.23361693949994
+2910731,13-09-2021,4,babi,55,African swine fever,Sumatera Utara,Dairi,Siempat Nempu,Sihorbo,98.1766222682855,2.84811374950004
+2689519,28-02-2021,404,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nubatukan,Pada,123.469837427735,-8.39168309449994
+2642064,29-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Talibura,122.536807502603,-8.54916896999995
+3136655,15-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2936977,12-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eilode,121.928315147023,-10.4682356185
+2689483,26-02-2021,66,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Waienga,123.594612587847,-8.35118944449994
+2651371,10-02-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Welak,Galang,120.207463084028,-8.66316349499996
+2686278,01-03-2021,141,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Benihading,123.792949748344,-8.24103493749993
+2669103,01-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Selatan,Were Ii,121.080936755949,-8.89462548849997
+2655291,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Geliting,122.302228071,-8.66118863549997
+2655314,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Kokowahor,122.267346176067,-8.67797697599994
+2937201,28-03-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Limaggu,121.982320523831,-10.4955049769999
+2862434,19-10-2021,2,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Teluk Lawah,113.735869,-0.994348
+2683903,16-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Libunio,121.058625633344,-8.70692648999994
+2860992,18-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2664984,25-02-2021,100,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Aesesa,Danga,121.266888679026,-8.58567198899996
+2637157,25-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2666346,26-02-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Petuntawa,123.463902940423,-8.30008194899995
+2717744,28-04-2021,25,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sitahuis,Bonan Dolok,98.8121706103123,1.76530163400005
+2854040,11-10-2021,11,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Kuala Kurun,113.83822959897,-0.784466147499955
+2861001,18-10-2021,8,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Parahangan,114.005623088803,-1.70087027549994
+2666999,15-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lokea,123.009707303545,-8.30766346199997
+2856468,30-08-2021,1,babi,55,African swine fever,Kalimantan Timur,Kutai Timur,Kombeng,Miau Baru,117.103717298618,1.31815874600005
+2908932,03-12-2021,3,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pandan,Aek Tolang,98.8649281467216,1.67875503450006
+2677283,09-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2642081,29-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Hewokloang,Munerana,122.290994309757,-8.66035327249995
+2921592,20-12-2021,56,babi,55,African swine fever,Kalimantan Barat,Sintang,Tempunak,Kupan Jaya,111.34983,-0.244413
+2667080,15-01-2021,889,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Hewa,122.741221851305,-8.57928596699995
+2655290,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Kopong,122.292072327668,-8.69114647549995
+2669852,15-01-2021,89,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Bayuntaa,123.245007,-8.381397
+2865938,22-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2685797,02-03-2021,58,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Belabaja,123.381805063134,-8.46309944999996
+2668544,15-01-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Wai Tukan,123.0388994005,-8.32617346049997
+2933961,05-02-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2665792,25-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Latung,120.967930947591,-8.42112699049994
+2738117,30-05-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Watukapu,120.953183298437,-8.69420949049996
+2666160,15-01-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Tengah,Katikutana,Anakalang,119.58849582218,-9.57363449749994
+2685754,02-03-2021,130,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Hoelea,123.721120792782,-8.24724194049995
+2810754,01-09-2021,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Simangaronsang,98.741624,2.297217
+2692888,27-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Teluk Mutiara,Welai Barat,124.568797546095,-8.24746040449995
+2655288,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Namangkewa,122.292596362021,-8.63916584149993
+2681876,15-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2689492,26-02-2021,56,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nubatukan,Nuba Mado,123.404783319389,-8.41859050349996
+2862431,19-10-2021,3,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Sarerangan,113.743170481834,-0.823518424999946
+2900189,25-11-2021,24,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2871249,27-10-2021,15,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Petuk Katimpun,113.796073420262,-1.83410465699995
+2862438,19-10-2021,3,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Upun Batu,113.687234088724,-0.715392678999962
+3136437,15-02-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Watukapu,120.953183298437,-8.69420949049996
+2664987,25-02-2021,100,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Aesesa,Danga,121.266888679026,-8.58567198899996
+2707833,16-04-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Nangamese,121.002741888646,-8.41054348949996
+2933932,20-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2670562,15-01-2021,192,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Sandosi,123.285156580902,-8.25881745399997
+2850848,07-10-2021,3,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tumbang Tambirah,113.827643890852,-0.754791825999973
+2850827,07-10-2021,11,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Pilang Munduk,113.89072723616,-1.04036927199996
+2689476,26-02-2021,398,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Baopana,123.514790569883,-8.37154294699997
+2863275,20-10-2021,8,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Sejiram,111.973492947955,0.427270785000047
+2669510,02-03-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Lamalera A,123.392261643212,-8.55507694999994
+2689449,01-03-2021,113,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Laranwuntun,123.486962121385,-8.31854694899997
+2669558,02-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Wailolong,123.641775928663,-8.24824394449993
+2666340,26-02-2021,40,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Tagawiti,123.429430941677,-8.27597644949995
+2685848,05-03-2021,50,babi,55,African swine fever,Sumatera Selatan,Muara Enim,Muara Enim,Harapan Jaya,103.855938292003,-3.61549799949995
+2650598,09-02-2021,59,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor,Poco Rutang,120.178563915435,-8.69613499499997
+2937092,21-03-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2670037,02-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Leubatang,123.718240532982,-8.30643743949994
+3136533,15-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Tadho,121.070748610381,-8.46317148999995
+2686365,19-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Sano Nggoang,Wae Lolos,119.992945719061,-8.62828699649995
+2670030,15-01-2021,326,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Demon Pagong,Lewokluok,122.835411416814,-8.33997696549994
+2670040,02-03-2021,313,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Meluwiting,123.730884256226,-8.26862393949995
+2667137,27-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2692260,26-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Meliwaru,121.058625633344,-8.70692648999994
+2690853,24-03-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Barat,121.073744027564,-8.47320748999994
+2668603,01-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Mataloko,121.039399050962,-8.80025198949997
+2668985,01-03-2021,47,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Atulaleng,123.803949532493,-8.23336243849994
+2638373,26-01-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Watumerak,122.364727933476,-8.71853297299995
+2685785,02-03-2021,313,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Meluwiting,123.730884256226,-8.26862393949995
+2933938,15-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Keduru,121.9548497545,-10.4830449785
+2665046,25-02-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Mauponggo,Lokalaba,121.166663028973,-8.87379998899996
+2663704,24-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Todabelu,121.050557412613,-8.81275448949995
+2934950,24-02-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raenyale,121.886849940842,-10.5426899795
+2670738,15-02-2021,132,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Barat,Dani Wato,122.946866191717,-8.49874296249996
+2655321,15-02-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Nangahale,122.512829903959,-8.57977597199994
+2690473,24-03-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2666996,15-01-2021,68,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Larantuka,122.98177805362,-8.31856296149994
+2867629,25-10-2021,14,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Miri Manasa,Mangkuhung,113.574274546327,-0.546927868999973
+2670012,15-01-2021,276,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Bahinga,122.824533563421,-8.17672496649996
+2669484,02-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Labalimut,123.356188138918,-8.49123095049995
+2686273,01-03-2021,142,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Loyobohor,123.836657045966,-8.24343993649995
+2686268,01-03-2021,921,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Ile Kimok,123.546954008265,-8.44501694599995
+2752901,18-06-2021,22,babi,55,African swine fever,Kalimantan Utara,Malinau,Malinau Selatan,Punan Gong Sulok,116.58138556252,3.13114917300007
+2668790,01-03-2021,10,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sarudik,Sarudik,98.8473801959637,1.72679959700005
+2693171,28-03-2021,22,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Timur,Ombay,124.288919204984,-8.24815541899997
+2689547,04-03-2021,290,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Laranwuntun,123.486962121385,-8.31854694899997
+2678318,10-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Wue,121.022031188809,-8.65213248999996
+2934958,25-02-2021,29,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2690477,24-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Ubedolumolo I,120.939386936894,-8.79304749149995
+2685825,02-03-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Balauring,123.70278642238,-8.27968544149994
+2937061,19-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimadake,121.92445982268,-10.4832349785
+2662886,23-02-2021,152,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Wae Mose,120.188529862203,-8.70914499599996
+2685830,02-03-2021,74,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Hingalamamengi,123.722694963332,-8.26487793949994
+2763633,30-06-2021,2,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Bonani Onan,98.7497238075031,2.24511550400007
+2907999,02-12-2021,5,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Embaloh Hilir,Belatung,112.519994,0.975479
+2938135,20-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bolou,121.967546262596,-10.4835199779999
+2646287,04-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2670685,15-01-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Duli Jaya,122.740075358828,-8.38496196549997
+2655297,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Hepang,122.173151888666,-8.71628547699996
+2669643,15-01-2021,85,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Kiwang Ona,123.186542345744,-8.34746345699995
+2680012,03-03-2021,166,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Mahal,123.770648552189,-8.27226293799995
+2655315,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Watumilok,122.278465985923,-8.65185447599995
+3136436,15-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Genamere,120.925883219994,-8.69671599149996
+2937088,20-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2850567,06-10-2021,60,babi,55,African swine fever,Kalimantan Tengah,Murung Raya,Murung,Beriwit,114.636406147327,-0.442310288499954
+2687675,21-03-2021,611,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Timur,Nule,124.236293795775,-8.35150891999996
+2669503,15-01-2021,374,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Bura,Nurri,122.821972354727,-8.52240296449995
+2655113,15-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Boleng,Mbuit,120.089464480379,-8.54245799449996
+3134567,15-02-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2768103,07-07-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Aimere,Aimere,120.8311603668,-8.81220949099995
+2689460,23-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2678670,13-01-2021,2,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Sisarahili I,97.4825152560269,1.06813494850005
+2738088,30-05-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Genamere,120.925883219994,-8.69671599149996
+2655309,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wolomarang,122.2075175071,-8.61475447749993
+2860984,18-10-2021,30,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Sigi,114.134118498189,-1.89428245999997
+2670687,15-01-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Leraboleng,122.799312169305,-8.36162196549998
+2670669,15-01-2021,28,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Watoone,123.267816519699,-8.30559145449996
+2655199,15-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Wolonterang,122.356178544903,-8.73332547299995
+2934051,16-02-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2851424,07-10-2021,25,babi,55,African swine fever,Kalimantan Tengah,Katingan,Pulau Malan,Buntut Bali,113.216548207564,-1.67035156499998
+2829106,19-09-2021,8,babi,55,African swine fever,Kalimantan Timur,Mahakam Ulu,Long Pahangai,Lirung Ubing,114.582447934579,0.778957784000028
+2689758,04-03-2021,295,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Waowala,123.448086026452,-8.28553594949994
+2850842,07-10-2021,4,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Kasintu,113.718063680169,-0.717091858499941
+2862542,19-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+3136539,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Utara,121.073744027564,-8.47320748999994
+2787221,31-07-2021,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Hutaraja,98.7436583180849,2.25678180200006
+2666959,15-01-2021,103,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Waibalun,122.952602247894,-8.31775146299995
+2854295,11-10-2021,36,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Sejiram,111.973492947955,0.427270785000047
+2871268,27-10-2021,6,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Beluis Harum,111.987670748617,0.320115715000071
+2686267,01-03-2021,120,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Mampir,123.802886666625,-8.19298143799995
+2650664,09-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2673881,05-03-2021,12,babi,55,African swine fever,Riau,Kampar,Tapung,Pantai Cermin,101.252516004064,0.523707225500033
+2650591,09-02-2021,49,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor,Tangge,120.158657158543,-8.71309299599997
+2781955,25-07-2021,34,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan Selatan,Long Padi,115.94950151565,3.61159336600005
+2839820,29-09-2021,17,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Mihing Raya,Dahian Tambuk,113.952147315685,-1.04308593249993
+2688952,22-03-2021,15,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sitahuis,Bonan Dolok,98.8121706103123,1.76530163400005
+3136444,15-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Uluwae I,120.925883219994,-8.69671599149996
+2669921,15-01-2021,558,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Oyangbarang,123.072051664461,-8.39487745999995
+2783350,27-07-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2938047,23-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Huwaga,121.934507283399,-10.454080362
+2651554,10-02-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Welak,Racang Welak,120.216571192089,-8.62184349449996
+2646284,04-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Selatan,Kelaisi Timur,124.704858108759,-8.28990789649995
+2709986,19-04-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Inerie,120.905589523664,-8.88078749099995
+2665405,25-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Sarasedu,121.082641966441,-8.81312348849997
+2667087,15-01-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Nileknoheng,122.710362099748,-8.44245496749997
+2670043,02-03-2021,74,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Hingalamamengi,123.722694963332,-8.26487793949994
+2685361,18-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Sobo I,121.022031188809,-8.65213248999996
+2670668,15-01-2021,107,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Pledo,123.292271170705,-8.29720645449993
+2646283,04-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Selatan,Kelaisi Timur,124.704858108759,-8.28990789649995
+2663109,23-02-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Nanga Lili,120.158476897944,-8.75765049449996
+2935007,28-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimau,121.934646905064,-10.437492936
+2661870,22-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Pape,120.939386936894,-8.79304749149995
+2850839,07-10-2021,4,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Petak Bahandang,113.893311372346,-0.813397079499964
+2652870,11-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2650436,09-02-2021,473,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Modo,120.215788,-8.726305
+2647253,05-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wolomarang,122.2075175071,-8.61475447749993
+2935995,05-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimadake,121.92445982268,-10.4832349785
+2655248,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waigete,Nangatobong,122.439719716601,-8.65710447199996
+2677842,09-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2670816,15-02-2021,64,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Barat,Nusadani,122.933047853442,-8.51519296349994
+2680014,03-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Alap Atadei,123.531425152649,-8.55430994599996
+2934929,23-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+3136456,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Uluwae II,120.925883219994,-8.69671599149996
+2668548,15-01-2021,536,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Wureh,123.03467690905,-8.34653496099995
+2665056,25-02-2021,525,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Aesesa,Lape,121.290283253831,-8.59184398699995
+2661746,22-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2638268,26-01-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wailiti,122.19205554137,-8.60809097699996
+2640783,28-01-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Lorang,122.22978706217,-8.68015647549996
+2936007,08-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2655304,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Blatatatin,122.274882435166,-8.70218747599995
+2686299,26-03-2021,522,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Merdeka,123.538607751925,-8.38794994599994
+2884035,09-11-2021,3,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2669528,02-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Aulesa,123.525956579221,-8.25896844649995
+2738354,31-05-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Uluwae,120.91401531135,-8.69303499099993
+2654960,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Wutung,122.231706996152,-8.70312447649994
+2810759,01-09-2021,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Purba Dolok,98.7333210214289,2.19199405650005
+2678623,22-02-2021,120,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Mampir,123.802886666625,-8.19298143799995
+2850837,07-10-2021,14,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Mihing Raya,Kel. Kampuri,113.850538980514,-1.08320122949996
+2641462,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waigete,Nangatobong,122.439719716601,-8.65710447199996
+2938092,23-03-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2666323,26-02-2021,208,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Lamatuka,123.497013388478,-8.38522230099994
+2936966,11-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Ree Madia,121.891777103345,-10.4653177515
+2638259,26-01-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tekaiku,122.250455578596,-8.69610047599994
+2655235,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Watumilok,122.278465985923,-8.65185447599995
+2833330,23-09-2021,6,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Putussibau Utara,Datah Dian,113.243140755247,1.21222728450005
+2935004,28-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2657830,17-02-2021,22,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Macang Pacar,Waka,120.189503527121,-8.46262049599994
+2936004,07-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2661863,22-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Ngedukelu,120.968158055964,-8.77322298949997
+2655908,16-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2640570,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Takaplager,122.191310441174,-8.64152147649995
+2668963,01-03-2021,120,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Mampir,123.802886666625,-8.19298143799995
+2669501,02-03-2021,53,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Imulolong,123.389814133207,-8.52068195049998
+2647183,05-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wailiti,122.19205554137,-8.60809097699996
+2850844,07-10-2021,6,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Tewah,Tumbang Pajangei,113.734585086341,-0.773410469499936
+2686271,01-03-2021,153,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Kolontobo,123.474191508712,-8.30923144849993
+2661867,22-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Ngedukelu,120.968158055964,-8.77322298949997
+2668945,01-03-2021,153,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Kolontobo,123.474191508712,-8.30923144849993
+2938317,05-07-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2810761,01-09-2021,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Hutaraja,98.7436583180849,2.25678180200006
+2642069,29-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+2683756,16-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Langagedha,120.939386936894,-8.79304749149995
+2670774,15-02-2021,44,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Barat,Lamaole,122.90765654382,-8.56277696249995
+2662548,23-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2674477,05-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Ubedolumolo I,120.939386936894,-8.79304749149995
+2683490,16-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kodi Utara,Bukambero,119.155285529038,-9.45729649699996
+2670039,02-03-2021,83,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Aramengi,123.732381774898,-8.27596743999993
+2666315,26-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nubatukan,Paobokol,123.368426118877,-8.43504445149995
+2666984,15-01-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Sarotari Tengah,122.981147940971,-8.30158396199997
+2856791,13-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Tanjung Keliling,112.073746,0.427303
+2670011,15-01-2021,423,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Lamatutu,122.814722068293,-8.12878946599994
+2663703,24-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Mataloko,121.039399050962,-8.80025198949997
+2657811,17-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Macang Pacar,Kombo Selatan,120.189503527121,-8.46262049599994
+2689489,26-02-2021,208,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Lamatuka,123.497013388478,-8.38522230099994
+2670053,02-03-2021,84,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Leudanung,123.753800964655,-8.21770693949998
+2669489,02-03-2021,75,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Atakera,123.453419750423,-8.50623244849996
+2938138,02-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Keduru,121.9548497545,-10.4830449785
+2669531,15-01-2021,314,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Bura,Riang Bura,122.804797964026,-8.56717996549995
+2689018,22-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2670679,15-01-2021,463,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Watowara,122.750478512303,-8.35719546749996
+2866107,22-10-2021,40,babi,55,African swine fever,Kalimantan Tengah,Kapuas,Pasak Talawang,Sei Ringin,114.04047541721,-0.87626260549996
+2661748,22-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Panyola Umbu,119.30289164708,-9.42545999749996
+2658562,18-02-2021,32,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Macang Pacar,Pong Kalong,120.189503527121,-8.46262049599994
+2930070,31-12-2021,380,babi,55,African swine fever,Kalimantan Barat,Sintang,Binjai Hulu,Binjai Hulu,111.459498233097,0.200711689500054
+2640793,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Du,122.220198887179,-8.73058639049995
+2667091,15-01-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Timur,Lewohedo,123.016207322896,-8.45039946099996
+2711553,20-04-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Warupele Ii,120.90679306824,-8.89958199099993
+2669483,02-03-2021,174,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Wuakerong,123.305203735807,-8.46977245299996
+2850830,07-10-2021,8,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Hurung Bunut,113.929247816083,-0.976001590499948
+2670026,15-01-2021,138,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Demon Pagong,Bama,122.873990215539,-8.36003296549995
+2664425,24-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2669987,15-01-2021,70,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Tengah,Nubalema,123.119915517321,-8.29010845949995
+2689481,26-02-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Lerahinga,123.589251290129,-8.40041944499995
+2866097,22-10-2021,15,babi,55,African swine fever,Kalimantan Tengah,Kapuas,Kapuas Hulu,Sei Hanyu,114.059638604241,-0.594399928999962
+2667082,15-01-2021,640,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Nawokote,122.782543881127,-8.54199196549996
+2663119,23-02-2021,71,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Repi,120.223071778648,-8.80710849499997
+2655287,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Wutung,122.231706996152,-8.70312447649994
+2892480,11-10-2021,1,babi,55,African swine fever,Jawa Timur,Blitar,Doko,Sumber Urip,112.449746401761,-7.99216842649994
+2937192,27-03-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Limaggu,121.982320523831,-10.4955049769999
+2670672,15-01-2021,78,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Lamaleka,123.284551815017,-8.28481445599996
+2669909,15-01-2021,113,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Lamabayung,123.269178633518,-8.33210995449994
+2671429,03-03-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2669999,15-01-2021,98,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Geken Deran,122.881983096964,-8.14652596449997
+2671052,03-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Pacar,Loha,120.171430525749,-8.55554049599994
+2921535,20-12-2021,46,babi,55,African swine fever,Kalimantan Timur,Kutai Barat,Tering,Tering Baru,115.671893337207,0.0787723960000619
+2693169,28-03-2021,167,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Tengah,Muriabang,124.155999977406,-8.37361242199995
+2782321,12-07-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Tengah,Umbu Ratu Nggay,Soru,119.826209323423,-9.54829549499993
+2935998,05-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2650663,09-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Selatan,Kelaisi Timur,124.704858108759,-8.28990789649995
+2861023,18-10-2021,3,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Pahawan,113.92002589796,-1.48218715199994
+2694649,30-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Barat,Waimangura,119.260397657178,-9.52675199749996
+2714464,24-04-2021,35,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Mainai,121.064182589659,-8.60852398899996
+2655303,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Blatatatin,122.274882435166,-8.70218747599995
+2733154,24-05-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inelika,120.966991439547,-8.72085799099995
+2638365,26-01-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Watumerak,122.364727933476,-8.71853297299995
+2890518,15-11-2021,66,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Sebangau,Sabaru,113.966430950136,-2.10155757899997
+2677062,08-03-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Sano Nggoang,Golo Leleng,120.071595552325,-8.68187999549997
+2668991,15-01-2021,274,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Lewolema,Sinar Hading,122.902437103691,-8.25144946299997
+2689482,23-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2863623,20-10-2021,20,babi,55,African swine fever,Bangka Belitung,Bangka Tengah,Namang,Kayu Besi,106.223906051369,-2.34003699949997
+2936003,07-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Keduru,121.9548497545,-10.4830449785
+2671050,03-03-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Pacar,Loha,120.171430525749,-8.55554049599994
+2908016,02-12-2021,375,babi,55,African swine fever,Kalimantan Tengah,Kotawaringin Timur,Tualan Hulu,Tanjung Jorong,112.793409462407,-1.67141954499996
+2908421,02-12-2021,3,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Embaloh Hilir,Keliling Semulung,112.655260948337,0.899693518500044
+2646280,04-02-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2783342,27-07-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2695314,30-03-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Wolomeze,Turaloa,121.022031188809,-8.65213248999996
+2666969,15-01-2021,559,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Mandiri,Wailolong,122.899002130287,-8.31374696299994
+2655191,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Blatatatin,122.274882435166,-8.70218747599995
+2732304,22-05-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2668953,01-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Watodiri,123.494707970807,-8.33414794699996
+2861031,18-10-2021,2,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Pandawei,113.879348483361,-1.37193232799993
+2860983,18-10-2021,245,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Tuwung,114.15493184763,-1.91458898799993
+2935521,14-07-2021,7,babi,55,African swine fever,Lampung,Lampung Selatan,Ketapang,Sri Pendowo,105.748094455682,-5.74134099999995
+2757909,24-06-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2638359,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waiblama,Ilinmedo,122.647884036845,-8.54996096799997
+2850831,07-10-2021,4,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tumbang Tariak,113.817062003008,-1.00389087199997
+2685781,02-03-2021,72,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Wulandoni,123.426189506386,-8.54834344949995
+2923201,22-12-2021,30,babi,55,African swine fever,Kalimantan Barat,Kubu Raya,Sungai Ambawang,Lingga,109.680892061326,-0.0137555759999373
+2686279,01-03-2021,61,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Dulitukan,123.399476179223,-8.27370845099995
+2739182,31-05-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Uluwae I,120.925883219994,-8.69671599149996
+2670559,15-01-2021,162,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Tuwagoetobi,123.27987585398,-8.31795445499995
+2861011,18-10-2021,4,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Lawang Uru,113.959383508074,-1.59666377299996
+2688419,22-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2936962,11-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eilode,121.928315147023,-10.4682356185
+2935126,01-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimadake,121.92445982268,-10.4832349785
+2861014,18-10-2021,16,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Hurung,113.944715281645,-1.57558631899997
+2638420,26-01-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Lete Konda,119.361218474877,-9.41388649749996
+2651615,10-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2933922,15-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2846204,02-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Sintang,Sintang,Merti Guna,111.509179,0.06338
+2686270,01-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Amakaka,123.482147387895,-8.26248394849998
+2673056,05-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kalena Wano,119.298760471214,-9.42653849749996
+2667000,15-01-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Pohon Bao,122.961883574612,-8.27951746199997
+2655265,15-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Baang Koor,122.640147731204,-8.48322269149998
+2689540,04-03-2021,459,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Petuntawa,123.463902940423,-8.30008194899995
+2662568,23-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Wae Kelambu,119.94670174618,-8.49957849699996
+2860995,18-10-2021,22,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Bukit Bamba,114.013813364561,-1.76210266349995
+2655272,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Nita,122.186645534043,-8.66607397699994
+2650528,09-02-2021,19,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Macang Tanggar,119.83796667349,-8.58755699649996
+2668957,01-03-2021,139,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Dori Pewut,123.48727833151,-8.47126944849995
+2651620,10-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kodi Utara,Bukambero,119.155285529038,-9.45729649699996
+2686262,01-03-2021,47,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Atulaleng,123.803949532493,-8.23336243849994
+2934972,09-12-2021,1,Babi Liar,565,African swine fever,Sumatera Barat,Agam,Palembayan,Salareh Aia,100.079895949232,-0.130758593999957
+2854042,11-10-2021,11,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tewang Pajangan,113.795430356521,-0.962179153999955
+2665259,25-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Compang Longgo,119.873553120471,-8.62084149649996
+2664429,24-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2768610,08-07-2021,80,babi,55,African swine fever,Kalimantan Utara,Nunukan,Krayan Selatan,Ba Binuang,115.952783230374,3.75277602700004
+2689594,23-03-2021,2,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Tangga Batu I,99.209399,2.511275
+2666991,15-01-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Puken Tobi Wangi Bao,122.988569533945,-8.28024196199996
+2743574,07-06-2021,36,babi,55,African swine fever,Nusa Tenggara Timur,Ende,Ndona,Ngalupolo,121.759262327615,-8.85301948149996
+2666363,26-02-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2669912,15-01-2021,562,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Pandai,123.101625969846,-8.37673185649996
+2850829,07-10-2021,20,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tumbang Hakau,113.844491091473,-1.02862465399994
+2677376,09-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Ratogesa,121.064930782517,-8.84847998999996
+2665427,25-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2729354,18-05-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Takari,Noelmina,124.050121693545,-9.98891442049995
+2663699,24-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Lebijaga,120.970522597437,-8.76000698999997
+2668980,01-03-2021,142,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Loyobohor,123.836657045966,-8.24343993649995
+2937246,21-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2707702,16-04-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bomari,120.939386936894,-8.79304749149995
+2685837,02-03-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Nilanapo,123.702109406746,-8.36717594099994
+2651552,10-02-2021,45,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Welak,Robo,120.216571192089,-8.62184349449996
+2666331,26-02-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Tapobaran,123.609452939841,-8.32480201149997
+2936959,22-10-2021,5,babi,55,African swine fever,Kalimantan Barat,Melawi,Nanga Pinoh,Tanjung Niaga,111.776151562774,-0.345891609499944
+2937172,25-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Limaggu,121.982320523831,-10.4955049769999
+2937074,18-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2869081,25-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2655285,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wolomarang,122.2075175071,-8.61475447749993
+2670632,15-01-2021,99,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Oringbele,123.278538144375,-8.27949345549996
+2640883,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Habi,122.258293646758,-8.65563647599996
+2655267,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Kokowahor,122.267346176067,-8.67797697599994
+2637262,25-01-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kadi Pada,119.255307641982,-9.48402099749995
+2850810,07-10-2021,2,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Teluk Nyatu,113.855879350921,-0.869580149499967
+2638471,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Ladogahar,122.148486966754,-8.62110097749996
+2647434,05-02-2021,663,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Tengah,Mauta,124.181325117665,-8.47263092249995
+2690481,24-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Susu,120.939900740118,-8.74850149099993
+2667132,27-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2651608,10-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2638333,26-01-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Watumerak,122.364727933476,-8.71853297299995
+2938128,19-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bolou,121.967546262596,-10.4835199779999
+2668540,15-01-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Pajinian,123.046142400116,-8.30940896049995
+3134569,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Faobata,120.995432273752,-8.76036649049996
+2861285,18-10-2021,4,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2669904,15-01-2021,411,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Lamawolo,123.258537823135,-8.37404295449997
+2665045,25-02-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Boawae,Kelimado,121.206134830677,-8.77449548749993
+2668545,15-01-2021,323,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Homa,123.066406567628,-8.29757245999994
+2670025,15-01-2021,184,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Demon Pagong,Blepanawa,122.857369336612,-8.35396946499995
+2647046,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Wuliwutik,122.166556615939,-8.62374547699997
+2685771,03-03-2021,84,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Leudanung,123.753800964655,-8.21770693949998
+2686266,01-03-2021,17,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Muruona,123.4733834246,-8.34371794949993
+2935996,05-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimau,121.934646905064,-10.437492936
+2676671,08-03-2021,20,babi,55,African swine fever,Jawa Timur,Kediri,Wates,Segaran,112.094958025162,-7.93138551699994
+2655203,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Hepang,122.173151888666,-8.71628547699996
+2655286,15-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Wailamung,122.570832832056,-8.46304446999994
+2670016,15-01-2021,208,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Bandona,122.852856733018,-8.15563896599997
+3134397,15-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Ngabheo,121.058625633344,-8.70692648999994
+2646282,04-02-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2789653,05-08-2021,5,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sarudik,Sipan,98.9272626989741,1.73123388500005
+2743578,07-06-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ende,Ndona,Nanganesa,121.698333600304,-8.83118448349995
+2937145,25-03-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2667029,15-01-2021,444,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Mandiri,Lewoloba,122.917648468973,-8.30647046249996
+3136417,15-02-2021,50,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Nabelena,120.925883219994,-8.69671599149996
+2938118,17-03-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bolou,121.967546262596,-10.4835199779999
+2685886,18-03-2021,955,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Timur,Kaleb,124.266941875953,-8.32141641849995
+2669860,15-01-2021,446,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Bedalewun,123.228263410433,-8.37185095549995
+2689452,01-03-2021,186,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Laranwuntun,123.486962121385,-8.31854694899997
+2685834,02-03-2021,15,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Wailolong,123.641775928663,-8.24824394449993
+2669829,15-01-2021,50,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Timur,Bloto,123.111629,-8.383834
+2669025,15-01-2021,30,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Selatan,Kenere,122.977666717719,-8.49702396149993
+2662563,23-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Wae Kelambu,119.94670174618,-8.49957849699996
+2713060,22-04-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Warupele Ii,120.90679306824,-8.89958199099993
+2638384,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Watumerak,122.364727933476,-8.71853297299995
+2860991,18-10-2021,37,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Pamarunan,114.059830111631,-1.80788379899994
+2650498,09-02-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Batu Cermin,119.919501023051,-8.49042949599993
+2850828,07-10-2021,12,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tumbang Miwan,113.797493197961,-0.988692253499948
+2689537,28-02-2021,51,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Petuntawa,123.463902940423,-8.30008194899995
+2669985,15-01-2021,156,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Tengah,Oe Sayang,123.071199388,-8.32729946049997
+2668535,15-01-2021,360,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara Barat,Bugalima,123.027876680317,-8.33007495999996
+2685846,02-03-2021,127,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Mahal Ii,123.782423461831,-8.27055093849995
+2685844,02-03-2021,77,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Leuwayang,123.744487048975,-8.23033693949995
+2930074,31-12-2021,140,babi,55,African swine fever,Kalimantan Barat,Sintang,Binjai Hulu,Mensiku,111.558722377728,0.227910526000045
+2659677,19-02-2021,275,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Boleng,Golo Ketak,120.046301521839,-8.55554649549995
+2642033,29-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waigete,Nangatobong,122.439719716601,-8.65710447199996
+2638271,26-01-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Lorang,122.22978706217,-8.68015647549996
+2938054,26-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Huwaga,121.934507283399,-10.454080362
+3134394,15-01-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Seso,121.032553888143,-8.69937348999997
+2662881,23-02-2021,152,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Wae Mose,120.188529862203,-8.70914499599996
+2651360,10-02-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Welak,Gurung,120.211964220187,-8.63245049499994
+2935991,03-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bolou,121.967546262596,-10.4835199779999
+2689717,27-01-2021,8,babi,55,African swine fever,Sumatera Utara,Dairi,Sitinjo,Sitinjo,98.3794036325118,2.71114227950005
+2640661,28-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Baopaat,122.214465894213,-8.73641907499996
+2743103,07-06-2021,5,Babi Liar,565,African swine fever,Kalimantan Utara,Nunukan,Krayan,Wa Yagung,115.877951546633,3.97068583950005
+2938029,22-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Huwaga,121.934507283399,-10.454080362
+2847721,04-10-2021,86,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Palangka,113.841694778833,-1.96899539249995
+2642031,29-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waigete,Nangatobong,122.439719716601,-8.65710447199996
+3136671,15-03-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inelika,120.966991439547,-8.72085799099995
+2669551,02-03-2021,53,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Lebewala,123.665407086533,-8.29241194299996
+2644332,01-02-2021,167,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Tengah,Eka Jaya,124.151865648509,-8.41168342349994
+2688486,22-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kodi Bangedo,Lete Loko,119.044379540448,-9.62977299699995
+2828481,18-09-2021,35,babi,55,African swine fever,Kalimantan Timur,Mahakam Ulu,Long Pahangai,Long Pahangai Satu,114.687744013771,0.801719934000062
+2937123,24-03-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2647279,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Madawat,122.221417080005,-8.63536297599995
+2655264,15-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Hepang,122.173151888666,-8.71628547699996
+2655228,15-02-2021,24,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Hepang,122.173151888666,-8.71628547699996
+2670050,02-03-2021,67,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Roma,123.730899957293,-8.23361693949994
+2934030,16-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2663694,24-02-2021,25,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Uluwae,120.91401531135,-8.69303499099993
+2680010,03-03-2021,112,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Hoelea Ii,123.712935433025,-8.23071044249994
+2676866,08-03-2021,100,babi,55,African swine fever,Bangka Belitung,Bangka,Pemali,Air Duren,106.017627161587,-1.91446099999996
+2920183,17-12-2021,8,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Embaloh Hulu,Benua Ujung,112.473495409544,1.21987164050006
+2717655,28-04-2021,4,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Andam Dewi,Bondar Sihudon I,98.3383063006521,2.11117242000006
+2667098,15-01-2021,148,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Adonara,Nisa Nulan,123.208169,-8.262084
+2810743,01-09-2021,2,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Pasaribu,98.7465421852808,2.23683856500006
+2692261,26-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2860974,18-10-2021,5,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Penda Barania,114.172328457856,-1.97206872699996
+2686281,01-03-2021,299,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Laranwuntun,123.486962121385,-8.31854694899997
+2860988,18-10-2021,18,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Bahu Palawa,114.081673046749,-1.83026158799993
+2662215,22-02-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Riung,Lengkosambi Barat,121.073744027564,-8.47320748999994
+2642050,29-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nelle,Nelle Urung,122.229445041625,-8.66068847649996
+2937182,26-03-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Limaggu,121.982320523831,-10.4955049769999
+2914041,09-12-2021,39,babi,55,African swine fever,Kalimantan Barat,Landak,Mandor,N G A R A K,109.271573322722,0.304647371500039
+2893688,18-11-2021,3,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2668905,01-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Wae Kelambu,119.94670174618,-8.49957849699996
+2669895,15-01-2021,45,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Riawale,123.248682021338,-8.37630595449997
+2646976,05-02-2021,6,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+2665049,25-02-2021,50,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Aesesa Selatan,Rendu Butowe,121.250688260698,-8.70931548849995
+2717841,28-04-2021,25,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sitahuis,Bonan Dolok,98.8121706103123,1.76530163400005
+2862470,19-10-2021,1,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Mihing Raya,Dahian Tambuk,113.952147315685,-1.04308593249993
+2655307,15-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Bola,Ipir,122.330184071177,-8.72419147399995
+2787216,31-07-2021,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Lintong Nihuta,Parulohan,98.8636088997205,2.24866043150004
+2647048,05-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Kokowahor,122.267346176067,-8.67797697599994
+2867835,25-10-2021,7,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Seberuang,Sejiram,111.973492947955,0.427270785000047
+2655201,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Kokowahor,122.267346176067,-8.67797697599994
+2655274,15-02-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Watugong,122.241171540774,-8.68397347649994
+2666989,15-01-2021,79,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Sarotari Timur,122.981147940971,-8.30158396199997
+2892471,11-10-2021,20,babi,55,African swine fever,Jawa Timur,Blitar,Kademangan,Rejowinangun,112.152704065789,-8.14890050899996
+2937067,19-03-2021,11,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Bebae,121.945477345092,-10.545889978
+2650444,09-02-2021,830,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Kakor,120.20901803441,-8.70366899599995
+2839828,29-09-2021,33,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Kuala Kurun,113.83822959897,-0.784466147499955
+2640087,27-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wailiti,122.19205554137,-8.60809097699996
+2855706,12-10-2021,34,babi,55,African swine fever,Kalimantan Tengah,Katingan,Katingan Tengah,Petak Puti,113.194142042397,-1.44666796899995
+2670009,15-01-2021,262,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Tanjung Bunga,Nusanipa,122.823249035666,-8.15800296599997
+2854044,11-10-2021,6,babi,55,African swine fever,Kalimantan Tengah,Gunung Mas,Kurun,Tumbang Hakau,113.844491091473,-1.02862465399994
+2669923,15-01-2021,24,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wotan Ulumado,Tanah Tukan,123.038290090679,-8.38236996099994
+2665048,25-02-2021,24,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Keo Tengah,Kotadirumali,121.282318715727,-8.89022898699994
+2860981,18-10-2021,17,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Bukit Rawi,114.16283324692,-1.93725770749995
+3134482,15-01-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Sobo I,121.022031188809,-8.65213248999996
+2665420,25-02-2021,4,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Bajawa,120.931063058196,-8.79409899099994
+2689443,01-03-2021,141,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Benihading,123.792949748344,-8.24103493749993
+2941729,20-04-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Rote Ndao,Rote Barat Daya,Oebaffok,122.975566363604,-10.8326749574999
+2923214,22-12-2021,15,babi,55,African swine fever,Kalimantan Barat,Kubu Raya,Sungai Ambawang,Korek,109.628171916311,-0.0201315724999631
+2655448,15-02-2021,215,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Lendong,120.215788,-8.726305
+2685783,02-03-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Nagawutung,Labalimut,123.356188138918,-8.49123095049995
+2924658,24-12-2021,21,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Embaloh Hulu,Benua Ujung,112.473495409544,1.21987164050006
+2692890,27-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Tengah Utara,Petleng,124.572737723213,-8.20452490399995
+2691070,25-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2689440,01-03-2021,216,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Umaleu,123.826938660764,-8.20545993749997
+2768736,29-05-2021,1,babi,55,African swine fever,Kalimantan Utara,Tarakan,Tarakan Barat,Karang Harapan,117.556097298584,3.35610854650002
+2691737,25-03-2021,20,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Watukapu,120.953183298437,-8.69420949049996
+2937018,14-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Mebba,121.86256331516,-10.5053999794999
+2642068,29-01-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Ojang,122.66627257333,-8.45807353199996
+2861025,18-10-2021,9,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Banamatingang,Guha,113.909420628405,-1.45897215599996
+3134491,15-01-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa Barat,Rakateda I,121.013920401926,-8.85939549099996
+2675023,24-01-2021,308,babi,55,African swine fever,Jawa Timur,Lumajang,Yosowilangun,Tunjungrejo,113.300959039193,-8.23672819149996
+2666980,15-01-2021,79,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Balela,122.984558561406,-8.30751746249996
+2935997,05-03-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Lobodei,121.972532211789,-10.521549978
+2638377,26-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Watutedang,122.192890059111,-8.73131297699996
+2655283,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Watumilok,122.278465985923,-8.65185447599995
+2667083,15-01-2021,533,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Boru Kedang,122.699447034908,-8.52535646699994
+2670034,02-03-2021,29,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Walangsawah,123.747122825682,-8.28940044049995
+2900187,25-11-2021,5,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Sebangau,Sabaru,113.966430950136,-2.10155757899997
+2664074,24-02-2021,14,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa Utara,Inegena,120.984667424792,-8.69333048999994
+2668749,01-03-2021,3,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pandan,Sibuluan Iii,98.8359303668397,1.70225422550004
+2642080,29-01-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wailiti,122.19205554137,-8.60809097699996
+2687676,21-03-2021,166,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Pantar Tengah,Bagang,124.163686289763,-8.33284242399995
+2869101,25-10-2021,5,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Semitau,Semitau Hilir,111.96709,0.530792
+2685851,02-03-2021,18,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Posiwatu,123.505247007254,-8.50704744599994
+2655211,15-02-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Doreng,Wolonterang,122.356178544903,-8.73332547299995
+2686388,19-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Golewa,Malanuza,121.062161495791,-8.82968748949995
+2861002,18-10-2021,13,babi,55,African swine fever,Kalimantan Tengah,Pulang Pisau,Kahayan Tengah,Bareng Rambang,114.027983292455,-1.66377729149997
+2670781,15-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Barat,Kalelu,122.951553760199,-8.53234846199996
+2669524,02-03-2021,37,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Lamatokan,123.543651728398,-8.25359344649996
+2731575,06-05-2021,1,babi,55,African swine fever,Jawa Timur,Blitar,Sutojayan,Kalipang,112.190172142441,-8.20180606849996
+2686286,26-02-2021,31,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Petuntawa,123.463902940423,-8.30008194899995
+2689471,26-02-2021,522,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Merdeka,123.538607751925,-8.38794994599994
+2667612,28-02-2021,112,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Katakeja,123.462980325647,-8.43908344849993
+2757908,24-06-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Waisika,124.740665134796,-8.23911539449995
+2670557,15-01-2021,104,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Witihama,Balaweling Noten,123.284551815017,-8.28481445599996
+2669515,02-03-2021,99,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Jontona,123.521669109831,-8.29516544749995
+2676048,08-03-2021,38,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor,Ngancar,120.254482867138,-8.72237799449994
+2689496,26-02-2021,16,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Lebatukan,Tapolangu,123.589872676686,-8.29793594449995
+2938109,26-03-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Matei,121.934925850273,-10.4994549789999
+2689543,09-03-2021,290,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Kolontobo,123.474191508712,-8.30923144849993
+2670678,15-01-2021,202,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Bokang Wolomatang,122.740075358828,-8.38496196549997
+2670683,15-01-2021,99,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Titehena,Adabang,122.654767533532,-8.39516346849996
+3134563,15-02-2021,8,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Ngedukelu,120.968158055964,-8.77322298949997
+2671322,03-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2938050,25-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Huwaga,121.934507283399,-10.454080362
+2866110,22-10-2021,7,babi,55,African swine fever,Kalimantan Tengah,Kapuas,Basarang,Basarang Jaya,114.296822171995,-2.75498175649997
+2685765,02-03-2021,52,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Todanara,123.504634751771,-8.30050894649997
+2685762,02-03-2021,193,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Lamalera B,123.409207993738,-8.55235644949997
+2685412,18-03-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kodi Utara,Magho Linyo,119.086301036907,-9.47743449799995
+2680008,03-03-2021,83,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Aramengi,123.732381774898,-8.27596743999993
+2669910,15-01-2021,224,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Nelelamadike,123.295392922957,-8.35814445399996
+2655271,15-02-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Waigete,Nangatobong,122.439719716601,-8.65710447199996
+2669517,02-03-2021,19,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape Timur,Lamawolo,123.531816520344,-8.27932994699995
+2669899,15-01-2021,358,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Lewo Keleng,123.215355860466,-8.37028745649997
+2903226,28-11-2021,4,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Janji,98.718403166153,2.23927615600005
+2725128,07-05-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2921523,20-12-2021,115,babi,55,African swine fever,Kalimantan Timur,Kutai Barat,Linggang Bigung,Linggang Bigung,115.620676555107,-0.0114174744999502
+2665050,25-02-2021,46,babi,55,African swine fever,Nusa Tenggara Timur,Nagekeo,Nangaroro,Wokodekororo,121.333369209086,-8.81725648749995
+2655298,15-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Lela,Lela,122.185361811433,-8.72150297599995
+2669854,15-01-2021,138,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Nele Lamawangi II,123.27436,-8.359909
+2667004,15-01-2021,373,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Mokantarak,122.881621569119,-8.33089396499994
+2935142,01-03-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Tengah,Eimau,121.934646905064,-10.437492936
+2669494,02-03-2021,72,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Wulandoni,Wulandoni,123.426189506386,-8.54834344949995
+2727318,11-05-2021,23,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Inerie,Warupele Ii,120.90679306824,-8.89958199099993
+2901436,26-11-2021,2,babi,55,African swine fever,Kalimantan Barat,Kapuas Hulu,Embaloh Hilir,Belatung,112.519994,0.975479
+2675036,06-03-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2686265,01-03-2021,79,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Buyasari,Kaohua,123.811292571903,-8.21850043799995
+2667088,15-01-2021,154,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Wulanggitang,Nawokote,122.782543881127,-8.54199196549996
+2934060,19-12-2021,157,babi,55,African swine fever,Kalimantan Timur,Kutai Kertanegara,Tenggarong,Jahab,116.89864197671,-0.478000193499952
+2784194,28-07-2021,43,babi,55,African swine fever,Bangka Belitung,Belitung,Tanjung Pandan,Air Pelempang Jaya,107.701680413907,-2.76201049949995
+2669024,15-01-2021,12,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Solor Selatan,Sulengwaseng,122.964118673614,-8.51273146199995
+2655299,15-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Blatatatin,122.274882435166,-8.70218747599995
+2662629,23-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Komodo,Golo Bilas,119.897718408819,-8.56629649599995
+2685794,02-03-2021,29,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Omesuri,Walangsawah,123.747122825682,-8.28940044049995
+2851425,07-10-2021,20,babi,55,African swine fever,Kalimantan Tengah,Katingan,Tewang S Garing,Pendahara,113.298708302104,-1.73895925299996
+2645533,03-02-2021,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2668940,01-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Atadei,Tubuk Rajan,123.499249132694,-8.44773944749997
+2668952,01-03-2021,61,babi,55,African swine fever,Nusa Tenggara Timur,Lembata,Ile Ape,Dulitukan,123.399476179223,-8.27370845099995
+2669879,15-01-2021,362,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Boleng,Bungalawan,123.238240927318,-8.37099945599996
+2670024,15-01-2021,111,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Demon Pagong,Kawalelo,122.880939304585,-8.42556346399996
+2683760,16-03-2021,13,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Tanalodu,120.96440973392,-8.77955899049996
+2659672,19-02-2021,386,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Boleng,Mbuit,120.089464480379,-8.54245799449996
+2885984,10-11-2021,36,babi,55,African swine fever,Kalimantan Tengah,Palangka Raya,Jekan Raya,Bukit Tunggal,113.69875881081,-1.94673228249994
+2655294,15-02-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wailiti,122.19205554137,-8.60809097699996
+2934057,18-02-2021,2,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Barat,Raeloro,121.876143163945,-10.5221199795
+2640664,28-01-2021,10,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Magepanda,Magepanda,122.056566395634,-8.56130097899995
+2717785,28-04-2021,25,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sitahuis,Bonan Dolok,98.8121706103123,1.76530163400005
+2655216,15-02-2021,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Kokowahor,122.267346176067,-8.67797697599994
+2650409,09-02-2021,5,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai Barat,Lembor Selatan,Watu Rambung,120.215788,-8.726305
+2810746,01-09-2021,5,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Matiti II,98.712926,2.260818
+2937226,30-03-2021,9,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2666974,15-01-2021,50,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Ile Mandiri,Mudakeputu,122.973162082701,-8.24110296299995
+2664768,25-02-2021,7,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Kamot,124.765372584872,-8.20068989349997

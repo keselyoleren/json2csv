@@ -1,0 +1,396 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2747067,11-06-2021,8,sapi bali,24,Jembrana,Bengkulu,Kaur,Tanjung Kemuning,Tanjung Kemuning II,103.145578897385,-4.56582049899993
+2677015,08-03-2021,3,sapi bali,24,Jembrana,Riau,Rokan Hulu,Rokan Iv Koto,Rokan Koto Ruang,100.382702937282,0.572545086000048
+2772529,15-06-2021,8,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Seginim,Gunung Ayu,103.009791175135,-4.33975049849994
+2854347,20-07-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Manjuto,Agung Jaya,101.165797,-2.510632
+2854771,11-10-2021,2,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Selupu Rejang,Cawang Lama,102.58722896914,-3.39180149949993
+2751411,16-06-2021,3,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Tegal Arum,102.21860948117,-1.30365490849994
+2863981,21-10-2021,3,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Pematang Sapat,102.185950007794,-1.41447222149995
+2886734,01-10-2021,4,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Tanjung Agung Palik,Lubuk Sematung,102.18671632365,-3.57455149749995
+2854573,13-10-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,XIV KOTO,Rawa Mulya,101.129761239404,-2.50764149699995
+2923335,22-12-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu,Sungai Serut,Semarang,102.306277656003,-3.82179699799994
+2747057,11-06-2021,20,sapi bali,24,Jembrana,Bengkulu,Kaur,Kelam Tengah,Rigangan Ii,103.191443224199,-4.47291149849994
+2794156,05-06-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Sungai Rumbai,Sidodadi,101.469255,-2.890077
+2853672,10-10-2021,2,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Bukit Peninjauan I,102.339318525631,-3.99781271049994
+2678191,09-03-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Surian Bungkal,101.281744732962,-2.55093549749995
+2676465,18-01-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Gedung Agung,102.978680900317,-4.35396099849996
+2874779,30-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kampung Delima,102.556847125909,-3.42677749849997
+2877475,25-08-2021,8,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Batik Nau,Serangai,101.945406762136,-3.43170449799993
+2661871,22-02-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2772439,15-03-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Ketaping,102.925015699824,-4.47103899799995
+2672874,15-01-2021,7,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Bandar Ratu,101.107859,-2.534067
+2672867,10-02-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Pasar Sebelah,101.115232196598,-2.52284199649995
+2811418,01-09-2021,8,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Jenggalu,102.391080784532,-3.92775949849994
+2855608,24-09-2021,6,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Sunda Kelapa,102.266942882206,-3.66749549849993
+2664389,24-02-2021,5,sapi bali,24,Jembrana,Riau,Rokan Hulu,Tambusai Utara,Tambusai Utara,100.348601714019,1.25772219600006
+2794145,05-04-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Bandar Ratu,101.107859,-2.534067
+2801185,23-08-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Muara Kilis,102.566837595865,-1.39810013749994
+2894167,18-11-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2794146,15-04-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Koto Jaya,101.142041,-2.619336
+2854475,03-08-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Selagan Jaya,101.182139657684,-2.53789999749995
+2794148,20-05-2021,6,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Sungai Rumbai,Padang Gading,101.433461294978,-2.92864799699996
+2718553,29-04-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Penapalan,102.594570454736,-1.53868329499997
+2861195,06-07-2021,12,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Sungai Rumbai,Retak Mudik,101.481546483414,-2.93780749699994
+2951756,09-12-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Bukit Harapan,101.615975911505,-3.03288849749995
+2794155,15-05-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Koto Jaya,101.142041,-2.619336
+2951765,03-12-2021,36,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Sinar Laut,101.394604,-2.887383
+2951761,13-12-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Rami Mulia,101.595758474166,-3.12781349699995
+2772508,15-06-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Jeranglah Rendah,102.987882599346,-4.43377249949995
+2925181,25-12-2021,4,sapi bali,24,Jembrana,Jambi,Sarolangun,Pelawan,Sungai Merah,102.550318302509,-2.45654547099994
+2951777,16-12-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Air Hitam,101.406961689205,-2.88539649799995
+2861224,09-09-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pulau Makmur,101.490073,-3.018035
+2861212,16-08-2021,20,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Teluk Bakung,101.375516,-2.83784
+2771709,15-02-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Talang Padang,102.85550479988,-4.35512399899994
+2769317,09-04-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Pondok Kelapa,102.23919917714,-3.66603499799996
+2672868,15-02-2021,8,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Pondok Batu,101.165536603197,-2.56056199649996
+2772491,15-05-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Tebat Kubu,102.951999005487,-4.38817299999997
+2917810,09-01-2021,7,sapi bali,24,Jembrana,Sumatera Utara,Labuhan Batu Selatan,Torgamba,Asam Jawa,100.162383372033,1.86371618050003
+2861213,03-09-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Makmur Jaya,101.573382135164,-3.05512749749997
+2792939,10-08-2021,4,sapi bali,24,Jembrana,Sumatera Selatan,Lubuklinggau,Lubuk Linggau Utara I,Marga Rejo,102.901460363168,-3.18097649949996
+2689517,23-03-2021,5,sapi bali,24,Jembrana,Lampung,Tulang Bawang,Penawar Aji,Pasar Batang,105.549988891838,-4.29454708199995
+2692536,26-03-2021,1,sapi bali,24,Jembrana,Lampung,Lampung Tengah,Padang Ratu,Bandarsari,104.993826946286,-5.08028599949995
+2776789,29-04-2021,3,sapi bali,24,Jembrana,Sumatera Selatan,Palembang,Gandus,Karang Anyar,104.730767400488,-3.03501749949996
+2671663,01-03-2021,24,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Sumber makmur,102.392489227618,-3.93764499849996
+2876736,10-08-2021,3,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Putri Hijau,Air Pandan,101.624679474713,-3.15263249799995
+2929076,15-11-2021,9,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Tanjung Aur I,102.943625069007,-4.34218199949996
+2747063,11-06-2021,2,sapi bali,24,Jembrana,Bengkulu,Kaur,Lungkang Kule,Tanjung Kurung,103.327676758031,-4.36294208799995
+2665903,26-02-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Lubuk Mandarasah,102.726049462603,-1.32719933899995
+2672182,04-03-2021,60,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2714102,23-04-2021,3,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2769290,19-02-2021,1,sapi,22,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Harapan,102.312812984399,-3.68028399849996
+2929084,15-11-2021,33,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Air Nipis,Maras,103.033183,-4.395903
+2680181,25-02-2021,9,sapi bali,24,Jembrana,Sumatera Selatan,Palembang,Sukarami,Sukajaya,104.741287026816,-2.96310899999997
+2672872,11-01-2021,13,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Tanah Harapan,101.174271,-2.60084
+2932496,15-10-2021,15,sapi bali,24,Jembrana,Kalimantan Tengah,Murung Raya,Murung,Danau Usung,114.71651343505,-0.497282102499952
+2854855,17-03-2021,7,sapi bali,24,Jembrana,Bengkulu,Seluma,Semidang Alas Maras,Padang Kelapo,102.784279009709,-4.28103825899996
+2769326,27-04-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Talang Empat,Air Putih,102.376262845352,-3.79670449799994
+2882163,07-11-2021,2,sapi bali,24,Jembrana,Jambi,Muaro Jambi,Sungai Bahar,Mekar Sari Makmur,103.419642,-1.976141
+2640666,28-01-2021,1,sapi bali,24,Jembrana,Riau,Pelalawan,Bandar Sei Kijang,Kiyap Jaya,101.648257376199,0.310443773500054
+2854276,05-08-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Teramang Jaya,Teramang Jaya,101.343908,-2.773456
+2855602,06-09-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Kembang Ayun,102.327465019223,-3.63604349799996
+2680171,10-02-2021,8,sapi bali,24,Jembrana,Sumatera Selatan,Palembang,Sako,Sako,104.785043325094,-2.95328399999994
+2676470,20-01-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Gedung Agung,102.978680900317,-4.35396099849996
+2876757,24-09-2021,10,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Putri Hijau,Air Pandan,101.624679474713,-3.15263249799995
+2775857,03-06-2021,2,sapi bali,24,Jembrana,Kalimantan Selatan,Banjar,Kertak Hanyar,Manarap Lama,114.640845069819,-3.36541700049997
+2951753,23-12-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Pondok Batu,101.165536603197,-2.56056199649996
+2854777,11-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Selupu Rejang,Kampung Baru,102.603291906355,-3.38590849849996
+2678202,09-03-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Teras Terunjam,Pondok Kopi,101.214820119789,-2.55637849699997
+2939584,02-01-2021,2,sapi bali,24,Jembrana,Sumatera Selatan,Musi Rawas,Tugu Mulyo,Dwijaya,102.946312477809,-3.06638849999996
+2854803,11-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Selatan,Desa Teladan,102.610167068504,-3.50056549949994
+2940914,13-12-2021,44,sapi bali,24,Jembrana,Jambi,Batanghari,Muara Tembesi,Pasar Muara Tembesi,103.109905325953,-1.71474701099993
+2763281,30-06-2021,2,sapi bali,24,Jembrana,Jambi,Tebo,Vii Koto,Muara Niro,102.05960877947,-1.18194764749995
+2947445,04-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Srikaton,102.293245574008,-3.70349249899996
+2677497,15-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Kaur,Kaur Selatan,Sinar Pagi,103.514182237116,-4.70139649999993
+2823474,12-09-2021,4,sapi bali,24,Jembrana,Riau,Dumai,Bukit Kapur,Kampung Baru,101.461051068906,1.42566496000003
+2917813,12-01-2021,10,sapi bali,24,Jembrana,Sumatera Utara,Labuhan Batu Selatan,Torgamba,Asam Jawa,100.162383372033,1.86371618050003
+2732458,22-05-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2672419,05-02-2021,20,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Sungai Ipuh,101.316507,-2.479871
+2861233,12-09-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Tunggang,101.430712617415,-2.85872399749996
+2676546,08-03-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Lubuk Jering,102.6474929814,-2.01784691299994
+2760796,28-06-2021,3,sapi bali,24,Jembrana,Riau,Dumai,Sungai Sembilan,Basilam Baru,101.216328233701,1.86551546850004
+2676782,08-03-2021,5,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2672876,28-01-2021,6,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Sungai Ipuh,101.316507,-2.479871
+2854459,03-08-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,XIV KOTO,Rawa Mulya,101.129761239404,-2.50764149699995
+2929077,15-11-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Bunga Mas,Tumbuk Tebing,102.99631841822,-4.49121699899996
+2693966,29-03-2021,1,sapi bali,24,Jembrana,Lampung,Tulang Bawang,Penawar Aji,Pasar Batang,105.549988891838,-4.29454708199995
+2634359,21-01-2021,4,sapi bali,24,Jembrana,Riau,Rokan Hilir,Bagan Sinembah,Pelita,100.559050096821,1.60321002900005
+2865437,21-10-2021,2,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Pematang Sapat,102.185950007794,-1.41447222149995
+2854863,07-02-2021,5,sapi bali,24,Jembrana,Bengkulu,Seluma,Ilir Talo,Rawa Indah,102.594622020078,-4.17395199899997
+2951762,29-12-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Makmur Jaya,101.573382135164,-3.05512749749997
+2861190,17-07-2021,11,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pasar Baru,101.4868,-3.008539
+2919299,16-12-2021,5,sapi bali,24,Jembrana,Jambi,Merangin,Pamenang,Sungai Udang,102.432962016559,-2.13511395349997
+2676416,20-01-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Tambangan,102.986047501955,-4.39624399899995
+2672412,15-02-2021,8,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Penarik,Suka Maju,101.393118,-2.625251
+2775966,28-05-2021,1,sapi bali,24,Jembrana,Sumatera Utara,Asahan,Sei Dadap,Bahung Sibatu Batu,99.6097431517707,2.92242764400007
+2929083,15-11-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Kemang Manis,102.916048013911,-4.35008699949995
+2672870,05-01-2021,79,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Pondok Batu,101.165536603197,-2.56056199649996
+2676772,08-03-2021,15,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2672871,07-01-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Ujung Padang,101.104320493159,-2.54816599699996
+2677863,09-03-2021,15,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2772446,15-03-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Padang Berangin,102.939665,-4.428029
+2772486,15-04-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Air Kemang,102.907486275306,-4.35902549949998
+2783221,27-07-2021,1,sapi bali,24,Jembrana,Riau,Dumai,Sungai Sembilan,Batu Teritip,101.180176304836,2.00890308350006
+2669449,02-03-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tebo Ilir,Sungai Aro,102.679251614918,-1.55423164349995
+2864782,21-10-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Pematang Sapat,102.185950007794,-1.41447222149995
+2743732,07-06-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2772510,15-06-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Kayu Kunyit,102.952021733856,-4.44382499949995
+2854429,16-08-2021,17,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Dikit,Pondok Lunang,101.265910091743,-2.67399999749998
+2672864,15-02-2021,5,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pulai Payung,101.491722,-2.994068
+2747062,11-06-2021,2,sapi bali,24,Jembrana,Bengkulu,Kaur,Lungkang Kule,Tanjung Bunian,103.255042241916,-4.45177249899996
+2676476,23-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Padang Tambak,102.962347,-4.409331
+2676479,26-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Padang Tambak,102.962347,-4.409331
+2929130,30-12-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu,Kampung Melayu,Padang Serai,102.299381872664,-3.91871349849995
+2896094,20-11-2021,8,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Air Buluh,101.539281771435,-3.03952649749996
+2854496,08-08-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Selagan Jaya,101.182139657684,-2.53789999749995
+2676391,01-01-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Jeranglah Rendah,102.987882599346,-4.43377249949995
+2951751,07-12-2021,46,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Koto Jaya,101.142041,-2.619336
+2847961,15-09-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang Ilir,Lubuk Ladung,103.05374514358,-4.53801749899995
+2805240,27-08-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2947451,19-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Sunda Kelapa,102.266942882206,-3.66749549849993
+2877441,28-09-2021,4,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Marga Sakti Seblat,Air Putih,101.76873006538,-3.12022299699996
+2929088,15-12-2021,9,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Bunga Mas,Tumbuk Tebing,102.99631841822,-4.49121699899996
+2929087,21-12-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Ulu Manna,Simpang Pino,103.001407569469,-4.27917349899994
+2929079,15-11-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Nanjungan,102.853720435297,-4.31945162199997
+2880202,04-11-2021,2,sapi bali,24,Jembrana,Jambi,Tebo,Tebo Ilir,Kelurahan Sungai Bengkal,102.749366716877,-1.57215172299996
+2771798,15-02-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang Ilir,Lubuk Ladung,103.05374514358,-4.53801749899995
+2648149,07-02-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Mengupeh,102.60642925479,-1.40759462049994
+2854580,13-09-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,XIV KOTO,Rawa Mulya,101.129761239404,-2.50764149699995
+2854792,11-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Air Meles Bawah,102.58393264527,-3.43871799799996
+2854871,28-08-2021,1,sapi bali,24,Jembrana,Bengkulu,Seluma,Semidang Alas Maras,Karang Anyar,102.803262188625,-4.27994049799997
+2895988,20-11-2021,4,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2676268,17-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Seginim,Muara Danau,103.064711075843,-4.35220099999995
+2676439,17-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Gedung Agung,102.978680900317,-4.35396099849996
+2885977,10-11-2021,3,sapi bali,24,Jembrana,Jambi,Tebo,Tebo Ilir,Kelurahan Sungai Bengkal,102.749366716877,-1.57215172299996
+2772482,15-04-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Bunga Mas,Padang Jawi,103.034791689943,-4.52505549949993
+2861178,16-07-2021,8,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Arga Jaya,101.57247831341,-3.08184949799994
+2671288,03-03-2021,3,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2861207,19-08-2021,11,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Mundam Marap,101.500976,-3.022283
+2854874,30-08-2021,3,sapi bali,24,Jembrana,Bengkulu,Seluma,Semidang Alas Maras,Karang Anyar,102.803262188625,-4.27994049799997
+2895987,20-11-2021,3,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2772452,15-03-2021,6,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Pasar Pino,102.82482436746,-4.36401949949996
+2861170,07-07-2021,21,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Makmur Jaya,101.573382135164,-3.05512749749997
+2695936,31-03-2021,1,sapi bali,24,Jembrana,Bengkulu,Kaur,Kaur Utara,Simpang Tiga,103.179926265375,-4.41811049849997
+2861226,17-10-2021,16,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Semundam,101.525129476135,-3.01416549749996
+2676266,08-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Seginim,Muara Danau,103.064711075843,-4.35220099999995
+2923734,23-12-2021,2,sapi bali,24,Jembrana,Jambi,Sarolangun,Singkut,Pasar Singkut,102.574510344883,-2.51741480699997
+2929090,15-12-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Nanjungan,102.853720435297,-4.31945162199997
+2713141,22-04-2021,18,sapi bali,24,Jembrana,Sumatera Barat,Sijunjung,Kamang Baru,Air Amo,101.328797130411,-0.764792530999955
+2676390,30-01-2021,14,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang,Tanjung Besar,103.109719618209,-4.40426999999994
+2847958,15-09-2021,9,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Kemang Manis,102.916048013911,-4.35008699949995
+2772496,15-05-2021,6,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Pagar Dewa,102.870473918312,-4.39508349949995
+2876728,02-03-2021,18,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Air Napal,Pasar Kerkap,102.199200157943,-3.60821399799994
+2771411,05-04-2021,8,sapi bali,24,Jembrana,Sumatera Barat,Sijunjung,Kamang Baru,Kunangan Parit Rantang,101.407178881945,-0.834844826999955
+2854862,07-02-2021,5,sapi bali,24,Jembrana,Bengkulu,Seluma,Ilir Talo,Rawa Indah,102.594622020078,-4.17395199899997
+2854543,28-08-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Manjuto,Sinar Jaya,101.206226,-2.488377
+2877484,27-08-2021,10,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Batik Nau,Serangai,101.945406762136,-3.43170449799993
+2676064,08-03-2021,9,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Padang Tambak,102.962347,-4.409331
+2951781,27-12-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Bumi Mekar Jaya,101.406491,-2.864602
+2744705,09-06-2021,13,sapi bali,24,Jembrana,Bengkulu,Seluma,Lubuk Sandi,Tumbuan,102.540131903001,-3.99528849949996
+2769300,03-03-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Harapan,102.312812984399,-3.68028399849996
+2768972,15-06-2021,2,sapi bali,24,Jembrana,Sumatera Barat,Pesisir Selatan,Silaut,Air Hitam,101.026188,-2.413364
+2692464,26-03-2021,2,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2648150,07-02-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Mengupeh,102.60642925479,-1.40759462049994
+2657345,17-02-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Lubuk Mandarasah,102.726049462603,-1.32719933899995
+2947482,03-12-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kubang,Dusun Baru 1,102.341692,-3.744778
+2854789,11-10-2021,3,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Tengah,Air Bang,102.590001786484,-3.46217399799994
+2939707,02-01-2021,8,sapi bali,24,Jembrana,Sumatera Selatan,Musi Rawas,Purwodadi,Sadar Karya,102.973190977574,-3.03519199849995
+2665902,26-02-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Lubuk Mandarasah,102.726049462603,-1.32719933899995
+2854804,11-10-2021,2,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Selatan,Desa Teladan,102.610167068504,-3.50056549949994
+2794157,05-06-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Sungai Rumbai,Mekar Sari,101.482832991196,-2.89672749699997
+2877479,26-08-2021,7,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Batik Nau,Serangai,101.945406762136,-3.43170449799993
+2676267,08-03-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Lubuk Bangko,101.414647,-2.470315
+2794152,05-05-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Bandar Ratu,101.107859,-2.534067
+2675955,08-03-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Padang Tambak,102.962347,-4.409331
+2847963,15-09-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Pagar Dewa,102.870473918312,-4.39508349949995
+2940605,15-12-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Utara,Marga Sakti Seblat,Karya Jaya,101.695684245188,-3.19115899749994
+2877469,23-08-2021,8,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Batik Nau,Serangai,101.945406762136,-3.43170449799993
+2772499,15-05-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pasar Manna,Gunung Mesir,102.930176728706,-4.44505449799996
+2874503,29-10-2021,5,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Penarik,Penarik,101.29577239642,-2.64743299699995
+2861227,21-09-2021,5,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Mundam Marap,101.500976,-3.022283
+2672873,13-01-2021,20,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Bandar Ratu,101.107859,-2.534067
+2690255,24-03-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Lubuk Mandarasah,102.726049462603,-1.32719933899995
+2692542,26-03-2021,1,sapi bali,24,Jembrana,Lampung,Lampung Tengah,Way Pengubuan,Lempuyang Bandar,105.137329306653,-4.82828499999994
+2920642,18-12-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2903357,28-11-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Singkut,Pasar Singkut,102.574510344883,-2.51741480699997
+2907979,02-12-2021,42,sapi bali,24,Jembrana,Bengkulu,Bengkulu,Kampung Melayu,Teluk Sepang,102.291186302322,-3.95817577499994
+2683003,15-03-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2861235,25-09-2021,5,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Air Bikuk,101.398028999732,-2.78618649649997
+2675101,06-03-2021,3,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2675100,06-03-2021,6,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2772456,15-03-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang,Pajar Bulan,103.107047647514,-4.41375299949996
+2713089,22-04-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2772475,15-03-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Manggul,102.959423505083,-4.48058699899997
+2924065,23-12-2021,2,Sapi Bali Cross,294,Jembrana,Jambi,Merangin,Pamenang,Keroya,102.512008419728,-2.09963285849994
+2874686,30-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kampung Delima,102.556847125909,-3.42677749849997
+2672875,20-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Tanah Rekah,101.165079,-2.61827
+2772470,15-01-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Kota Medan,102.936194342239,-4.40567349849994
+2676406,01-08-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Kayu Kunyit,102.952021733856,-4.44382499949995
+2854533,20-08-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Manjuto,Sinar Jaya,101.206226,-2.488377
+2861192,23-10-2021,13,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Tanjung Harapan,101.49782082817,-2.98986349799995
+2676494,26-01-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Tanjung Eran,102.981260038297,-4.33990799949996
+2771544,25-06-2021,4,sapi bali,24,Jembrana,Sumatera Barat,Padang Pariaman,Lubuk Alung,Punggung Kasik,100.327615,-0.685094
+2673522,05-03-2021,4,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2854561,04-09-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,V Koto,Pondok Tengah,101.216552,-2.499928
+2861188,15-07-2021,10,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pasar Ipuh,101.481448803837,-2.99689299699995
+2947439,01-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Pekik Nyaring,102.270957168652,-3.72564499749996
+2854798,11-10-2021,3,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kesambe Baru,102.576733885673,-3.43011399899996
+2671666,14-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Riak Siabun I,102.326631741752,-3.94603273749996
+2665075,25-02-2021,5,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2861202,12-08-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Makmur Jaya,101.573382135164,-3.05512749749997
+2898208,23-11-2021,1,sapi bali,24,Jembrana,Jambi,Batanghari,Mersam,Pematang Gadung,102.996654452342,-1.54792941749997
+2929081,15-11-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Air Kemang,102.907486275306,-4.35902549949998
+2747064,11-06-2021,9,sapi bali,24,Jembrana,Bengkulu,Kaur,Semidang Gumay,Mentiring,103.247614486962,-4.63451149899996
+2877473,24-08-2021,9,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Batik Nau,Serangai,101.945406762136,-3.43170449799993
+2676295,05-01-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang,Tanjung Besar,103.109719618209,-4.40426999999994
+2853663,10-10-2021,20,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Jenggalu,102.391080784532,-3.92775949849994
+2817812,06-09-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2676301,05-01-2021,8,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang,Muara Tiga ilir,103.079171,-4.43621
+2861185,09-07-2021,10,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Medan Jaya,101.509370595769,-2.98488049699995
+2760072,28-06-2021,2,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Muara Kilis,102.566837595865,-1.39810013749994
+2769238,16-03-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Pekik Nyaring,102.270957168652,-3.72564499749996
+2772548,15-06-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang Ilir,Lubuk Ladung,103.05374514358,-4.53801749899995
+2657344,17-02-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Lubuk Mandarasah,102.726049462603,-1.32719933899995
+2861234,16-09-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Karya Mulya,101.41799,-2.822255
+2766363,06-12-2021,15,sapi bali,24,Jembrana,Kepulauan Riau,Tanjung Pinang,Tanjung Pinang Timur,Batu Sembilan,104.50810727058,0.958616107500035
+2854801,11-10-2021,2,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kampung Delima,102.556847125909,-3.42677749849997
+2874794,30-10-2021,4,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Selatan,Desa Teladan,102.610167068504,-3.50056549949994
+2670531,03-03-2021,23,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Riak Siabun,102.326734823284,-3.97032280699995
+2684710,16-03-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Pasar Pino,102.82482436746,-4.36401949949996
+2854800,11-10-2021,3,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kampung Delima,102.556847125909,-3.42677749849997
+2676285,20-01-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Seginim,Muara Danau,103.064711075843,-4.35220099999995
+2854797,11-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kesambe Baru,102.576733885673,-3.43011399899996
+2854856,17-03-2021,7,sapi bali,24,Jembrana,Bengkulu,Seluma,Semidang Alas Maras,Padang Kelapo,102.784279009709,-4.28103825899996
+2918902,10-11-2021,1,sapi,22,Jembrana,Sumatera Utara,Labuhan Batu Selatan,Kota Pinang,Kota Pinang,100.108913388871,1.89403247350003
+2861204,08-08-2021,16,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pulau Baru,101.507706096926,-3.03110499699994
+2672429,22-02-2021,14,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Sungai Ipuh,101.316507,-2.479871
+2874777,30-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kampung Delima,102.556847125909,-3.42677749849997
+2939580,02-01-2021,3,sapi bali,24,Jembrana,Sumatera Selatan,Musi Rawas,Tugu Mulyo,Srikaton,102.887143573328,-3.13076249899996
+2771685,15-02-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Padang Tambak,102.962347,-4.409331
+2671669,17-01-2021,7,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Padang Pelawi,102.449210570556,-3.94690299899995
+2880207,04-11-2021,2,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Ilir,Karang Dadi,102.238603945289,-1.44466626599996
+2882939,08-11-2021,17,sapi bali,24,Jembrana,Kalimantan Tengah,Kapuas,Mantangai,Manusup,114.455888303132,-2.47589135199996
+2747070,11-06-2021,5,sapi bali,24,Jembrana,Bengkulu,Kaur,Tanjung Kemuning,Selika II,103.188068257572,-4.57118761949997
+2669751,02-03-2021,1,sapi bali,24,Jembrana,Riau,Rokan Hulu,Rokan Iv Koto,Lubuk Bendahara Timur,100.469004367656,0.608140646000038
+2676499,06-01-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Padang manis,102.940566,-4.463714
+2771675,15-02-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Pagar Dewa,102.870473918312,-4.39508349949995
+2911354,07-12-2021,80,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2856568,13-10-2021,2,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Utara,Tasik Malaya,102.536828482848,-3.43303399899995
+2854642,15-09-2021,10,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Dikit,Pondok Lunang,101.265910091743,-2.67399999749998
+2861164,05-07-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Cinta Asih,101.577585,-3.055879
+2854286,16-08-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Teramang Jaya,Bandar Jaya,101.591631455628,-2.73128199699994
+2880205,04-11-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Mengupeh,102.60642925479,-1.40759462049994
+2919298,16-12-2021,4,sapi bali,24,Jembrana,Jambi,Merangin,Pamenang,Keroya,102.512008419728,-2.09963285849994
+2772500,15-05-2021,7,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Tambangan,102.986047501955,-4.39624399899995
+2747060,11-06-2021,13,sapi bali,24,Jembrana,Bengkulu,Kaur,Kaur Utara,Simpang Tiga,103.179926265375,-4.41811049849997
+2794150,05-05-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Bukit Mulia,101.591631455628,-2.73128199699994
+2676489,23-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Tanjung Eran,102.981260038297,-4.33990799949996
+2634102,21-01-2021,4,sapi bali,24,Jembrana,Riau,Rokan Hilir,Bagan Sinembah,Pelita,100.559050096821,1.60321002900005
+2677871,09-03-2021,2,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2772525,15-06-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Seginim,Muara Danau,103.064711075843,-4.35220099999995
+2676559,15-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Tanggo Raso,102.838434934069,-4.38138549999994
+2772479,15-04-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Kayu Kunyit,102.952021733856,-4.44382499949995
+2916607,13-12-2021,11,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Ilir,Karang Dadi,102.238603945289,-1.44466626599996
+2939585,02-01-2021,4,sapi bali,24,Jembrana,Sumatera Selatan,Musi Rawas,Tugu Mulyo,Kali Bening,102.923224820562,-3.11110449899994
+2876732,16-03-2021,8,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Putri Hijau,Pasar Baru Kota Bani,101.655600161667,-3.23915599699995
+2903356,28-11-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Singkut,Pasar Singkut,102.574510344883,-2.51741480699997
+2854339,05-07-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Manjuto,Tirta Makmur,101.151203,-2.470526
+2861173,10-07-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Dusun Pulau,101.607988486417,-3.08276949749995
+2672862,10-02-2021,13,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pasar Baru,101.4868,-3.008539
+2747058,11-06-2021,1,sapi bali,24,Jembrana,Bengkulu,Kaur,Kelam Tengah,Rigangan Iii,103.196271442447,-4.46567949799996
+2855654,23-09-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kubang,Dusun Baru 1,102.341692,-3.744778
+2669446,02-03-2021,2,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Mengupeh,102.60642925479,-1.40759462049994
+2620354,01-01-2021,3,sapi bali,24,Jembrana,Riau,Pelalawan,Pangkalan Kuras,Sido Mukti,102.017014,0.194705
+2928919,30-12-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Tirtakencana,102.148555199017,-1.33777171299994
+2679446,11-03-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Pasar Pedati,102.263966214241,-3.70683599899996
+2675621,07-03-2021,4,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2939587,02-01-2021,1,sapi bali,24,Jembrana,Sumatera Selatan,Musi Rawas,Tugu Mulyo,Tambah Asri,102.976807652577,-3.09213399949994
+2747066,11-06-2021,5,sapi bali,24,Jembrana,Bengkulu,Kaur,Tanjung Kemuning,Tanjung Kemuning I,103.167058421771,-4.58501749899995
+2755694,22-06-2021,25,sapi bali,24,Jembrana,Riau,Indragiri Hilir,Kateman,Sungai Teritip,103.641550630926,0.28554061050005
+2866257,23-10-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Sapta Mulia,102.133078133993,-1.38267588549996
+2854788,11-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Tengah,Air Bang,102.590001786484,-3.46217399799994
+2861193,29-07-2021,33,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Sibak,101.52737038641,-2.98003249799996
+2877467,22-08-2021,10,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Batik Nau,Serangai,101.945406762136,-3.43170449799993
+2769313,19-03-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Merigi Sakti,Punjung,102.435962917193,-3.63793699749993
+2915045,11-12-2021,6,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2854516,18-08-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,XIV KOTO,Rawa Mulya,101.129761239404,-2.50764149699995
+2940559,02-01-2021,1,sapi,22,Jembrana,Sumatera Selatan,Musi Rawas,Megang Sakti,Jajaran Baru Ii,103.03402740321,-2.88501449899994
+2672866,05-02-2021,12,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Bandar Ratu,101.107859,-2.534067
+2947470,22-11-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Kembang Ayun,102.327465019223,-3.63604349799996
+2854781,11-10-2021,3,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Selupu Rejang,Kampung Baru,102.603291906355,-3.38590849849996
+2672865,19-02-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Sungai Rumbai,Talang Gading,101.445097,-2.941955
+2670532,03-03-2021,2,sapi bali,24,Jembrana,Bengkulu,Seluma,Air Periukan,Kungkai Baru,102.426994652739,-4.04973320149998
+2939670,02-01-2021,4,sapi,22,Jembrana,Sumatera Selatan,Musi Rawas,Cecar/B T S Ulu,Trimukti,103.379240042413,-3.50961499999997
+2861209,21-08-2021,15,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Sibak,101.52737038641,-2.98003249799996
+2833531,23-09-2021,15,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Padang Luas,102.370536156595,-3.88896834199997
+2929134,30-12-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu,Selebar,Suka Rami,102.304021473952,-3.88690799799997
+2951749,01-12-2021,27,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Tanah Rekah,101.165079,-2.61827
+2676560,15-01-2021,10,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Pagar Dewa,102.870473918312,-4.39508349949995
+2861180,26-07-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Bukit Harapan,101.615975911505,-3.03288849749995
+2672863,10-02-2021,9,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Medan Jaya,101.509370595769,-2.98488049699995
+2854491,07-08-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,XIV KOTO,Rawa Mulya,101.129761239404,-2.50764149699995
+2880252,04-11-2021,4,sapi bali,24,Jembrana,Jambi,Tebo,Tebo Ilir,Kelurahan Sungai Bengkal,102.749366716877,-1.57215172299996
+2672407,15-01-2021,6,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Sungai Ipuh,101.316507,-2.479871
+2769212,03-05-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kelapa,Pasar Pedati,102.263966214241,-3.70683599899996
+2676280,24-01-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Seginim,Muara Danau,103.064711075843,-4.35220099999995
+2697530,01-04-2021,1,sapi bali,24,Jembrana,Bengkulu,Kaur,Kelam Tengah,Rigangan Iii,103.196271442447,-4.46567949799996
+2880273,04-11-2021,2,sapi bali,24,Jembrana,Jambi,Tebo,Tebo Ilir,Kelurahan Sungai Bengkal,102.749366716877,-1.57215172299996
+2769193,21-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Karang Tinggi,Padang Tambak,102.423514549736,-3.71741249949994
+2671662,04-03-2021,31,sapi bali,24,Jembrana,Bengkulu,Seluma,Air Periukan,Pasar Ngalam,102.447426913284,-4.06433899849995
+2854875,30-08-2021,3,sapi bali,24,Jembrana,Bengkulu,Seluma,Semidang Alas Maras,Karang Anyar,102.803262188625,-4.27994049799997
+2894160,18-11-2021,30,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Pematang Sapat,102.185950007794,-1.41447222149995
+2939583,02-01-2021,1,sapi bali,24,Jembrana,Sumatera Selatan,Musi Rawas,Tugu Mulyo,Mataram,102.900497329663,-3.09302399849997
+2854297,20-08-2021,5,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Penarik,Penarik,101.29577239642,-2.64743299699995
+2676558,15-01-2021,19,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Tungkal I,102.882549332138,-4.35840449799997
+2672424,10-02-2021,6,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Sungai Ipuh 1,101.330254,-2.478827
+2679565,11-03-2021,2,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2939677,02-01-2021,1,sapi bali,24,Jembrana,Sumatera Selatan,Musi Rawas,Cecar/B T S Ulu,Mekar Jaya,103.317951024251,-3.49669699949996
+2778979,19-07-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pondok Kubang,Pondok Kubang,102.355384360735,-3.71423199899996
+2794153,05-05-2021,2,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Bandar Ratu,101.107859,-2.534067
+2677501,17-01-2021,1,sapi bali,24,Jembrana,Bengkulu,Kaur,Padang Guci Ulu,Naga Rantai,103.348168616621,-4.32684999949996
+2769304,25-03-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Pagar Jati,Tumbuk,102.394174652684,-3.58056699799997
+2772505,15-05-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Kemang Manis,102.916048013911,-4.35008699949995
+2874782,30-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Selupu Rejang,Cawang Lama,102.58722896914,-3.39180149949993
+2861187,11-07-2021,27,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pulai Payung,101.491722,-2.994068
+2861225,09-09-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pulau Baru,101.507706096926,-3.03110499699994
+2772513,15-06-2021,3,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Kemang Manis,102.916048013911,-4.35008699949995
+2861210,30-08-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Tanjung Jaya,101.522874,-3.009267
+2854868,04-01-2021,4,sapi bali,24,Jembrana,Bengkulu,Seluma,Ilir Talo,Padang Cekur,102.711213129479,-4.22082490349996
+2672861,05-02-2021,66,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pasar Ipuh,101.481448803837,-2.99689299699995
+2672188,04-03-2021,20,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2816469,05-09-2021,3,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2929072,15-10-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Padang Lebar,102.940642326599,-4.36191949899995
+2819523,08-09-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2861183,06-07-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pulau Makmur,101.490073,-3.018035
+2672869,22-02-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,V Koto,Pondok Tengah,101.216552,-2.499928
+2677428,09-03-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tebo Ilir,Betung Bedarah Barat,102.598831122875,-1.58852356599996
+2866744,24-10-2021,6,sapi bali,24,Jembrana,Jambi,Tebo,Rimbo Bujang,Sapta Mulia,102.133078133993,-1.38267588549996
+2861231,01-09-2021,6,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Bumi Mekar Jaya,101.406491,-2.864602
+2771830,15-03-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kota Manna,Gunung Ayu,102.935287106852,-4.39849399799994
+2768284,07-07-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Talang Empat,Air Putih,102.376262845352,-3.79670449799994
+2833537,23-09-2021,1,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Riak Siabun I,102.326631741752,-3.94603273749996
+2794147,15-04-2021,1,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Kota Mukomuko,Pondok Batu,101.165536603197,-2.56056199649996
+2874786,30-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Selupu Rejang,Cawang Lama,102.58722896914,-3.39180149949993
+2677486,15-01-2021,3,sapi bali,24,Jembrana,Bengkulu,Kaur,Padang Guci Ulu,Marga Mulya,103.315020753402,-4.32578899899994
+2874770,30-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Kampung Delima,102.556847125909,-3.42677749849997
+2771851,15-03-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pasar Manna,Gunung Mesir,102.930176728706,-4.44505449799996
+2771746,15-02-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang Ilir,Nanjungan,103.077596696925,-4.47743799899996
+2876726,07-01-2021,8,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Arma Jaya,Tebing Kaning,102.259589739214,-3.42578649849995
+2718546,29-04-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Muara Kilis,102.566837595865,-1.39810013749994
+2760790,28-06-2021,4,sapi bali,24,Jembrana,Riau,Dumai,Sungai Sembilan,Basilam Baru,101.216328233701,1.86551546850004
+2743735,07-06-2021,4,sapi bali,24,Jembrana,Bengkulu,Seluma,Seluma Barat,Pagar Agung,102.543687808175,-4.03401299749996
+2672256,04-03-2021,4,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2861229,13-09-2021,18,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Malin Deman,Gajah Makmur,101.653200586083,-3.00867799749994
+2854698,05-09-2021,13,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Air Rami,101.555251220245,-3.12477499699995
+2676544,22-01-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pinoraya,Kemang Manis,102.916048013911,-4.35008699949995
+2676246,05-01-2021,2,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Seginim,Muara Danau,103.064711075843,-4.35220099999995
+2772536,15-06-2021,1,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Air Nipis,Suka Negeri,103.156939940073,-4.23553102799994
+2912209,07-12-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Singkut,Pasar Singkut,102.574510344883,-2.51741480699997
+2929073,15-10-2021,5,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Pino,Beringin Datar,102.950011,-4.390505
+2885972,10-11-2021,5,sapi bali,24,Jembrana,Jambi,Tebo,Tebo Ilir,Kelurahan Sungai Bengkal,102.749366716877,-1.57215172299996
+2769181,12-01-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Tengah,Merigi Sakti,Arga Indah II,102.422159933508,-3.61699749799996
+2854806,11-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Curup Timur,Air Meles Bawah,102.58393264527,-3.43871799799996
+2771406,15-06-2021,4,sapi bali,24,Jembrana,Sumatera Barat,Sijunjung,Iv Nagari,Palangki,100.967049956806,-0.738987772499968
+2661835,22-02-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2876729,04-03-2021,17,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Air Napal,Tepian Laut,102.189213621479,-3.62577949849995
+2864780,15-10-2021,17,sapi,22,Jembrana,Kalimantan Tengah,Kapuas,Mantangai,Manusup,114.455888303132,-2.47589135199996
+2672435,16-02-2021,18,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Selagan Raya,Talang Medan,101.313959,-2.567022
+2877485,28-08-2021,10,sapi,22,Jembrana,Bengkulu,Bengkulu Utara,Batik Nau,Serangai,101.945406762136,-3.43170449799993
+2861177,20-07-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Air Rami,Air Rami,101.555251220245,-3.12477499699995
+2677396,09-03-2021,1,sapi bali,24,Jembrana,Jambi,Tebo,Tengah Ilir,Lubuk Mandarasah,102.726049462603,-1.32719933899995
+2861214,07-09-2021,30,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Air Buluh,101.539281771435,-3.03952649749996
+2922177,21-12-2021,2,sapi bali,24,Jembrana,Jambi,Merangin,Pamenang Barat,Pinang Merah,102.390195010502,-2.10638916399995
+2861181,02-07-2021,45,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Pulau Baru,101.507706096926,-3.03110499699994
+2854271,15-07-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Teramang Jaya,Sido Makmur,101.334697,-2.706616
+2675619,07-03-2021,1,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Pematang Kabau,102.599090535437,-2.00600067099995
+2901693,26-11-2021,4,sapi bali,24,Jembrana,Jambi,Batanghari,Mersam,Pematang Gadung,102.996654452342,-1.54792941749997
+2874789,30-10-2021,1,sapi bali,24,Jembrana,Bengkulu,Rejang Lebong,Selupu Rejang,Kayu Manis,102.573686345144,-3.35749149799994
+2768968,15-06-2021,4,sapi bali,24,Jembrana,Sumatera Barat,Pesisir Selatan,Pancung Soal,Taluk Ampalu Inderapura,100.949023155606,-2.05648559049996
+2772544,15-06-2021,4,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Kedurang Ilir,Suka Jaya,103.065987,-4.550342
+2676518,09-01-2021,7,sapi bali,24,Jembrana,Bengkulu,Bengkulu Selatan,Manna,Padang manis,102.940566,-4.463714
+2671664,26-02-2021,5,sapi bali,24,Jembrana,Bengkulu,Seluma,Sukaraja,Padang Luas,102.370536156595,-3.88896834199997
+2951764,09-12-2021,4,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Sungai Rumbai,Gading Jaya,101.429159,-2.888761
+2861211,09-08-2021,5,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Pondok Suguh,Sinar Laut,101.394604,-2.887383
+2674396,05-03-2021,3,sapi bali,24,Jembrana,Jambi,Sarolangun,Air Hitam,Bukit Suban,102.52073971528,-1.97053773449997
+2854265,05-07-2021,5,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Penarik,Bumi Mulya,101.279284586305,-2.67069399749997
+2747069,11-06-2021,8,sapi bali,24,Jembrana,Bengkulu,Kaur,Tanjung Kemuning,Selika,103.183705799617,-4.61019059499995
+2861228,27-09-2021,3,sapi bali,24,Jembrana,Bengkulu,Mukomuko,Ipuh,Tanjung Medan,101.483174,-2.991328

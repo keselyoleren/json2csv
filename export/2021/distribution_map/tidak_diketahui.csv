@@ -1,0 +1,349 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2783268,27-07-2021,1,kucing lokal,66,tidak diketahui,Sumatera Barat,Pasaman,Lubuk Sikaping,Tanjung Beringin,100.173966488934,0.110684927500046
+2860022,17-10-2021,1,kucing,64,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2713085,22-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2839000,28-09-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Kasikan,100.913868715811,0.498814500000037
+2621057,04-01-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2888602,12-11-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman Barat,Kinali,Kinali,99.9351601384464,-0.065911955999951
+2789937,05-08-2021,1,Anjing,60,tidak diketahui,Bali,Badung,Mengwi,Penarungan,115.182653238417,-8.54904949999997
+2670470,02-03-2021,1,kucing kampung,520,tidak diketahui,Sulawesi Tengah,Morowali,Bungku Tengah,Marsaoleh,121.958606851719,-2.58146249549995
+2727852,13-05-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2691975,26-03-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Kusau Makmur,100.790760075587,0.60848680600003
+2928536,30-12-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Sail,Cinta Raja,101.464708325362,0.474366307000054
+2747171,11-06-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Rumbai Timur,Limbungan Baru,101.493493272306,0.536078172500055
+2772374,13-07-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Susut,115.331490132683,-8.43897149999995
+2703754,12-04-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Batu Hampa,100.568994048868,-0.232645659999974
+2799109,19-08-2021,1,anjing lokal,62,tidak diketahui,Riau,Pekanbaru,Bina Widya,Sidomulyo Barat,101.404622531934,0.438211104000061
+2916004,13-12-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2805116,27-08-2021,1,anjing lokal,62,tidak diketahui,Riau,Pekanbaru,Senapelan,Padang Bulan,101.42925763706,0.512335300000046
+2781004,23-07-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2677284,09-03-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Belancan,115.324673867006,-8.28210999999996
+2910559,06-12-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai,Sri Meranti,101.401251360761,0.547949373000051
+2814816,03-09-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Selat,115.324465,-8.437185
+2689223,22-03-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2684170,16-03-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Air Dingin,101.456006,0.450152
+2652026,10-02-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Sebewe,117.492225051827,-8.46347099999994
+2866754,24-10-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2717541,28-04-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Selatan,101.487304009548,0.427924335000057
+2792780,10-08-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Pinggan,115.38960764603,-8.20839849999996
+2769356,08-07-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lenangguar,Lenangguar,117.410864556815,-8.73246349999997
+2845330,01-10-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Aua Kuniang,99.9166418810981,0.124297775000059
+2682901,15-03-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2755746,22-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Mangguh,115.30809425018,-8.31327699999997
+2664763,25-02-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Wae Rii,Wae Rii,120.464685469932,-8.59554199399994
+2805066,27-08-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2711031,20-04-2021,3000,itik,10,tidak diketahui,Sulawesi Selatan,Pinrang,Paleteang,Temmassarangnge,119.658264184782,-3.76204919649993
+2781826,25-07-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2705730,14-04-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Kota Solok,Lubuk Sikarah,Aro Iv Korong,100.660055529626,-0.783920882499928
+2741297,03-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Suka Maju,117.211174486235,-8.92585099999994
+2861153,18-10-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Bina Widya,Tobekgodang,,
+2781494,24-07-2021,1,sapi,22,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2744365,08-06-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Batu Hampa,100.568994048868,-0.232645659999974
+2907296,01-12-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Susut,Abuan,115.338868437903,-8.46892249999996
+2764808,02-07-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Kintamani,115.357807136869,-8.24597649999995
+2705388,14-04-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai Timur,Limbungan,101.468367775199,0.544504204000049
+2769087,08-07-2021,5,babi,55,tidak diketahui,Kalimantan Utara,Malinau,Mentarang,Long Gafid,116.286030034707,3.77886986750005
+2915406,12-12-2021,1,kucing,64,tidak diketahui,Bali,Bangli,Bangli,Bebalang,115.361002912024,-8.46847599999995
+2789940,05-08-2021,1,Anjing,60,tidak diketahui,Bali,Badung,Mengwi,Penarungan,115.182653238417,-8.54904949999997
+2658407,18-02-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2921345,20-12-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2738700,31-05-2021,1,Anjing,60,tidak diketahui,Bali,Klungkung,Dawan,Dawan Kaler,115.443294913118,-8.52313049999995
+2709601,19-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2922109,21-12-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Aua Kuniang,99.9166418810981,0.124297775000059
+2791696,09-08-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Tembuku,115.390129894924,-8.43226499999997
+2769351,08-07-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2700673,07-04-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Penglumbaran,115.343502869255,-8.38885249999996
+2698266,03-04-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Terunyan,115.435808438258,-8.23162199999996
+2871365,27-10-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Buer,Labuhan Burung,117.061619309205,-8.45064949999994
+2883958,09-11-2021,1,Anjing,60,tidak diketahui,Sulawesi Barat,Pasangkayu,Pasangkayu,Gunung Sari,119.455923,-1.207827
+2717223,27-04-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Mungka,Mungka,100.59100240052,-0.0832883249999554
+2824680,13-09-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Batu Hampa,100.568994048868,-0.232645659999974
+2688680,22-03-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Batu Hampa,100.568994048868,-0.232645659999974
+2814027,03-09-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Aua Kuniang,99.9166418810981,0.124297775000059
+2709320,19-04-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Sumbawa,Samapuin,117.459439906387,-8.52686949949995
+2663819,24-02-2021,1,kucing,64,tidak diketahui,Riau,Siak,Bunga Raya,Jaya Pura,102.022263229796,0.86025080050004
+2694827,30-03-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Sukawana,115.35247045184,-8.20798849999994
+2904106,29-11-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Payung Sekaki,Labuh Baru Barat,101.357233974156,0.495997607000049
+2916303,13-12-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Marpoyan Damai,Sidomulyo Timur,101.403705535314,0.419329955500046
+2883933,09-11-2021,1,Anjing,60,tidak diketahui,Sulawesi Barat,Pasangkayu,Bambalamotu,Bambalamotu,119.517439378531,-1.15717199949995
+2670936,03-03-2021,1,Anjing,60,tidak diketahui,Sulawesi Barat,Pasangkayu,Bambalamotu,Bambalamotu,119.517439378531,-1.15717199949995
+2743403,07-06-2021,1,anjing lokal,62,tidak diketahui,Riau,Kampar,Tambang,Kuapan,101.305237477465,0.379542429500049
+2826922,16-09-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Bangli,Kayubihi,115.371424983778,-8.37754299999995
+2659652,19-02-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Labuhan Badas,Labuan Sumbawa,117.403965338674,-8.47432349899995
+2742594,05-06-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Kasikan,100.913868715811,0.498814500000037
+2717548,28-04-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai,Palas,101.413226170828,0.56539210650007
+2848705,05-10-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman,Lubuk Sikaping,Air Manggis,100.105321627392,0.203192501500041
+2925110,25-12-2021,1,kuda,53,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2748705,14-06-2021,44,Babi Liar,565,tidak diketahui,Kalimantan Utara,Malinau,Mentarang Hulu,Long Pala,115.987293640146,4.04522824300005
+2833299,23-09-2021,1,monyet,76,tidak diketahui,Riau,Pekanbaru,Sail,Suka Maju,101.478070307383,0.485524251500038
+2738929,31-05-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2652378,11-02-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Sebewe,117.492225051827,-8.46347099999994
+2828124,17-09-2021,1,sapi,22,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2772043,12-07-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Bukit Kemuning,100.976661710534,0.676838418000045
+2836889,27-09-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kubu,115.370446944653,-8.40907599999994
+2752758,17-06-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Suka Ramai,101.001174432369,0.469016333500036
+2913544,09-12-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kawan,115.365386077268,-8.44563899999997
+2789939,05-08-2021,1,Anjing,60,tidak diketahui,Bali,Badung,Mengwi,Penarungan,115.182653238417,-8.54904949999997
+2756478,23-06-2021,1,Anjing luar,216,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Suka Maju,117.211174486235,-8.92585099999994
+2666002,26-02-2021,1,kucing,64,tidak diketahui,Riau,Dumai,Dumai Timur,Teluk Binjai,101.547154609412,1.60320544100006
+2923278,22-12-2021,1,anjing lokal,62,tidak diketahui,Riau,Bengkalis,Mandau,Balik Alam,101.164515183584,1.18062275550002
+2846158,02-10-2021,1,monyet,76,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2766452,05-07-2021,1,Anjing dalam anak,217,tidak diketahui,Bali,Bangli,Kintamani,Bunutin,115.27370798426,-8.30661199999994
+2833239,23-09-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Pebatuan,101.509901,0.467925
+2759913,27-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Suka Maju,117.211174486235,-8.92585099999994
+2648985,08-02-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan A,115.388080022439,-8.24343399999995
+2709799,19-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2709553,19-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2751000,16-06-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Rahong Utara,Pong Lengor,120.367882511103,-8.55973149449997
+2682310,15-03-2021,1,Kucing Persia,535,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Selatan,101.487304009548,0.427924335000057
+2626392,11-01-2021,1,Anjing,60,tidak diketahui,Sulawesi Selatan,Wajo,Majauleng,Tosora,120.147386240259,-4.10495447849996
+2728233,16-05-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Susut,115.331490132683,-8.43897149999995
+2905372,30-11-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Sumbawa,Samapuin,117.459439906387,-8.52686949949995
+2888632,12-11-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2705378,14-04-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai,Palas,101.413226170828,0.56539210650007
+2748622,14-06-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Sumbawa,Bugis,117.427911851379,-8.49577299949996
+2693664,29-03-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Danau Lancang,101.057363524904,0.813370584500063
+2719704,30-04-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Plampang,Sepakat,117.726914957631,-8.83368668999995
+2860025,17-10-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Buahan,115.377599390612,-8.30084799999995
+2677166,09-03-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Agam,Tanjung Raya,Duo Koto,100.226382495026,-0.244005284499934
+2893983,18-11-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Sukajadi,Kampung Melayu,101.42673878418,0.486869186000064
+2918060,15-12-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2863645,20-10-2021,1,Anjing luar dewasa,220,tidak diketahui,Riau,Bengkalis,Bantan,Selat Baru,102.222766384181,1.52973097500006
+2719250,29-04-2021,1,kera,68,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Mungka,Talang Maua,100.554406165345,-0.0232678129999613
+2652295,11-02-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bayungcerik,115.308670468524,-8.29674449999996
+2744063,08-06-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman,Rao,Tarung Tarung,99.9923202480289,0.515258832000058
+2662534,23-02-2021,1,kucing,64,tidak diketahui,Riau,Dumai,Dumai Timur,Tanjung Palas,101.588714844602,1.56781512350005
+2741223,03-06-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Maronge,Pemasar,117.614851,-8.711314
+2741299,03-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Suka Maju,117.211174486235,-8.92585099999994
+2916066,13-12-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2780983,23-07-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Rejosari,101.500139251461,0.485521673500045
+2722353,04-05-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Plampang,Sp III Prode,117.805971267051,-8.88146099999997
+2869728,26-10-2021,1,anjing lokal,62,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Bencah Lesung,101.552672662369,0.520885199000048
+2724713,06-05-2021,1,Anjing,60,tidak diketahui,Riau,Rokan Hulu,Ujung Batu,Pematang Tebih,100.640474801193,0.632926105500047
+2697653,01-04-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Guguak,Guguak Viii Koto,100.557386313595,-0.132835875999973
+2812562,02-09-2021,1,kucing ras,65,tidak diketahui,Riau,Pekanbaru,Rumbai Timur,Meranti Pandak,101.437045902973,0.537508527000028
+2715155,25-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2833376,23-09-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Marpoyan Damai,Sidomulyo Timur,101.403705535314,0.419329955500046
+2752770,17-06-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Danau Lancang,101.057363524904,0.813370584500063
+2686717,19-03-2021,1,kera,68,tidak diketahui,Sumatera Barat,Pasaman,Lubuk Sikaping,Air Manggis,100.105321627392,0.203192501500041
+2653216,12-02-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Katung,115.323793779945,-8.29741999999996
+2901314,26-11-2021,1,kucing,64,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2917295,14-12-2021,1,Anjing luar dewasa,220,tidak diketahui,Sulawesi Tengah,Morowali,Bahodopi,Lalampu,122.07164067295,-2.87710343949993
+2771902,12-07-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Koto Tangah Batu Hampa,100.576348585971,-0.256352323999948
+2788306,03-08-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Selatan,101.487304009548,0.427924335000057
+2808768,31-08-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung,Petapahan,101.067418486738,0.472411470500049
+2930069,31-12-2021,1,kucing lokal,66,tidak diketahui,Riau,Bengkalis,Mandau,Duri Timur,101.195240475344,1.22944414450006
+2796388,16-08-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Susut,Selat,115.324465,-8.437185
+2750954,16-06-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Langke Rembong,Golo Dukal,120.420395244346,-8.62608099449997
+2910449,06-12-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai Timur,Meranti Pandak,101.437045902973,0.537508527000028
+2836707,27-09-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Lima Puluh,Tanjung Rhu,101.482930158764,0.524940788500061
+2683905,16-03-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Sariak Laweh,100.543024003936,-0.224562353499948
+2747213,11-06-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Rejosari,101.500139251461,0.485521673500045
+2623495,07-01-2021,1,Anjing luar dewasa,220,tidak diketahui,Sulawesi Selatan,Wajo,Pammana,Tadang Palie,120.111665008131,-4.14850616149997
+2663902,24-02-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Labuhan Badas,Labuan Sumbawa,117.403965338674,-8.47432349899995
+2765846,03-07-2021,1,sapi,22,tidak diketahui,Sulawesi Selatan,Pinrang,Patampanua,Padangloang,119.754466174327,-3.74290346899994
+2682232,15-03-2021,1,Anjing,60,tidak diketahui,Sulawesi Selatan,Pinrang,Cempa,Tanra Tuo,119.604941185814,-3.73437845549995
+2832129,22-09-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Labuhan Badas,Labuan Sumbawa,117.403965338674,-8.47432349899995
+2732528,22-05-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2664817,25-02-2021,1,Anjing luar dewasa,220,tidak diketahui,Sulawesi Tengah,Morowali,Bungku Tengah,Sakita,121.917937074659,-2.65413545849995
+2676537,08-03-2021,1,anjing lokal,62,tidak diketahui,Sulawesi Selatan,Wajo,Pammana,Lagosi,120.147522496871,-4.14212512699996
+2732527,22-05-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2741998,04-06-2021,1,Anjing,60,tidak diketahui,Sulawesi Tengah,Parigi Moutong,Balinggi,Suli Indah,120.366244775195,-1.05277171649996
+2873612,29-10-2021,1,kucing,64,tidak diketahui,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2712235,21-04-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Senapelan,Padang Bulan,101.42925763706,0.512335300000046
+2935152,17-10-2021,1,Anjing,60,tidak diketahui,Kalimantan Selatan,Tanah Laut,Pelaihari,Angsau,114.788761682901,-3.77397849999997
+2901716,26-11-2021,1,sapi,22,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2865073,21-10-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2677153,09-03-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Agam,Tanjung Raya,Bayua,100.2426193448,-0.275901786499929
+2710990,20-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2709801,19-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2710865,20-04-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2714827,24-04-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Sukajadi,Kampung Melayu,101.42673878418,0.486869186000064
+2678554,10-03-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Agam,Malalak,Malalak Utara,100.283286635443,-0.387575625499977
+2700637,07-04-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2726610,10-05-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman Barat,Ranah Batahan,Desa Baru,99.3691435407854,0.369159682000031
+2913151,09-12-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Kutuh,115.329961820109,-8.16245699999993
+2843772,01-10-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Sukawana,115.35247045184,-8.20798849999994
+2683590,16-03-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Suliki Gunung Mas,Limbanang,100.493714165597,-0.100187018499952
+2623066,07-01-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2718731,29-04-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Plampang,Muer,117.717663413804,-8.75439349899995
+2883950,09-11-2021,1,Anjing,60,tidak diketahui,Sulawesi Barat,Pasangkayu,Pasangkayu,Martajaya,119.50784270919,-1.26863499949994
+2744937,09-06-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Sekaan,115.335231298742,-8.31800149999995
+2747203,11-06-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Marpoyan Damai,Maharatu,101.441690913686,0.405229472000059
+2638165,26-01-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2686725,19-03-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Pasaman,Lubuk Sikaping,Durian Tinggi,100.147257133919,0.15222409200004
+2835048,24-09-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Bina Widya,Delima,101.405965147111,0.464303610000059
+2675456,07-03-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Utan,Motong,117.161538943206,-8.43788349999997
+2691982,26-03-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Kasikan,100.913868715811,0.498814500000037
+2623178,07-01-2021,1,Anjing luar dewasa,220,tidak diketahui,Sulawesi Selatan,Wajo,Tempe,Pattirosompe,120.069603456457,-4.13122415249995
+2671464,03-03-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Songkar,117.538716021578,-8.45591080399996
+2710873,20-04-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2664123,24-02-2021,1,kucing lokal,66,tidak diketahui,Riau,Bengkalis,Pinggir,Pinggir,101.028752903781,1.08010893950006
+2884473,09-11-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Simpang Tiga,101.486071916057,0.397999242500049
+2661710,22-02-2021,1,kucing,64,tidak diketahui,Riau,Kampar,Tapung,Karya Indah,101.175042721947,0.681401832500029
+2922113,21-12-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Aua Kuniang,99.9166418810981,0.124297775000059
+2736699,28-05-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2821444,10-09-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Pasaman Barat,Kinali,Kinali,99.9351601384464,-0.065911955999951
+2866412,23-10-2021,1,sapi bali,24,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lenangguar,Tatebal,117.381305642571,-8.85157578149995
+2646922,05-02-2021,1,kucing lokal,66,tidak diketahui,Riau,Kampar,Tambang,Sungai Pinang,101.336455723618,0.21845964700006
+2738724,31-05-2021,1,Anjing,60,tidak diketahui,Bali,Klungkung,Dawan,Gunaksa,115.423178920945,-8.54645749999995
+2867738,25-10-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Rejosari,101.500139251461,0.485521673500045
+2908712,03-12-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Batur Tengah,115.363073079936,-8.27439349999997
+2725927,09-05-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kubu,115.370446944653,-8.40907599999994
+2676663,08-03-2021,17,babi,55,tidak diketahui,Jawa Timur,Kediri,Wates,Segaran,112.094958025162,-7.93138551699994
+2846550,03-10-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2852075,08-10-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Marpoyan Damai,Wonorejo,101.442451007679,0.472177534500048
+2870603,27-10-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Rahong Utara,Compang Dari,120.395839817646,-8.55193599399993
+2768869,08-07-2021,34,babi,55,tidak diketahui,Kalimantan Utara,Malinau,Malinau Selatan,Long Loreh,116.241946897499,3.23456370850005
+2644169,01-02-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Bonyoh,115.331538718175,-8.30945699999995
+2742105,04-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Suka Maju,117.211174486235,-8.92585099999994
+2728250,16-05-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Susut,Apuan,115.333902322405,-8.48797899999994
+2776094,14-07-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Agam,Tanjung Raya,Koto Gadang Anam Koto,100.173149267014,-0.253861508499938
+2748613,14-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Lunyuk Ode,117.303919336751,-8.92643103549995
+2707826,16-04-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Sariak Laweh,100.543024003936,-0.224562353499948
+2768004,07-07-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Bangbang,115.409989932369,-8.43992449999993
+2671465,03-03-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Baru Tahan,117.482620408031,-8.44503640199994
+2709933,19-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2909682,05-12-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2857885,14-10-2021,1,anjing lokal,62,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Utara,101.478020097087,0.46599549000004
+2769094,08-07-2021,7,babi,55,tidak diketahui,Kalimantan Utara,Malinau,Pujungan,Long Apan Baru,115.941080116467,2.49501562100005
+2830407,20-09-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Suka Ramai,101.001174432369,0.469016333500036
+2916103,13-12-2021,1,kucing,64,tidak diketahui,Bali,Bangli,Susut,Tiga,115.356370137525,-8.38162999999994
+2765851,03-07-2021,1,sapi,22,tidak diketahui,Sulawesi Selatan,Pinrang,Patampanua,Teppo,119.669196513624,-3.70759701549994
+2745797,10-06-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Utan,Motong,117.161538943206,-8.43788349999997
+2776092,14-07-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Agam,Tanjung Raya,Koto Kaciak,100.174508955509,-0.235566384499947
+2747024,11-06-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai Timur,Limbungan Baru,101.493493272306,0.536078172500055
+2662581,23-02-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2790965,07-08-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2739736,01-06-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Sumbawa,Seketeng,117.454083017621,-8.49221599999996
+2742443,05-06-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2862861,19-10-2021,1,Anjing,60,tidak diketahui,Riau,Bengkalis,Bengkalis,Bengkalis Kota,102.163073521364,1.46103346300006
+2714141,23-04-2021,1,Anjing,60,tidak diketahui,Sulawesi Selatan,Pinrang,Duampanua,Pekkabata,119.537302175171,-3.67594826099997
+2813928,03-09-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Aua Kuniang,99.9166418810981,0.124297775000059
+2749680,15-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Susut,Susut,115.331490132683,-8.43897149999995
+2678559,10-03-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Tengkerang Timur,101.514527085933,0.429844140500052
+2928588,30-12-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Utara,101.478020097087,0.46599549000004
+2841858,30-09-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2705379,14-04-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai,Umban Sari,101.351513236587,0.571249722500056
+2743957,08-06-2021,40,babi,55,tidak diketahui,Kalimantan Utara,Bulungan,Peso,Long Yiin / Pelaah,116.571740418367,2.45134139050006
+2874802,30-10-2021,1,Anjing,60,tidak diketahui,Riau,Bengkalis,Mandau,Gajah Sakti,101.220332738484,1.21245115850004
+2768002,07-07-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Bangbang,115.409989932369,-8.43992449999993
+2825322,14-09-2021,1,Anjing,60,tidak diketahui,Kalimantan Barat,Sintang,Sintang,Tanjung Puri,111.559956859529,0.0598358670000323
+2788370,03-08-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Payung Sekaki,Labuh Baru Barat,101.357233974156,0.495997607000049
+2714829,24-04-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Rumbai,Sri Meranti,101.401251360761,0.547949373000051
+2874127,29-10-2021,2,Anjing,60,tidak diketahui,Kalimantan Barat,Sintang,Sintang,Jerora Satu,111.53086,0.020441
+2731568,21-05-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pariaman,Pariaman Selatan,Pungguang Ladiang,100.187671203438,-0.612671313999954
+2866411,23-10-2021,1,anjing lokal,62,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lenangguar,Tatebal,117.381305642571,-8.85157578149995
+2747758,12-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Lunyuk Rea,117.249449594944,-8.87675899999994
+2648963,08-02-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2695459,30-03-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Danau Lancang,101.057363524904,0.813370584500063
+2702103,09-04-2021,1,Anjing,60,tidak diketahui,Kalimantan Barat,Landak,Sengah Temila,Sidas,109.570592721178,0.44818727650005
+2666045,26-02-2021,1,Anjing,60,tidak diketahui,Jambi,Kerinci,Sitinjau Laut,Hiang Karya,101.478936421639,-2.01328527749993
+2638279,26-01-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Sumbawa,Samapuin,117.459439906387,-8.52686949949995
+2714839,24-04-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Marpoyan Damai,Maharatu,101.441690913686,0.405229472000059
+2862627,19-10-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Senapelan,Kampung Dalam,101.447870517694,0.525045275500048
+2710872,20-04-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2872676,28-10-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2741082,03-06-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2772041,12-07-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2658265,18-02-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2724711,06-05-2021,1,monyet,76,tidak diketahui,Riau,Rokan Hulu,Rokan Iv Koto,Lubuk Bendahara,100.502861088902,0.535898103500045
+2754293,20-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Perung,117.291000332487,-8.99618083049995
+2780982,23-07-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Utara,101.478020097087,0.46599549000004
+2655332,15-02-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Marpoyan Damai,Sidomulyo Timur,101.403705535314,0.419329955500046
+2787866,02-08-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2766491,05-07-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bayunggede,115.352207326219,-8.29554249999995
+2830400,20-09-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2664691,25-02-2021,1,monyet,76,tidak diketahui,Riau,Pekanbaru,Rumbai,Palas,101.413226170828,0.56539210650007
+2674380,05-03-2021,1,Anjing luar dewasa,220,tidak diketahui,Sulawesi Tengah,Morowali,Bungku Tengah,Sakita,121.917937074659,-2.65413545849995
+2861293,18-10-2021,1,Anjing,60,tidak diketahui,Riau,Bengkalis,Bengkalis,Bengkalis Kota,102.163073521364,1.46103346300006
+2738760,31-05-2021,1,Anjing dalam anak,217,tidak diketahui,Bali,Bangli,Kintamani,Sekaan,115.335231298742,-8.31800149999995
+2743965,08-06-2021,1,kucing lokal,66,tidak diketahui,Sulawesi Selatan,Makassar,Manggala,Batua,119.468265280432,-5.14965963199995
+2762931,30-06-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Rumbai Timur,Meranti Pandak,101.437045902973,0.537508527000028
+2858003,14-10-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2738464,31-05-2021,1,Anjing,60,tidak diketahui,Kalimantan Selatan,Hulu Sungai Utara,Banjang,Pawalutan,115.310611461914,-2.47559099999998
+2904101,29-11-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Marpoyan Damai,Tengkerang Barat,101.427785527333,0.463877007000036
+2872173,28-10-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Tiga,115.356370137525,-8.38162999999994
+2847681,04-10-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Pasaman,Lubuk Sikaping,Durian Tinggi,100.147257133919,0.15222409200004
+2875048,30-10-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Pungkit,117.553389967259,-8.42100559099995
+2644208,01-02-2021,1,Anjing,60,tidak diketahui,Sulawesi Selatan,Wajo,Bola,Bola,120.233347607626,-4.15668892549994
+2808770,31-08-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Suka Ramai,101.001174432369,0.469016333500036
+2724707,06-05-2021,1,Anjing,60,tidak diketahui,Riau,Rokan Hulu,Pendalian,Suligi,100.547112392097,0.452098384000038
+2830397,20-09-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2842649,30-09-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Bina Widya,Tuahmadani,,
+2756479,23-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Jamu,117.149470359087,-8.86148549999996
+2706032,14-04-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Pauh Sangik,100.474929950072,-0.172458483999947
+2805189,27-08-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Bangbang,115.409989932369,-8.43992449999993
+2780979,23-07-2021,1,anjing ras,61,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Utara,101.478020097087,0.46599549000004
+2703293,11-04-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Suka Maju,117.211174486235,-8.92585099999994
+2680051,12-03-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Sumbawa,Brang Biji,117.434849901259,-8.43569549949993
+2753916,19-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Bangli,Taman Bali,115.349935698278,-8.49946099999997
+2754295,20-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Suka Maju,117.211174486235,-8.92585099999994
+2744920,09-06-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bayunggede,115.352207326219,-8.29554249999995
+2669689,02-03-2021,1,Anjing,60,tidak diketahui,Jambi,Kerinci,Siulak,Sungai Lebuh,101.34372598028,-1.88855498849995
+2752785,17-06-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Kasikan,100.913868715811,0.498814500000037
+2791195,07-08-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Bukit Kemuning,100.976661710534,0.676838418000045
+2727255,11-05-2021,1,Anjing,60,tidak diketahui,Kalimantan Selatan,Hulu Sungai Utara,Banjang,Pulau Damar,115.295360476406,-2.45662050099997
+2738971,31-05-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kawan,115.365386077268,-8.44563899999997
+2813487,02-09-2021,1,monyet,76,tidak diketahui,Riau,Bengkalis,Bukit Batu,Batang Duku,101.874010419031,1.39579361600005
+2789935,05-08-2021,1,Anjing,60,tidak diketahui,Bali,Badung,Mengwi,Penarungan,115.182653238417,-8.54904949999997
+2679688,11-03-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Agam,Tanjung Raya,Duo Koto,100.226382495026,-0.244005284499934
+2714848,24-04-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Sialang Sakti,,
+2776657,15-07-2021,1,Anjing,60,tidak diketahui,Kalimantan Barat,Sintang,Sintang,Akcaya,111.500007,0.073192
+2682279,15-03-2021,1,Anjing,60,tidak diketahui,Sulawesi Selatan,Pinrang,Duampanua,Lampa,119.616221363225,-3.63833045799993
+2710010,19-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2658270,18-02-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2780402,22-07-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Abuan,115.338868437903,-8.46892249999996
+2701526,08-04-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Batu Hampa,100.568994048868,-0.232645659999974
+2631473,18-01-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Katung,115.323793779945,-8.29741999999996
+2711537,20-04-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2858513,15-10-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2728598,17-05-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Pariaman,Pariaman Utara,Sikapak Barat,100.132795365435,-0.578719495499968
+2717612,28-04-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Mungka,Mungka,100.59100240052,-0.0832883249999554
+2768876,08-07-2021,7,babi,55,tidak diketahui,Kalimantan Utara,Malinau,Mentarang,Long Gafid,116.286030034707,3.77886986750005
+2811383,01-09-2021,2,Anjing,60,tidak diketahui,Kalimantan Barat,Sintang,Sintang,Akcaya,111.500007,0.073192
+2676664,08-03-2021,20,babi,55,tidak diketahui,Jawa Timur,Kediri,Wates,Segaran,112.094958025162,-7.93138551699994
+2858516,15-10-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Bangbang,115.409989932369,-8.43992449999993
+2757410,24-06-2021,1,Anjing luar dewasa,220,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Lunyuk,Lunyuk Rea,117.249449594944,-8.87675899999994
+2854047,11-10-2021,1,kucing,64,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2794124,12-08-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Langke Rembong,Watu,120.447710386903,-8.64055599349996
+2725257,07-05-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Koto Tangah Batu Hampa,100.576348585971,-0.256352323999948
+2925113,25-12-2021,1,kuda,53,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2689231,22-03-2021,1,Anjing luar dewasa,220,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Batu Hampa,100.568994048868,-0.232645659999974
+2764213,01-07-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Ruteng,Rai,120.378410538213,-8.58776399349995
+2644215,01-02-2021,1,Anjing,60,tidak diketahui,Jambi,Sarolangun,Pelawan,Sungai Merah,102.550318302509,-2.45654547099994
+2783415,27-07-2021,2,Anjing,60,tidak diketahui,Sumatera Barat,Agam,Tanjung Raya,Bayua,100.2426193448,-0.275901786499929
+2676669,08-03-2021,21,babi,55,tidak diketahui,Jawa Timur,Kediri,Wates,Segaran,112.094958025162,-7.93138551699994
+2855584,12-10-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Buahan,115.377599390612,-8.30084799999995
+2839149,28-09-2021,1,anjing kampung,519,tidak diketahui,Sumatera Barat,Pasaman Barat,Pasaman,Lingkuang Aua,99.8642872110878,0.117413788500045
+2714853,24-04-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Kulim,Mentangor,101.515615,0.474821
+2884480,09-11-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Rumbai Timur,Limbungan,101.468367775199,0.544504204000049
+2897019,22-11-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Rejosari,101.500139251461,0.485521673500045
+2780976,23-07-2021,1,kucing lokal,66,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tangkerang Labuai,101.46176942097,0.437736515500063
+2785436,29-07-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2678507,10-03-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Pematang Kapau,101.489163,0.478891
+2758517,25-06-2021,1,anjing kampung,519,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Labuhan Badas,Labuhan Badas,117.323754014781,-8.49113349999996
+2680824,12-03-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Suka Ramai,101.001174432369,0.469016333500036
+2889863,14-11-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2773019,13-07-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2908848,03-12-2021,1,Anjing,60,tidak diketahui,Riau,Pekanbaru,Tenayan Raya,Sialang Sakti,,
+2683717,16-03-2021,1,kucing,64,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Akabiluru,Koto Tangah Batu Hampa,100.576348585971,-0.256352323999948
+2847700,04-10-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Mangguh,115.30809425018,-8.31327699999997
+2635171,22-01-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Bebalang,115.361002912024,-8.46847599999995
+2890256,15-11-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Simpang Tiga,101.486071916057,0.397999242500049
+2781301,23-07-2021,1,kucing,64,tidak diketahui,Riau,Kampar,Tapung Hulu,Rimba Beringin,101.053281089933,0.667168795000066
+2662535,23-02-2021,1,Anjing,60,tidak diketahui,Riau,Dumai,Dumai Timur,Bukit Batrem,101.525072801114,1.52325767500005
+2878774,03-11-2021,1,Anjing,60,tidak diketahui,Sulawesi Tengah,Morowali,Bungku Barat,Wosu,121.750064149269,-2.45051597949995
+2846319,02-10-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Kukin,117.524722855146,-8.43251949899994
+2669607,02-03-2021,1,Anjing,60,tidak diketahui,Jambi,Kerinci,Gunung Tujuh,Lubuk Pauh,101.285619345451,-1.71019083049995
+2803195,25-08-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2738973,31-05-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2808763,31-08-2021,1,Anjing,60,tidak diketahui,Riau,Kampar,Tapung Hulu,Kusau Makmur,100.790760075587,0.60848680600003
+2784758,29-07-2021,1,Anjing luar anak,219,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2700750,07-04-2021,1,Anjing,60,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Utan,Orong Bawa,117.135242565267,-8.41532999949993
+2915405,12-12-2021,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Manikliyu,115.314505113723,-8.26807899999997
+2753119,18-06-2021,1,Anjing dalam anak,217,tidak diketahui,Bali,Bangli,Tembuku,Undisan,115.4022,-8.44211399999995
+2717211,27-04-2021,1,Anjing,60,tidak diketahui,Sumatera Barat,Lima Puluh Kota,Mungka,Mungka,100.59100240052,-0.0832883249999554
+2767303,06-07-2021,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Pinggan,115.38960764603,-8.20839849999996
+2779556,21-07-2021,1,sapi,22,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Utara,Penyaring,117.482225229946,-8.42586898149995
+2890262,15-11-2021,1,kucing,64,tidak diketahui,Riau,Pekanbaru,Bukit Raya,Tengkerang Utara,101.478020097087,0.46599549000004

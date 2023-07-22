@@ -1,0 +1,16 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2676215,19-10-2020,45,itik,10,Avian Influenza - LPAI,Jawa Tengah,Karanganyar,Jaten,Ngringo,110.886053794567,-7.55973199999994
+2666321,05-08-2020,5,itik,10,Avian Influenza - LPAI,Sumatera Barat,Pariaman,Pariaman Selatan,Padang Cakua,100.15023596954,-0.648174432999951
+2664067,12-11-2020,52,ayam kampung,7,Avian Influenza - LPAI,Kalimantan Selatan,Banjarbaru,Cempaka,Bangkal,114.828577310858,-3.49949649899995
+2668569,15-07-2020,75,ayam kampung,7,Avian Influenza - LPAI,Kalimantan Timur,Paser,Tanah Grogot,Sungai Tuak,116.213918357558,-1.91335141649995
+2664058,11-12-2020,45,ayam kampung,7,Avian Influenza - LPAI,Kalimantan Selatan,Banjarbaru,Landasan Ulin,Guntung Payung,114.790569693729,-3.45331299999995
+2683276,08-08-2020,54,Lain-lain,85,Avian Influenza - LPAI,Sumatera Utara,Medan,Medan Labuhan,Martubung,98.6832543099578,3.73275575550005
+2465963,29-04-2020,36,ayam,3,Avian Influenza - LPAI,Kalimantan Selatan,Banjarbaru,Cempaka,Bangkal,114.828577310858,-3.49949649899995
+2597553,20-11-2020,50,Ayam Arab,412,Avian Influenza - LPAI,Kalimantan Barat,Sambas,Tebas,Segedong,109.09382506016,1.18371278050006
+2683279,30-07-2020,5,Lain-lain,85,Avian Influenza - LPAI,Sumatera Utara,Medan,Medan Sunggal,Sei Sikambing B,98.627194033135,3.59579966000004
+2683277,05-08-2020,15,Lain-lain,85,Avian Influenza - LPAI,Sumatera Utara,Medan,Medan Sunggal,Lalang,98.618786950542,3.59854862600005
+2664061,17-11-2020,65,ayam kampung,7,Avian Influenza - LPAI,Kalimantan Selatan,Banjarbaru,Liang Aggang,Landasan Ulin Barat,114.698509143032,-3.44762099949995
+2676398,19-10-2020,5,ayam broiler,8,Avian Influenza - LPAI,Jawa Tengah,Karanganyar,Gondangrejo,Wonosari,110.852661072163,-7.47900449999997
+2597555,20-11-2020,50,ayam layer,9,Avian Influenza - LPAI,Kalimantan Barat,Sambas,Tebas,Segedong,109.09382506016,1.18371278050006
+2690518,06-10-2020,1,ayam kampung,7,Avian Influenza - LPAI,Kalimantan Timur,Kutai Timur,Sangatta Selatan,Sangata Selatan,117.341847869246,0.537407118000033
+2683278,27-07-2020,5,Lain-lain,85,Avian Influenza - LPAI,Sumatera Utara,Medan,Medan Helvetia,Sei Sikambing C Ii,98.6273703784459,3.60901293650005

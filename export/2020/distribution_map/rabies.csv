@@ -1,0 +1,573 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2410218,13-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Labangka,117.740299649871,-8.90724399949994
+2551099,09-09-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Sekokat,117.689549786111,-8.89430649949995
+2567047,04-10-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Bebandem,115.549855426965,-8.43323649999994
+2599003,23-11-2020,1,Anjing,60,Rabies,Bali,Tabanan,Tabanan,Denbantas,115.120462900799,-8.52941049999995
+2615328,23-12-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Mokong,117.466765908484,-8.58964599949996
+2669976,04-11-2020,1,Anjing,60,Rabies,Jambi,Sarolangun,Singkut,Sungai Gedang,102.646636415771,-2.58987557799995
+2684858,28-05-2020,1,anjing lokal,62,Rabies,Bali,Buleleng,Gerokgak,Banyupoh,114.65651772422,-8.17775499999996
+2423172,28-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai Barat,Lembor,Wae Kanta,120.265535301976,-8.66959649499995
+2527469,04-08-2020,1,Anjing,60,Rabies,Jambi,Muaro Jambi,Mestong,Pondok Meja,103.631244268302,-1.76975685349996
+2567329,05-10-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Langke Rembong,Carep,120.472004407629,-8.63366149349994
+2504447,01-07-2020,1,Anjing,60,Rabies,Bali,Buleleng,Seririt,Banjar Asem,114.891506369183,-8.20399599999996
+2673150,23-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Barat,124.707841,1.385569
+2683115,11-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Medan,Medan Denai,Medan Tenggara,98.7228310749197,3.58433804550006
+2603083,29-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Marga Karya,117.359609011998,-8.62069390749994
+2672340,07-01-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Sea Mitra,124.782521078202,1.40770892050003
+2589530,06-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Maman,117.466139020354,-8.62912123399997
+2386081,16-01-2020,1,Anjing,60,Rabies,Bali,Klungkung,Klungkung,Semarapura Kauh,115.385907196494,-8.54068799999993
+2607609,07-12-2020,1,Anjing,60,Rabies,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2585090,30-10-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Semamung,117.409361944181,-8.66343846449996
+2677490,01-02-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Pusulemba,Pamona,120.567411834263,-1.70009338699995
+2674163,29-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lolah Satu,124.724955,1.355427
+2682836,13-07-2020,1,anjing kampung,519,Rabies,Sulawesi Tengah,Banggai Laut,Banggai,Kokini,123.529502595345,-1.58779226499996
+2677706,15-03-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Banggai Kepulauan,Totikum,Sambiut,123.511700326951,-1.39309673449995
+2609483,11-12-2020,1,Anjing,60,Rabies,Riau,Kampar,Tapung,Gading Sari,101.228427503012,0.613747114500057
+2672345,24-01-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Uner,124.737975,1.364005
+2395362,27-01-2020,1,monyet,76,Rabies,Riau,Kampar,Tapung Hulu,Sumber Sari,100.944339651788,0.606253035500032
+2450271,06-04-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ende,Ndona,Nanganesa,121.698333600304,-8.83118448349995
+2682951,18-01-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Rasanae Timur,Oi Fo'o,118.812687844423,-8.51594849849994
+2420626,26-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Suka Mulya,117.769922999935,-8.89523399999993
+2682838,24-11-2020,1,anjing kampung,519,Rabies,Sulawesi Tengah,Banggai Laut,Bangkurung,Mbeleang,123.073962386913,-1.85715292799995
+2679497,11-09-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Kotawaringin Barat,Arut Selatan,Madurejo,111.660470141806,-2.66486990449994
+2674180,08-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Sendangan,124.879348486807,1.15912447450003
+2682835,06-07-2020,2,anjing kampung,519,Rabies,Sulawesi Tengah,Banggai Laut,Banggai Tengah,Posos Lalongo,123.488867883708,-1.66334562199995
+2673714,08-07-2020,1,Anjing,60,Rabies,Sumatera Barat,Pasaman,Tigo Nagari,Malampah,100.024596168074,0.0389435215000731
+2683165,10-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Kota Bima,Mpunda,Panggi,118.761957729991,-8.47319099849994
+2682777,04-12-2020,1,Anjing,60,Rabies,Sumatera Utara,Humbang Hasundutan,Lintong Nihuta,Nagasaribu V,98.915999,2.260891
+2578438,20-10-2020,1,Anjing,60,Rabies,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2671950,15-12-2020,2,anjing kampung,519,Rabies,Sulawesi Tengah,Buol,Momunu,Potugu,121.340661396343,1.07042008450006
+2410214,13-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Labangka,117.740299649871,-8.90724399949994
+2683241,06-07-2020,1,Anjing,60,Rabies,Sumatera Utara,Medan,Medan Labuhan,Tangkahan,98.6860211633465,3.71111354800004
+2681920,15-03-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Petumbea,121.232443508518,-2.25977468149995
+2376447,03-01-2020,1,Anjing,60,Rabies,Bali,Buleleng,Sawan,Sangsit,115.165096020299,-8.12038415049994
+2402465,04-02-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Harapan Baru,101.276628507732,1.22771996150004
+2603084,29-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Maman,117.466139020354,-8.62912123399997
+2673569,10-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Warembungan,124.802136324873,1.38715336500007
+2670008,15-06-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Karangasem,115.604042227606,-8.45796949999993
+2461379,24-04-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Buana Giri,115.545875912256,-8.39020899999994
+2678634,20-02-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Barito Timur,Patangkep Tutui,Ampari Bora,115.197979229548,-2.00354170799997
+2674287,30-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kombi,Lalumpe,125.015008609939,1.16673825050006
+2675724,21-11-2020,1,Anjing,60,Rabies,Jambi,Sarolangun,Singkut,Siliwangi,102.613113734929,-2.58088099899996
+2674225,05-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombulu,Sawangan,124.869994230139,1.42723772550005
+2677536,01-09-2020,1,kucing,64,Rabies,Sulawesi Tengah,Poso,Pamona Pusulemba,Sangele,120.652549441251,-1.78961968249996
+2681939,15-07-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Pontangoa,121.266725934915,-2.21150442399997
+2458902,20-04-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Jaya Makmur,117.65359284831,-8.88264149899996
+2586279,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sempe,117.344667482432,-8.65629149949996
+2486002,04-06-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Sepakat,117.726914957631,-8.83368668999995
+2674720,18-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombulu,Kamangta,124.86610352977,1.41279265900005
+2436555,17-03-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Langke Rembong,Laci Carep,120.443222009524,-8.61719249299995
+2671947,15-12-2020,1,anjing kampung,519,Rabies,Sulawesi Tengah,Buol,Momunu,Lamadong 2,121.330918571503,1.11267953900003
+2675729,27-08-2020,1,Anjing,60,Rabies,Jambi,Sarolangun,Sarolangun,Aur Gading,102.684489441419,-2.25656377449994
+2683735,13-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Humbang Hasundutan,Sijama Polang,Siborboron,98.6862256782405,2.17641995850002
+2674191,21-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Tateli Tiga,124.765793,1.397454
+2680237,18-09-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Palu,Palu Utara,Mamboro,119.940178401488,-0.833385258499931
+2677512,03-02-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Timur,Kelei,120.699382684758,-1.78397863899997
+2586268,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Berang Rea,117.435415798779,-8.66162549999996
+2673510,18-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kombi,Kombi,124.984857810714,1.19803271550003
+2493716,16-06-2020,1,Anjing,60,Rabies,Bali,Jembrana,Mendoyo,Mendoyo Dauh Tukad,114.678994885367,-8.31651449999995
+2483424,31-05-2020,1,kucing,64,Rabies,Riau,Siak,Bunga Raya,Jati Baru,102.012246927978,0.948179071000055
+2483581,31-05-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2680121,15-01-2020,5,Anjing,60,Rabies,Sulawesi Tengah,Toli Toli,Baolan,Baru,120.829458721782,0.992729543500047
+2586281,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sempe,117.344667482432,-8.65629149949996
+2673128,22-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Sea,124.783824405993,1.39898017800004
+2669583,30-01-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Timur,Taripa,120.756858957893,-1.83979689899994
+2465777,29-04-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Sekokat,117.689549786111,-8.89430649949995
+2413183,17-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Muer,117.717663413804,-8.75439349899995
+2674081,27-07-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Kapur Sembilan,Nagaro Sialang,100.379424569178,0.135758310500051
+2674715,15-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali Selatan,124.782521078202,1.40770892050003
+2488537,09-06-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Manggis,Antiga Kelod,115.503204026851,-8.50554813199994
+2601295,26-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Semamung,117.409361944181,-8.66343846449996
+2586273,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Berang Rea,117.435415798779,-8.66162549999996
+2526833,03-08-2020,1,Anjing,60,Rabies,Bali,Tabanan,Tabanan,Dauh Peken,115.103378590158,-8.54706049999996
+2683777,15-03-2020,1,Anjing,60,Rabies,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Lumban Purba,98.7625044783128,2.18468497800004
+2557968,21-09-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Berang Rea,117.435415798779,-8.66162549999996
+2681934,15-05-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Ronta,121.337887984998,-2.29961704799993
+2673982,15-01-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Bukit Barisan,Banja Loweh,100.494557327732,-0.0479160029999548
+2375712,02-01-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Bude Keling,115.567309612225,-8.43297049999995
+2680110,15-06-2020,9,Anjing,60,Rabies,Sulawesi Tengah,Toli Toli,Lampasio,Tinading,120.819942514181,0.905625402000055
+2674111,16-09-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Luhak,Tanjung Haro Sikabu Kab,100.665164864856,-0.294244705999944
+2592633,12-11-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2417280,21-02-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Abang,Nawakerti,115.571567480363,-8.38636849999995
+2677600,02-10-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Parigi Moutong,Torue,Torue,120.276501997642,-0.994509845499948
+2673197,29-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Koha,124.75058,1.427604
+2549959,07-09-2020,1,Anjing,60,Rabies,Bali,Buleleng,Gerokgak,Patas,114.776633405393,-8.21623049999997
+2439131,20-03-2020,1,Anjing,60,Rabies,Bali,Klungkung,Klungkung,Manduang,115.38700591314,-8.51919249999995
+2560451,24-09-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Bungaya Kangin,115.569656903943,-8.45392849999993
+2669983,04-11-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Bugbug,115.57859206327,-8.49998699999995
+2673611,22-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng I,124.833355976593,1.40793917300005
+2496171,19-06-2020,1,Anjing,60,Rabies,Riau,Rokan Hilir,Tanah Putih,Rantau Bais,101.248190155529,1.44408154350006
+2673046,31-03-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Touliang Oki,124.945483403186,1.23123947600004
+2674209,02-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Tambala,124.695994680074,1.39624629300005
+2392078,23-01-2020,1,Anjing,60,Rabies,Riau,Rokan Hilir,Bagan Sinembah,Bagan manunggal,100.657359858502,1.66949790400005
+2669998,02-09-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Sidemen,Tangkup,115.438131239382,-8.48488039399993
+2584011,28-10-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2674175,05-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kombi,Ranowangko Dua,125.00684882389,1.18329785100002
+2537492,20-08-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Batur Utara,115.357633894058,-8.26184199999997
+2423120,28-02-2020,1,kucing,64,Rabies,Nusa Tenggara Timur,Manggarai Barat,Lembor,Wae Wako,120.110906588277,-8.69580399549994
+2479901,26-05-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai Barat,Lembor,Wae Kanta,120.265535301976,-8.66959649499995
+2471033,08-05-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2493570,16-06-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Sidemen,Kertha Buana,115.428384342402,-8.50474849999995
+2397776,29-01-2020,1,kucing,64,Rabies,Jawa Barat,Bandung,Majalaya,Majasetra,107.747969252412,-7.04259204899995
+2683826,13-07-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Panyabungan Timur,Sirangkap,99.780869814134,0.739402006500057
+2677528,03-07-2020,1,kucing,64,Rabies,Sulawesi Tengah,Poso,Pamona Utara,Tendeadongi,120.638303703915,-1.72308277899995
+2677708,30-04-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Banggai Kepulauan,Peling Tengah,Patukuki,123.18620292577,-1.44751309449995
+2671956,15-12-2020,1,anjing kampung,519,Rabies,Sulawesi Tengah,Buol,Momunu,Mangubi,121.180032502404,1.09587152850006
+2673044,17-03-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Ranomerut,124.939053399849,1.22183034700004
+2674173,28-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Timur,124.734183,1.379803
+2595485,17-11-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2683740,11-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Humbang Hasundutan,Lintong Nihuta,Sigompul,98.886881,2.246
+2669965,15-07-2020,1,Anjing,60,Rabies,Riau,Indragiri Hilir,Keritang,Kotabaru Seberida,102.821945357922,-0.800482808999959
+2680120,15-01-2020,5,Anjing,60,Rabies,Sulawesi Tengah,Toli Toli,Galang,Tinigi,120.941473837162,1.15928602050005
+2677298,01-02-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Pusulemba,Sangele,120.652549441251,-1.78961968249996
+2673447,14-07-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali,124.839152383161,1.39173022600005
+2677704,29-02-2020,1,kambing,40,Rabies,Sulawesi Tengah,Banggai Kepulauan,Totikum,Tone,123.514801332943,-1.38200162749996
+2683757,04-09-2020,1,Anjing,60,Rabies,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Huta Bagasan,98.6670103403225,2.22141490850004
+2672807,31-07-2020,1,Anjing,60,Rabies,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Sisarahili Sisambalahe,97.5799856407084,1.25063697850004
+2410235,13-02-2020,1,Anjing dalam,215,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Sekokat,117.689549786111,-8.89430649949995
+2683139,11-06-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Kota Bima,Rasanae Timur,Kodo,118.812687844423,-8.51594849849994
+2674251,27-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombulu,Sawangan,124.869994230139,1.42723772550005
+2677507,02-02-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Pusulemba,Tonusu,120.467768997951,-1.70052528249994
+2461400,24-04-2020,1,Anjing,60,Rabies,Bali,Buleleng,Gerokgak,Banyupoh,114.65651772422,-8.17775499999996
+2674706,13-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali,124.839152383161,1.39173022600005
+2674184,15-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Ranowangko,124.659615287912,1.36670384750005
+2586271,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sebasang,117.454904160006,-8.65135299949995
+2413339,17-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Langke Rembong,Satar Tacik,120.443222009524,-8.61719249299995
+2670015,12-05-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Bugbug,115.57859206327,-8.49998699999995
+2481066,28-05-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Selat,Duda Timur,115.508266060787,-8.45897299999996
+2681046,19-06-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Rasanae Timur,Lampe,118.854255055441,-8.51940449899996
+2683619,15-04-2020,1,kucing,64,Rabies,Kalimantan Timur,Kutai Timur,Sengatta Utara,Swarga Bara,117.480745475669,0.577981644000033
+2673901,29-11-2020,1,kucing,64,Rabies,Sumatera Barat,Tanah Datar,Rambatan,Iii Koto,100.542572347994,-0.520254088999963
+2674940,15-09-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Tojo Una Una,Ulu Bongka,Kasiala,121.589496281504,-1.20699906099995
+2673602,21-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombulu,Sawangan,124.869994230139,1.42723772550005
+2513903,15-07-2020,1,Anjing,60,Rabies,Bali,Buleleng,Seririt,Pengastulan,114.913966257757,-8.18783349999995
+2668948,15-09-2020,1,kucing,64,Rabies,Riau,Pekanbaru,Sail,Cinta Raja,101.464708325362,0.474366307000054
+2542599,26-08-2020,1,Anjing,60,Rabies,Riau,Indragiri Hilir,Tembilahan,Sungai Perak,103.153329583353,-0.333687931499952
+2673282,11-05-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Poopoh,124.624744779189,1.37672928950005
+2591762,11-11-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Sepakat,117.726914957631,-8.83368668999995
+2671952,15-12-2020,1,anjing kampung,519,Rabies,Sulawesi Tengah,Buol,Momunu,Lamadong 2,121.330918571503,1.11267953900003
+2586274,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2549848,07-09-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Kubu,Ban,115.490726961798,-8.27158249999994
+2609399,11-12-2020,1,Anjing,60,Rabies,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2683789,09-02-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Naga Juang,Tambiski,99.4893091425455,0.839584496500038
+2673501,04-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali,124.839152383161,1.39173022600005
+2683750,07-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Janji,98.718403166153,2.23927615600005
+2678640,07-10-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Barito Timur,Patangkep Tutui,Ampari Bora,115.197979229548,-2.00354170799997
+2505058,02-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Ruteng,Bulan,120.353589816062,-8.63527649399995
+2428660,06-03-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Langowan Barat,Tumaratas,124.801499670317,1.14719621500004
+2670021,05-03-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Bugbug,115.57859206327,-8.49998699999995
+2697527,03-09-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Kota Baru,Rawa Sari,103.620113967646,-1.62971472699994
+2682481,15-04-2020,4,Anjing,60,Rabies,Sumatera Utara,Tapanuli Selatan,Sipirok,Antur Mangan,99.2122107948228,1.60122346100005
+2618591,29-12-2020,1,Anjing,60,Rabies,Bengkulu,Bengkulu,Gading Cempaka,Lingkar Barat,102.287460304166,-3.86324707249995
+2681606,14-09-2020,1,Anjing,60,Rabies,Bali,Badung,Mengwi,Buduk,115.157568308528,-8.60974999999993
+2680957,01-05-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Jatibaru Timur,118.736024026147,-8.39864499899994
+2683183,11-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Jatibaru Timur,118.736024026147,-8.39864499899994
+2681666,04-10-2020,1,Anjing,60,Rabies,Sulawesi Barat,Mamasa,Sumarorong,Batanguru,119.38227716239,-3.15594149949996
+2573144,12-10-2020,1,anjing kampung,519,Rabies,Riau,Indragiri Hilir,Keritang,Pasar Kembang,102.791039517619,-0.817629098499964
+2443736,27-03-2020,1,Anjing,60,Rabies,Kalimantan Barat,Sambas,Tebas,Sempalai,109.162144584517,1.24833673250006
+2402612,04-02-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Sumbawa,Tarano,Banda,118.048216,-8.706922
+2495498,18-06-2020,1,Anjing,60,Rabies,Riau,Bengkalis,Mandau,Babussalam,101.1364405679,1.20833200050006
+2431233,10-03-2020,1,Anjing,60,Rabies,Bali,Buleleng,Seririt,Joanyar,114.94095208229,-8.21097949999995
+2618590,29-12-2020,1,Anjing,60,Rabies,Bengkulu,Bengkulu,Muara Bangka Hulu,Bentiring Permai,102.32390161873,-3.74998780449997
+2673887,28-09-2020,1,Anjing,60,Rabies,Sumatera Barat,Tanah Datar,Tanjung Baru,Tanjuang Alam,100.510801689897,-0.325512631999942
+2670019,23-03-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Seraya Barat,115.630053933043,-8.46257999999995
+2674171,29-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombulu,Kembes Satu,124.860922112727,1.39209071500005
+2701668,18-06-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Kota Baru,Simpang Iii Sipin,103.625697282668,-1.64295560149995
+2380889,09-01-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Kintamani,115.357807136869,-8.24597649999995
+2505057,02-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Satar mese Barat,Satar Luju,120.297472530245,-8.78616649499995
+2549915,07-09-2020,1,Anjing,60,Rabies,Bali,Tabanan,Kerambitan,Sembung Gede,115.0818241971,-8.51134999999996
+2479182,24-05-2020,1,Anjing,60,Rabies,Bali,Klungkung,Banjarangkan,Takmung,115.382537266858,-8.55690449999997
+2677521,25-06-2020,1,kucing,64,Rabies,Sulawesi Tengah,Poso,Pamona Utara,Sawidago,120.675069782768,-1.72071403099997
+2673520,25-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng I,124.833355976593,1.40793917300005
+2673559,07-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tompaso,Tember,124.833128548534,1.17354420900006
+2509531,09-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Cibal,Wudi,120.46923044705,-8.55305749399994
+2674068,05-05-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Guguak,Vii Koto Talago,100.525808824959,-0.0897952334999275
+2493579,16-06-2020,1,Anjing,60,Rabies,Bali,Tabanan,Tabanan,Tunjuk,115.124506673211,-8.48664599999995
+2672351,30-01-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Sonder,Talikuran,124.768200912358,1.27266160650004
+2388066,19-01-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Selulung,115.273944628853,-8.20989999999995
+2669979,04-11-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Bukit,115.63144840514,-8.43576399999995
+2681885,20-10-2020,1,Anjing,60,Rabies,Bali,Klungkung,Klungkung,Kamasan,115.401028455285,-8.55623999999995
+2615327,23-12-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Mokong,117.466765908484,-8.58964599949996
+2669988,06-10-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Karangasem,115.604042227606,-8.45796949999993
+2442865,26-03-2020,1,Anjing,60,Rabies,Riau,Bengkalis,Siak Kecil,Sumber Jaya,102.016172865895,1.19833207050007
+2598300,22-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sempe,117.344667482432,-8.65629149949996
+2458860,20-04-2020,1,Anjing luar anak,219,Rabies,Kalimantan Barat,Sekadau,Sekadau Hilir,Sungai Ringin,110.938947822605,-0.0493196194999541
+2680198,04-09-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Palu,Palu Utara,Mamboro,119.940178401488,-0.833385258499931
+2591846,11-11-2020,1,kambing,40,Rabies,Sulawesi Tengah,Buol,Lakea,Ilambe,121.167935997502,1.17628699350004
+2542880,26-08-2020,1,Anjing,60,Rabies,Jawa Barat,Bandung Barat,Cipongkor,Baranangsiang,107.353861872544,-6.90843129149994
+2683796,18-03-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Panyabungan Utara,Kampung Baru,99.6339111811092,0.929127630500034
+2424796,02-03-2020,1,Anjing,60,Rabies,Bali,Buleleng,Sukasada,Gitgit,115.143540397654,-8.21265949999997
+2576755,19-10-2020,1,anjing lokal,62,Rabies,Riau,Kampar,Tambang,Aur Sati,101.349975824542,0.228545632000049
+2590212,07-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Semamung,117.409361944181,-8.66343846449996
+2683833,02-09-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Naga Juang,Banua Rakyat,99.4469675149625,0.902846839000063
+2681916,15-03-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Bintangor,121.05253094211,-1.83297651549995
+2598299,22-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Mokong,117.466765908484,-8.58964599949996
+2557971,21-09-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Marga Karya,117.359609011998,-8.62069390749994
+2593832,14-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Batubulan,117.467387985751,-8.60467803599994
+2672343,17-01-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Tateli Tiga,124.765793,1.397454
+2429285,06-03-2020,1,kucing,64,Rabies,Riau,Siak,Bunga Raya,Jati Baru,102.012246927978,0.948179071000055
+2603087,29-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Batubulan,117.467387985751,-8.60467803599994
+2681085,15-09-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Mpunda,Panggi,118.761957729991,-8.47319099849994
+2677701,24-02-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Banggai Kepulauan,Totikum,Batang Babasal,123.520364014213,-1.31481717999995
+2683734,10-12-2020,1,kucing,64,Rabies,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Pasar Dolok Sanggul,98.7325497302164,2.22613023250005
+2697395,25-03-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Jambi Selatan,Paal Merah,103.683147374135,-1.65474611499997
+2673976,23-03-2020,1,kambing,40,Rabies,Sumatera Barat,Sijunjung,Koto Tujuh,Padang Laweh,100.975300628237,-0.650215535499939
+2668967,30-07-2020,1,kucing,64,Rabies,Riau,Pekanbaru,Marpoyan Damai,Tengkerang Barat,101.427785527333,0.463877007000036
+2683805,09-03-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Lembah Sorik Merapi,Maga Lombang,99.5634502931198,0.734573361500054
+2697392,14-03-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Telanaipura,Legok,103.632537710831,-1.59645086549997
+2681019,10-05-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Jatiwangi,118.785838923239,-8.40585199849994
+2674098,24-08-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Payakumbuh,Piubang,100.581388297479,-0.20535444549995
+2399208,31-01-2020,1,Anjing,60,Rabies,Sumatera Barat,Pasaman Barat,Koto Balingka,Parik,99.489396922364,0.317675067500033
+2681043,18-06-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Jatiwangi,118.785838923239,-8.40585199849994
+2465778,29-04-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Labangka,117.740299649871,-8.90724399949994
+2456841,16-04-2020,1,Anjing,60,Rabies,Lampung,Way Kanan,Baradatu,Setia Negara,104.576954531802,-4.71021899949994
+2677533,23-07-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Pusulemba,Sangele,120.652549441251,-1.78961968249996
+2673110,16-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Tandengan Satu,124.953303,1.207094
+2596013,18-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Semamung,117.409361944181,-8.66343846449996
+2406685,09-02-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Selat,Pering Sari,115.47221645998,-8.43487199999993
+2674130,12-12-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Bukit Barisan,Mahek,100.49618177726,0.0480924965000327
+2674094,06-08-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Lareh Sago Halaban,Batu Payung,100.736489421107,-0.25231436599995
+2554614,15-09-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Langke Rembong,Carep,120.472004407629,-8.63366149349994
+2683744,09-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Humbang Hasundutan,Sijama Polang,Bonan Dolok I,98.7097581241137,2.11895798250004
+2673321,27-05-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Langowan Timur,Teep,124.857939070618,1.12185875700004
+2386920,17-01-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Batur Tengah,115.363073079936,-8.27439349999997
+2505818,03-07-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Jungutan,115.520858284039,-8.41261999999995
+2488026,08-06-2020,1,Anjing,60,Rabies,Bali,Klungkung,Klungkung,Selisihan,115.391523978453,-8.49315199999995
+2377847,06-01-2020,1,Anjing,60,Rabies,Bali,Gianyar,Payangan,Buahan Kaja,115.251842430641,-8.34572649999996
+2681933,15-04-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Ronta,121.337887984998,-2.29961704799993
+2673265,15-06-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Golewa Barat,Rakalaba,121.01800997226,-8.82350449099994
+2685890,02-03-2020,1,Anjing,60,Rabies,Bali,Gianyar,Blahbatuh,Keramas,115.322052965904,-8.58921249999997
+2605892,03-12-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2674064,27-03-2020,1,kucing,64,Rabies,Sumatera Barat,Lima Puluh Kota,Luhak,Mungo,100.708505090655,-0.253059230499929
+2579572,21-10-2020,1,Anjing,60,Rabies,Kalimantan Selatan,Tabalong,Tanta,Warukin,115.404306079357,-2.26400549949994
+2674241,25-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Koha Barat,124.765793,1.397454
+2701667,01-04-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Telanaipura,Buluran Kenali,103.624381221791,-1.59485512949996
+2673084,06-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Sarani Matani,124.692965776867,1.36932335200004
+2673583,14-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Tounelet,124.858458103584,1.16902623650006
+2683049,29-02-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Rasanae Timur,Kodo,118.812687844423,-8.51594849849994
+2673389,16-06-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Bajawa,Faobata,120.995432273752,-8.76036649049996
+2678693,15-09-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Barito Timur,Dusun Timur,Didi,115.092630365157,-2.06676113599994
+2681936,15-06-2020,4,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Ronta,121.337887984998,-2.29961704799993
+2674216,04-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Ranowangko,124.659615287912,1.36670384750005
+2567533,05-10-2020,1,Anjing luar anak,219,Rabies,Bali,Bangli,Kintamani,Bayunggede,115.352207326219,-8.29554249999995
+2681938,15-07-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Poona,121.228563808446,-2.27812582099995
+2673193,27-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Lembean Timur,Seretan,124.958595772356,1.18734387450004
+2495509,18-06-2020,1,kucing,64,Rabies,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2485900,04-06-2020,1,Anjing,60,Rabies,Bali,Klungkung,Dawan,Besan,115.453845762774,-8.51537699999994
+2674716,16-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali Selatan,124.782521078202,1.40770892050003
+2674733,21-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali,124.839152383161,1.39173022600005
+2682552,30-12-2020,1,Anjing,60,Rabies,Sumatera Utara,Deli Serdang,Pancur Batu,Namo Bintang,98.6225319341696,3.50176188900002
+2419881,25-02-2020,1,Anjing,60,Rabies,Jambi,Muaro Jambi,Bahar Utara,Markanding,103.457519857487,-1.81051897999996
+2609393,11-12-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Mokong,117.466765908484,-8.58964599949996
+2682255,07-09-2020,1,Anjing,60,Rabies,Sumatera Utara,Medan,Medan Helvetia,Helvetia Timur,98.6302877060718,3.63000807650005
+2485129,03-06-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Sibetan,115.534236734218,-8.45663629149996
+2681927,15-03-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Ronta,121.337887984998,-2.29961704799993
+2673396,29-06-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Watumea,124.907534311801,1.20482800350007
+2673496,01-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Kaweng,124.903325491121,1.15925161100006
+2674126,09-11-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Mungka,Talang Maua,100.554406165345,-0.0232678129999613
+2673105,14-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Watumea,124.907534311801,1.20482800350007
+2477936,20-05-2020,1,Anjing,60,Rabies,Bali,Jembrana,Melaya,Tuwed,114.528382661888,-8.31932349999997
+2677605,20-01-2020,1,Anjing,60,Rabies,Sumatera Utara,Deli Serdang,Sunggal,Purwodadi,98.5954856941856,3.60735473500006
+2530951,10-08-2020,1,Anjing,60,Rabies,Bali,Tabanan,Kediri,Kaba Kaba,115.140384292067,-8.57864199999997
+2672484,28-02-2020,1,Anjing,60,Rabies,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Teluk Belukar,97.5081919532055,1.39634070900004
+2674174,30-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lolah,124.737975,1.364005
+2667483,18-11-2020,1,Anjing,60,Rabies,Riau,Pekanbaru,Bukit Raya,Simpang Tiga,101.486071916057,0.397999242500049
+2674259,27-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Langowan Barat,Walewangko,124.773113469694,1.13748226700005
+2681935,15-06-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Bintangor,121.05253094211,-1.83297651549995
+2593833,14-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Batubulan,117.467387985751,-8.60467803599994
+2673481,29-07-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lolah Satu,124.724955,1.355427
+2535034,15-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kombi,Kombi,124.984857810714,1.19803271550003
+2683202,11-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Kolo,118.744301736473,-8.35860749849996
+2674075,08-07-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Luhak,Tanjung Haro Sikabu Kab,100.665164864856,-0.294244705999944
+2683955,27-06-2020,1,anjing lokal,62,Rabies,Bali,Buleleng,Gerokgak,Pejarakan,114.550010884853,-8.15896199999997
+2669066,27-01-2020,1,Anjing,60,Rabies,Riau,Pekanbaru,Payung Sekaki,Labuh Baru Barat,101.357233974156,0.495997607000049
+2670027,06-01-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Sidemen,Sidemen,115.455361898761,-8.47187999999997
+2674204,02-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Sarani Matani,124.692965776867,1.36932335200004
+2681054,12-06-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Kolo,118.744301736473,-8.35860749849996
+2599439,24-11-2020,1,Anjing,60,Rabies,Jawa Barat,Bandung Barat,Cipongkor,Cibenda,107.323324429036,-6.95119714749995
+2465772,29-04-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Jaya Makmur,117.65359284831,-8.88264149899996
+2443008,26-03-2020,1,Anjing,60,Rabies,Lampung,Pringsewu,Ambarawa,Ambarawa,104.962727770644,-5.41265499999994
+2672805,31-07-2020,2,Anjing,60,Rabies,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Hilina A,97.5931476995881,1.25353382400004
+2438822,20-03-2020,1,anjing lokal,62,Rabies,Riau,Indragiri Hulu,Sungai Lala,Kuala Lala,102.18810026935,-0.444747864999954
+2674212,04-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombulu,Kamangta,124.86610352977,1.41279265900005
+2685914,31-08-2020,1,Anjing,60,Rabies,Bali,Gianyar,Tegallalang,Keliki,115.25820144449,-8.47412299999993
+2677513,03-02-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Barat,Meko,120.506992,-1.913883
+2673188,23-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Tateli Weru,124.739959,1.435163
+2683127,19-05-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Jatibaru Timur,118.736024026147,-8.39864499899994
+2564363,30-09-2020,1,Anjing,60,Rabies,Jawa Barat,Bandung Barat,Cipongkor,Baranangsiang,107.353861872544,-6.90843129149994
+2410251,13-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Suka Damai,117.71281689975,-8.89144799899995
+2469087,04-05-2020,1,Anjing,60,Rabies,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2480612,27-05-2020,1,Anjing,60,Rabies,Riau,Kampar,Kampar,Air Tiris,101.185669956242,0.216341920000048
+2384088,14-01-2020,1,Anjing,60,Rabies,Riau,Kampar,Tapung Hulu,Kusau Makmur,100.790760075587,0.60848680600003
+2681952,15-10-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Mandula,121.227631396951,-2.29166251899994
+2533465,13-08-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Kubu,Ban,115.490726961798,-8.27158249999994
+2668954,01-11-2020,1,Anjing,60,Rabies,Riau,Pekanbaru,Bina Widya,Simpang Baru,101.367052752174,0.42003816950006
+2669233,26-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Bolaang Mongondow,Dumoga Utara,Mopugad Utara I,123.8673426315,0.573564285500055
+2701669,07-05-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Kota Baru,Simpang Iii Sipin,103.625697282668,-1.64295560149995
+2605921,03-12-2020,1,Anjing luar dewasa,220,Rabies,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2677489,01-02-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Pusulemba,Pamona,120.567411834263,-1.70009338699995
+2586276,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2697382,13-01-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Kota Baru,Kenali Besar,103.593339046207,-1.64695209249996
+2544245,28-08-2020,1,kambing Kacang,125,Rabies,Sulawesi Tengah,Buol,Karamat,Monano,121.303630379257,1.19801926400004
+2468770,04-05-2020,1,Anjing,60,Rabies,Bali,Klungkung,Dawan,Dawan Klod,115.443176477121,-8.54251599999995
+2423190,28-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai Barat,Lembor,Tangge,120.158657158543,-8.71309299599997
+2674101,03-09-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Situjuah Limo Nagari,Situjuah Banda Dalam,100.622573561653,-0.309070004999938
+2468330,03-05-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ende,Ndona,Nanganesa,121.698333600304,-8.83118448349995
+2378337,06-01-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Plampang,117.742327158469,-8.78410912149997
+2681701,17-09-2020,1,Anjing,60,Rabies,Sulawesi Barat,Mamasa,Mamasa,Mamasa,119.367841226567,-2.91103849899994
+2673277,05-05-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Ranomerut,124.939053399849,1.22183034700004
+2688883,03-02-2020,1,Anjing,60,Rabies,Sumatera Utara,Tanjung Balai,Datuk Bandar,Sirantau,99.7690689985638,2.94284700400004
+2681945,15-08-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Poona,121.228563808446,-2.27812582099995
+2683785,12-01-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Huta Bargot,Huta Bargot Nauli,99.5793857233111,0.866592471500041
+2687236,09-01-2020,1,Anjing,60,Rabies,Bali,Gianyar,Tegallalang,Sebatu,115.30499212562,-8.38279949999998
+2594860,16-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2674377,01-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Touliang Oki,124.945483403186,1.23123947600004
+2673513,19-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali,124.839152383161,1.39173022600005
+2673134,22-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Tateli Tiga,124.765793,1.397454
+2593472,13-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2409594,12-02-2020,1,Anjing,60,Rabies,Sumatera Barat,Sijunjung,Sijunjung,Sijunjung,101.047054838939,-0.733199327499932
+2673456,22-07-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Warembungan,124.802136324873,1.38715336500007
+2673531,22-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Tateli Weru,124.739959,1.435163
+2390868,22-01-2020,1,anjing lokal,62,Rabies,Kalimantan Timur,Samarinda,Samarinda Ilir,Sidomulyo,117.225756740961,-0.436825960499959
+2483418,31-05-2020,1,kucing,64,Rabies,Riau,Siak,Bunga Raya,Langsat Permai,102.035609996278,0.964939963000035
+2674709,15-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Sarani Matani,124.692965776867,1.36932335200004
+2664940,17-12-2020,1,Anjing,60,Rabies,Sulawesi Barat,Pasangkayu,Bambalamotu,Bambalamotu,119.517439378531,-1.15717199949995
+2435621,16-03-2020,1,anjing lokal,62,Rabies,Bali,Gianyar,Blahbatuh,Buruan,115.299862002288,-8.54757999999995
+2526399,01-08-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Manggis,Ulakan,115.512216113597,-8.48824349999995
+2674154,22-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kombi,Ranowangko Dua,125.00684882389,1.18329785100002
+2510325,10-07-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Abang,Culik,115.607704223464,-8.33449399999995
+2526404,01-08-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Bungaya Kangin,115.569656903943,-8.45392849999993
+2383150,13-01-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Bantang,115.322542625614,-8.20201049999994
+2427477,04-03-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Golewa,Todabelu,121.050557412613,-8.81275448949995
+2498117,22-06-2020,1,Anjing,60,Rabies,Bali,Tabanan,Selemadeg,Berembeng,115.007381917695,-8.51229149999995
+2697525,03-09-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Jelutung,Kebun Handil,103.6578062678,-1.62693035549995
+2400531,02-02-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Batur Selatan,115.371647120898,-8.26375599999994
+2603091,29-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2672379,04-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Koha,124.75058,1.427604
+2681600,08-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Batu Bara,Sei Suka,Simodong,99.3537489927522,3.33414219350007
+2598301,22-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sempe,117.344667482432,-8.65629149949996
+2456913,16-04-2020,1,kucing,64,Rabies,Sumatera Barat,Pasaman Barat,Ranah Batahan,Batahan,99.4558353244003,0.440863116000031
+2674182,09-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali,124.839152383161,1.39173022600005
+2385224,15-01-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Talang Mandi,101.374118439905,1.20837902900004
+2454901,13-04-2020,1,Anjing,60,Rabies,Sumatera Barat,Sijunjung,Sijunjung,Kandang Baru,100.992010116012,-0.736333934999948
+2587856,03-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sebasang,117.454904160006,-8.65135299949995
+2677515,27-09-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Murung Raya,Seribu Riam,Tumbang Jojang,114.020828441616,0.440938637000045
+2426446,03-03-2020,1,Anjing,60,Rabies,Sumatera Barat,Dharmasraya,Koto Baru,Sialang Gaung,101.678387207719,-1.02771955649996
+2396380,28-01-2020,1,Anjing,60,Rabies,Riau,Pelalawan,Pangkalan Kerinci,Pangkalan Kerinci Kota,101.745090527819,0.259408534500039
+2683109,08-03-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Kota Bima,Raba,Ntobo,118.836845564113,-8.43514399799994
+2601388,26-11-2020,1,Anjing,60,Rabies,Kalimantan Selatan,Tabalong,Tanta,Warukin,115.404306079357,-2.26400549949994
+2428235,05-03-2020,2,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Satar mese Barat,Cambir Leca,120.347192489622,-8.67521399349997
+2673023,25-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Sonder,Leilem Tiga,124.808949,1.260812
+2683840,20-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Naga Juang,Tarutung Panjang,99.4527570776334,0.831553247000045
+2413189,17-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Teluk Santong,117.836571941672,-8.77124465549994
+2439763,21-03-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2509900,09-07-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Bungaya Kangin,115.569656903943,-8.45392849999993
+2680502,28-02-2020,1,Anjing,60,Rabies,Bali,Badung,Kuta Selatan,Benoa,115.210576859574,-8.80256549999996
+2596876,19-11-2020,1,Anjing,60,Rabies,Bali,Tabanan,Kerambitan,Batuaji,115.097069448531,-8.50970899999996
+2480194,27-05-2020,1,Anjing,60,Rabies,Bali,Klungkung,Klungkung,Semarapura Kauh,115.385907196494,-8.54068799999993
+2377799,06-01-2020,1,Anjing,60,Rabies,Bali,Jembrana,Jembrana,Sangkaragung,114.64850672635,-8.37838399999995
+2674265,27-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Timur,124.734183,1.379803
+2438781,20-03-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Cibal,Perak,120.479785005679,-8.50268149399997
+2612776,18-12-2020,1,Anjing,60,Rabies,Bengkulu,Bengkulu,Ratu Agung,Kebun Tebeng,102.283853473455,-3.83937699849994
+2681086,13-12-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Rasanae Barat,Dara,118.732722006293,-8.45958599899996
+2418600,24-02-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Selat,Pering Sari,115.47221645998,-8.43487199999993
+2674057,16-03-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Lareh Sago Halaban,Halaban,100.766256650918,-0.328623771499963
+2673043,17-03-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Warembungan,124.802136324873,1.38715336500007
+2670002,24-08-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Seraya Timur,115.674254681463,-8.43276199999994
+2672394,17-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng Ii,124.826024484784,1.39225409150004
+2681015,08-05-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Kolo,118.744301736473,-8.35860749849996
+2673578,14-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Winangun Atas,124.795163180671,1.40341816100005
+2666733,21-08-2020,1,Anjing,60,Rabies,Riau,Pekanbaru,Payung Sekaki,Bandar Raya,,
+2586589,02-11-2020,1,kucing,64,Rabies,Riau,Siak,Bunga Raya,Jaya Pura,102.022263229796,0.86025080050004
+2381894,10-01-2020,1,kucing,64,Rabies,Riau,Pelalawan,Pangkalan Kerinci,Pangkalan Kerinci Barat,101.711002247132,0.278551660000062
+2586277,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2683831,10-08-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Naga Juang,Tarutung Panjang,99.4527570776334,0.831553247000045
+2673430,07-07-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Sea,124.783824405993,1.39898017800004
+2573299,13-10-2020,1,Anjing luar dewasa,220,Rabies,Bali,Bangli,Kintamani,Belancan,115.324673867006,-8.28210999999996
+2673540,31-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng I,124.833355976593,1.40793917300005
+2679495,27-08-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Kotawaringin Barat,Arut Selatan,Madurejo,111.660470141806,-2.66486990449994
+2667482,09-04-2020,1,Anjing dalam anak,217,Rabies,Riau,Pekanbaru,Rumbai,Palas,101.413226170828,0.56539210650007
+2674121,27-10-2020,1,kucing,64,Rabies,Sumatera Barat,Lima Puluh Kota,Bukit Barisan,Mahek,100.49618177726,0.0480924965000327
+2530901,10-08-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Manggis,Antiga,115.489942830181,-8.53361809999993
+2681084,09-09-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Melayu,118.73027744357,-8.42755049849995
+2683146,12-06-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Kota Bima,Mpunda,Monggonao,118.760000954638,-8.44880099899996
+2683823,02-07-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Panyabungan,Darussalam,99.6941075084922,0.851551917000052
+2677519,06-02-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Poso,Pamona Timur,Taripa,120.756858957893,-1.83979689899994
+2673544,31-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Lotta,124.782521078202,1.40770892050003
+2672391,11-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Barat,124.707841,1.385569
+2430722,09-03-2020,1,kucing,64,Rabies,Riau,Bengkalis,Mandau,Pematang Pudu,101.071900243208,1.16737699350003
+2671941,14-12-2020,2,anjing kampung,519,Rabies,Sulawesi Tengah,Buol,Momunu,Pajeko,121.350105411312,1.13161939200003
+2552780,11-09-2020,3,Anjing,60,Rabies,Sulawesi Tengah,Buol,Gadung,Taat,121.753781585439,1.05562579350004
+2681607,02-11-2020,1,Anjing,60,Rabies,Bali,Badung,Kuta Selatan,Ungasan,115.167586051674,-8.82613149999995
+2680505,15-03-2020,1,Anjing,60,Rabies,Bali,Badung,Kuta Selatan,Benoa,115.210576859574,-8.80256549999996
+2683834,06-10-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Kotanopan,Manambin,99.6481361417176,0.63067111150005
+2681930,15-03-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Ronta,121.337887984998,-2.29961704799993
+2440909,23-03-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Brang Kolong,117.872999405966,-8.90136503049993
+2673366,29-05-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lolah,124.737975,1.364005
+2409889,13-02-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Sibetan,115.534236734218,-8.45663629149996
+2479715,26-05-2020,1,Anjing,60,Rabies,Bali,Klungkung,Banjarangkan,Nyalian,115.361009487209,-8.50262799999993
+2680494,19-01-2020,1,Anjing,60,Rabies,Bali,Badung,Kuta Selatan,Jimbaran,115.159325873712,-8.78968299999997
+2668903,12-10-2020,1,Anjing,60,Rabies,Riau,Pekanbaru,Tenayan Raya,Bencah Lesung,101.552672662369,0.520885199000048
+2678337,28-01-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Barito Utara,Teweh Tengah,Melayu,114.984304965468,-0.83108124149993
+2682861,10-01-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Kota Bima,Raba,Kendo,118.83088177863,-8.45516049849994
+2415400,19-02-2020,1,Anjing,60,Rabies,Sumatera Barat,Pasaman Barat,Ranah Batahan,Batahan,99.4558353244003,0.440863116000031
+2611890,16-12-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Berang Rea,117.435415798779,-8.66162549999996
+2697424,09-03-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Kota Baru,Rawa Sari,103.620113967646,-1.62971472699994
+2670017,22-04-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Karang Asem,Bugbug,115.57859206327,-8.49998699999995
+2674146,23-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Warembungan,124.802136324873,1.38715336500007
+2482850,30-05-2020,1,Anjing,60,Rabies,Riau,Rokan Hilir,Bagan Sinembah,Bagan Batu,100.442267465667,1.71469300600006
+2581857,26-10-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Selat,Sebudi,115.483329685508,-8.39803649999993
+2417604,21-02-2020,1,anjing lokal,62,Rabies,Sumatera Barat,Pasaman Barat,Ranah Batahan,Batahan,99.4558353244003,0.440863116000031
+2674702,07-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Pahaleten,124.876972442361,1.15649406150004
+2586272,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Semamung,117.409361944181,-8.66343846449996
+2378301,06-01-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Sp II Prode,117.775937597639,-8.84226749899997
+2682266,12-10-2020,1,Anjing,60,Rabies,Sumatera Utara,Medan,Medan Amplas,Amplas,98.7040455460415,3.55206689900004
+2683674,15-10-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Banggai,Lamala,Nipa,123.241474969991,-0.958546930499949
+2586278,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sempe,117.344667482432,-8.65629149949996
+2683093,07-03-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Kota Bima,Raba,Ntobo,118.836845564113,-8.43514399799994
+2612505,17-12-2020,1,Anjing,60,Rabies,Bali,Gianyar,Payangan,Melinggih,115.237694835526,-8.42744599999997
+2681082,16-07-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Kolo,118.744301736473,-8.35860749849996
+2701670,28-05-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Kota Baru,Simpang Iii Sipin,103.625697282668,-1.64295560149995
+2480611,27-05-2020,1,Anjing,60,Rabies,Riau,Kampar,Kampar,Air Tiris,101.185669956242,0.216341920000048
+2460762,23-04-2020,1,Anjing,60,Rabies,Bali,Klungkung,Dawan,Dawan Kaler,115.443294913118,-8.52313049999995
+2673473,29-07-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Sendangan,124.879348486807,1.15912447450003
+2586275,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2669050,02-04-2020,1,Anjing,60,Rabies,Riau,Pekanbaru,Rumbai,Palas,101.413226170828,0.56539210650007
+2674188,19-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng I,124.833355976593,1.40793917300005
+2512134,13-07-2020,1,Anjing,60,Rabies,Bali,Klungkung,Dawan,Pikat,115.463569037249,-8.52658899999994
+2677709,16-05-2020,5,Anjing,60,Rabies,Sulawesi Tengah,Banggai Kepulauan,Bulagi Utara,Sambulangan,123.146412807913,-1.22510766249994
+2557405,19-09-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Semamung,117.409361944181,-8.66343846449996
+2389753,21-01-2020,1,Anjing,60,Rabies,Bali,Buleleng,Gerokgak,Banyupoh,114.65651772422,-8.17775499999996
+2389825,21-01-2020,1,Anjing,60,Rabies,Lampung,Lampung Utara,Bukit Kemuning,Bukit Kemuning,104.595592193498,-4.87503849949994
+2529793,07-08-2020,1,Anjing,60,Rabies,Bali,Gianyar,Payangan,Beresela,115.269804268955,-8.42770999999993
+2683255,06-07-2020,1,Anjing,60,Rabies,Sumatera Utara,Medan,Medan Tembung,Indra Kasih,98.713360217716,3.62386367350007
+2585078,30-10-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Marga Karya,117.359609011998,-8.62069390749994
+2680117,15-06-2020,15,Anjing,60,Rabies,Sulawesi Tengah,Toli Toli,Galang,Ogomoli,120.946935542969,1.08192574850005
+2603599,30-11-2020,1,Anjing,60,Rabies,Bali,Gianyar,Ubud,Ubud,115.259240231491,-8.49945199999996
+2673853,23-09-2020,1,Anjing,60,Rabies,Sumatera Barat,Tanah Datar,Sungai Tarab,Sungai Tarab,100.571196254141,-0.410607217999939
+2673594,15-09-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Rinondor,124.913732174882,1.12392083850006
+2681924,15-03-2020,9,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Ronta,121.337887984998,-2.29961704799993
+2687248,31-08-2020,1,Anjing,60,Rabies,Bali,Gianyar,Tegallalang,Keliki,115.25820144449,-8.47412299999993
+2671954,15-12-2020,1,anjing kampung,519,Rabies,Sulawesi Tengah,Buol,Momunu,Lamadong 1,121.342595697869,1.12045770700004
+2612637,17-12-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Marga Karya,117.359609011998,-8.62069390749994
+2379101,07-01-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Plampang,Usar,117.766579301668,-8.82015482349993
+2586270,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Berang Rea,117.435415798779,-8.66162549999996
+2674694,15-05-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Tojo Una Una,Ampana Kota,Sansarino,121.541638515608,-1.00879195099995
+2468326,03-05-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ende,Ndona,Nanganesa,121.698333600304,-8.83118448349995
+2594473,16-11-2020,1,Anjing,60,Rabies,Bali,Tabanan,Kediri,Beraban,115.125763950475,-8.60794949999996
+2678348,26-02-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Barito Utara,Teweh Tengah,Melayu,114.984304965468,-0.83108124149993
+2673977,23-04-2020,1,sapi,22,Rabies,Sumatera Barat,Sijunjung,Koto Tujuh,Guguk,100.920358658762,-0.609637289499943
+2400714,02-02-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Manggis,Ulakan,115.512216113597,-8.48824349999995
+2674105,14-09-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Mungka,Mungka,100.59100240052,-0.0832883249999554
+2426247,03-03-2020,1,kucing,64,Rabies,Sumatera Barat,Sijunjung,Iv Nagari,Koto Baru,100.951697313218,-0.791322200499962
+2388475,20-01-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Golewa Barat,Sobo,121.027703889697,-8.79314299049994
+2507334,06-07-2020,1,Anjing,60,Rabies,Bali,Buleleng,Gerokgak,Sumberkima,114.580642726285,-8.14693749999995
+2674749,28-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng Ii,124.826024484784,1.39225409150004
+2590535,09-11-2020,1,Anjing,60,Rabies,Bali,Tabanan,Kediri,Banjar Anyar,115.139925591432,-8.52520449999997
+2503574,30-06-2020,1,Anjing,60,Rabies,Bali,Buleleng,Gerokgak,Pemuteran,114.610974830783,-8.16339449999995
+2673296,11-05-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Koha,124.75058,1.427604
+2673390,15-06-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Kali,124.839152383161,1.39173022600005
+2526398,01-08-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Manggis,Tenganan,115.564613700267,-8.48220099999995
+2601281,26-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Semamung,117.409361944181,-8.66343846449996
+2682545,25-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Deli Serdang,Pancur Batu,Dorin Tonggal,98.6289243697941,3.48939666750005
+2464894,28-04-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Satarmese,Iteng,120.384079541695,-8.74141599399994
+2673116,21-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Warembungan,124.802136324873,1.38715336500007
+2674233,09-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Tateli,124.752644,1.429665
+2674695,15-05-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Tojo Una Una,Ratolindo,Patingko,121.503399067475,-1.21849638049997
+2377598,05-01-2020,1,Anjing,60,Rabies,Riau,Kampar,Tapung Hulu,Kasikan,100.913868715811,0.498814500000037
+2683792,11-02-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Kotanopan,Tamiang,99.7569819191119,0.636706111500047
+2674179,08-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Kaweng,124.903325491121,1.15925161100006
+2617582,28-12-2020,1,Anjing,60,Rabies,Bali,Klungkung,Dawan,Dawan Klod,115.443176477121,-8.54251599999995
+2672398,21-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Koha,124.75058,1.427604
+2674200,24-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng I,124.833355976593,1.40793917300005
+2677713,29-05-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Banggai Kepulauan,Tinangkung,Manggalai,123.242835460613,-1.43753587299994
+2384517,14-01-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Langowan Barat,Raringis,124.789286790854,1.13814918350005
+2679493,24-06-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Kotawaringin Barat,Arut Selatan,Pasir Panjang,111.674830146214,-2.67921257049997
+2672361,08-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Langowan Barat,Raringis,124.789286790854,1.13814918350005
+2666720,10-12-2020,1,kucing,64,Rabies,Riau,Pekanbaru,Marpoyan Damai,Sidomulyo Timur,101.403705535314,0.419329955500046
+2674195,22-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tompaso,Kamanga,124.812419105769,1.16827420500005
+2597507,20-11-2020,1,Anjing,60,Rabies,Bali,Tabanan,Kediri,Beraban,115.125763950475,-8.60794949999996
+2681079,15-01-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Rasanae Timur,Oi Fo'o,118.812687844423,-8.51594849849994
+2683780,03-01-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Panyabungan,Kayu Jati,99.6524843350525,0.867620912000035
+2673228,16-06-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Bajawa,Faobata,120.995432273752,-8.76036649049996
+2429036,06-03-2020,1,Anjing,60,Rabies,Bali,Gianyar,Tegallalang,Taro,115.290665934845,-8.37497299999995
+2674704,10-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tondano Utara,Tonsea Lama,124.942097643282,1.31206122750004
+2586280,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sempe,117.344667482432,-8.65629149949996
+2681041,13-06-2020,1,anjing kampung,519,Rabies,Nusa Tenggara Barat,Kota Bima,Asakota,Kolo,118.744301736473,-8.35860749849996
+2669555,28-01-2020,1,kucing,64,Rabies,Sulawesi Tengah,Poso,Pamona Utara,Kuku,120.648368604653,-1.59644675049995
+2375922,02-01-2020,1,Anjing,60,Rabies,Riau,Kampar,Tapung Hulu,Suka Ramai,101.001174432369,0.469016333500036
+2673387,21-12-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Bajawa,Bomari,120.937489900641,-8.81801549099993
+2526759,03-08-2020,1,Anjing,60,Rabies,Bali,Jembrana,Melaya,Tuwed,114.528382661888,-8.31932349999997
+2618506,29-12-2020,1,Anjing,60,Rabies,Bali,Klungkung,Banjarangkan,Banjarangkan,115.370425676556,-8.55063999999993
+2586282,01-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sempe,117.344667482432,-8.65629149949996
+2488582,09-06-2020,1,Anjing,60,Rabies,Bali,Tabanan,Selemadeg,Wanagiri Kauh,115.061204146703,-8.41014549999994
+2674228,06-11-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombulu,Kamangta,124.86610352977,1.41279265900005
+2672395,17-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Barat,124.707841,1.385569
+2505097,02-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Langke Rembong,Lawir,120.435503332637,-8.61860599349995
+2551093,09-09-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Suka Mulya,117.769922999935,-8.89523399999993
+2669067,04-11-2020,1,kucing,64,Rabies,Riau,Pekanbaru,Bina Widya,Tobekgodang,,
+2423243,28-02-2020,1,kucing,64,Rabies,Riau,Pelalawan,Pangkalan Kerinci,Pangkalan Kerinci Kota,101.745090527819,0.259408534500039
+2673467,27-07-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Kalasey Satu,124.897748488701,1.22794086750005
+2522573,27-07-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Gajah Sakti,101.220332738484,1.21245115850004
+2509527,09-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai,Rahong Utara,Compang Dari,120.395839817646,-8.55193599399993
+2673239,13-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Soa,Mengeruda,121.132752820309,-8.68688598949993
+2552785,11-09-2020,1,kambing,40,Rabies,Sulawesi Tengah,Buol,Lakea,Ilambe,121.167935997502,1.17628699350004
+2673037,09-03-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Eris,Touliang Oki,124.945483403186,1.23123947600004
+2532229,11-08-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Sibetan,115.534236734218,-8.45663629149996
+2570935,09-10-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Bebandem,115.549855426965,-8.43323649999994
+2672879,23-11-2020,1,kambing,40,Rabies,Kalimantan Selatan,Hulu Sungai Selatan,Kandangan,Gambah Dalam Barat,115.271541425177,-2.76790249899994
+2683124,18-05-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Kota Bima,Raba,Rontu,118.771438442614,-8.53258049899998
+2697390,02-03-2020,1,Anjing,60,Rabies,Jambi,Kota Jambi,Kota Baru,Paal Lima,103.647389333516,-1.63105457999995
+2423180,28-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Manggarai Barat,Lembor,Ngancar,120.254482867138,-8.72237799449994
+2672382,05-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Timur,124.734183,1.379803
+2669045,16-04-2020,1,Anjing,60,Rabies,Riau,Pekanbaru,Rumbai,Sri Meranti,101.401251360761,0.547949373000051
+2674177,08-10-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri,Sarani Matani,124.692965776867,1.36932335200004
+2674051,02-03-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Guguak,Kubang,100.485433112169,-0.152835953999954
+2550368,08-09-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Bebandem,Jungutan,115.520858284039,-8.41261999999995
+2670743,17-07-2020,1,anjing lokal,62,Rabies,Sumatera Barat,Pariaman,Pariaman timur,Pakasai,100.140424929185,-0.590112654999956
+2673487,30-07-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Kakas,Pahaleten,124.876972442361,1.15649406150004
+2672386,11-02-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Mandolang,Koha,124.75058,1.427604
+2428000,05-03-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Jaya Makmur,117.65359284831,-8.88264149899996
+2687239,02-03-2020,1,Anjing,60,Rabies,Bali,Gianyar,Blahbatuh,Keramas,115.322052965904,-8.58921249999997
+2409593,12-02-2020,1,Anjing,60,Rabies,Sumatera Barat,Sijunjung,Sijunjung,Sijunjung,101.047054838939,-0.733199327499932
+2674863,15-07-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Tojo Una Una,Ulu Bongka,Uematopa,121.6485516954,-1.30270713249996
+2683102,18-03-2020,1,Anjing,60,Rabies,Sumatera Utara,Medan,Medan Kota,Sudi Rejo I,98.6851999261338,3.56898686900004
+2680115,15-06-2020,31,Anjing,60,Rabies,Sulawesi Tengah,Toli Toli,Baolan,Panasakan,120.942118079754,1.02930766250003
+2673505,12-08-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Pineleng I,124.833355976593,1.40793917300005
+2581607,25-10-2020,1,Anjing,60,Rabies,Riau,Siak,Bunga Raya,Tuah Indrapura,101.976626101618,0.902698665500054
+2428013,05-03-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Suka Damai,117.71281689975,-8.89144799899995
+2687241,09-03-2020,1,Anjing,60,Rabies,Bali,Gianyar,Tegallalang,Taro,115.290665934845,-8.37497299999995
+2536860,19-08-2020,1,Anjing,60,Rabies,Bali,Tabanan,Tabanan,Dajan Peken,115.117866174062,-8.53923549999996
+2674115,24-09-2020,1,Anjing,60,Rabies,Sumatera Barat,Lima Puluh Kota,Payakumbuh,Taeh Baruah,100.59726722663,-0.153280242999955
+2680124,15-01-2020,5,Anjing,60,Rabies,Sulawesi Tengah,Toli Toli,Baolan,Tuweley,120.933276683741,0.930097459500047
+2673235,17-07-2020,1,Anjing,60,Rabies,Nusa Tenggara Timur,Ngada,Inerie,Kelitei,120.931695179483,-8.89632249099995
+2682966,10-09-2020,1,kucing,64,Rabies,Sulawesi Utara,Kepulauan Sangihe,Tamako,Ulungpeliang,125.555375506671,3.49355928050005
+2677707,22-04-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Banggai Kepulauan,Peling Tengah,Kolak,123.187766645704,-1.40807287999993
+2668935,30-07-2020,1,kucing,64,Rabies,Riau,Pekanbaru,Marpoyan Damai,Sidomulyo Timur,101.403705535314,0.419329955500046
+2527385,04-08-2020,1,Anjing,60,Rabies,Bali,Tabanan,Kediri,Belalang,115.110135302871,-8.60841299999996
+2673141,30-04-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Tombariri Timur,Lolah,124.737975,1.364005
+2682837,16-07-2020,1,anjing kampung,519,Rabies,Sulawesi Tengah,Banggai Laut,Banggai,Dangkalan,123.52546451939,-1.59778778449993
+2446163,31-03-2020,1,anjing lokal,62,Rabies,Riau,Bengkalis,Mandau,Balik Alam,101.164515183584,1.18062275550002
+2571041,09-10-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Abang,Ababi,115.600337068526,-8.41890049999995
+2674088,04-08-2020,1,kucing,64,Rabies,Sumatera Barat,Lima Puluh Kota,Luhak,Sei Kemuyang,100.684218928517,-0.275139003499959
+2683272,28-09-2020,1,Anjing,60,Rabies,Sumatera Utara,Medan,Medan Tuntungan,Simpang Selayang,98.6140298193985,3.55506703800006
+2396202,28-01-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Manggis,Antiga Kelod,115.503204026851,-8.50554813199994
+2526832,03-08-2020,1,Anjing,60,Rabies,Bali,Tabanan,Tabanan,Dauh Peken,115.103378590158,-8.54706049999996
+2589244,05-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Lito,117.510383139659,-8.68713599999995
+2674719,18-12-2020,1,Anjing,60,Rabies,Sulawesi Utara,Minahasa,Pineleng,Sea,124.783824405993,1.39898017800004
+2498972,23-06-2020,1,Anjing,60,Rabies,Bali,Bangli,Kintamani,Abang Batu Dinding,115.420419728173,-8.27443299999996
+2679492,24-06-2020,1,Anjing,60,Rabies,Kalimantan Tengah,Kotawaringin Barat,Arut Selatan,Pasir Panjang,111.674830146214,-2.67921257049997
+2683802,03-03-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Panyabungan Barat,Runding,99.5830670428259,0.855641779000052
+2478294,21-05-2020,1,Anjing,60,Rabies,Bali,Karang Asem,Abang,Datah,115.579569680351,-8.32574799999995
+2476591,18-05-2020,1,Anjing,60,Rabies,Kalimantan Selatan,Hulu Sungai Utara,Banjang,Pulau Damar,115.295360476406,-2.45662050099997
+2683083,04-03-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Kota Bima,Rasanae Barat,Sarae,118.740385603462,-8.43566999849998
+2683838,02-11-2020,1,Anjing,60,Rabies,Sumatera Utara,Mandailing Natal,Siabu,Sihepeng,99.5022213640893,1.10808592550003
+2681941,15-07-2020,2,Anjing,60,Rabies,Sulawesi Tengah,Morowali Utara,Lembo Raya,Petumbea,121.232443508518,-2.25977468149995
+2464986,28-04-2020,1,Anjing,60,Rabies,Bali,Bangli,Bangli,Kawan,115.365386077268,-8.44563899999997
+2591686,10-11-2020,1,Anjing,60,Rabies,Kalimantan Selatan,Tabalong,Tanta,Warukin,115.404306079357,-2.26400549949994
+2590896,09-11-2020,1,anjing lokal,62,Rabies,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Batutering,117.485556833006,-8.64500299899996
+2399100,31-01-2020,1,kera,68,Rabies,Jambi,Muaro Jambi,Sekernan,Sengeti,103.528965392994,-1.45445853449993
+2671939,14-12-2020,2,anjing kampung,519,Rabies,Sulawesi Tengah,Buol,Biau,Kulango,121.369206608335,1.19120824100006
+2680196,04-09-2020,1,Anjing,60,Rabies,Sulawesi Tengah,Palu,Palu Utara,Mamboro,119.940178401488,-0.833385258499931
+2410242,13-02-2020,1,Anjing,60,Rabies,Nusa Tenggara Barat,Sumbawa,Labangka,Jaya Makmur,117.65359284831,-8.88264149899996
+2436198,17-03-2020,1,kucing,64,Rabies,Sumatera Barat,Pasaman Barat,Lembah Melintang,Ujung Gading,99.6309061400144,0.365706189000065

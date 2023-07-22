@@ -1,0 +1,74 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+3270078,22-01-2022,1,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Ie Meule,95.3468106386117,5.88073924000005
+2996641,11-02-2022,9,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Hutana Godang,98.9086071591084,2.32254098500005
+3270461,01-03-2022,10,kucing,64,Scabies,Aceh,Sabang,Sukakarya,Kota Atas,95.3323158812398,5.88951137350006
+3012052,10-03-2022,2,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Huta Lontung,98.86579838698,2.32966660050005
+3007777,09-03-2022,2,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Sitanggor,98.9656362164109,2.32089875800006
+3258764,04-01-2022,1,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3000257,25-02-2022,3,kerbau,36,Scabies,Sumatera Utara,Tapanuli Utara,Pagaran,Banua Luhu,98.9592452113138,2.17946850000004
+3270796,09-03-2022,7,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Batee Shok,95.285365641013,5.82985618100003
+3270161,11-01-2022,4,kucing,64,Scabies,Aceh,Sabang,Sukakarya,Kota Atas,95.3323158812398,5.88951137350006
+3156781,27-04-2022,2,sapi bali,24,Scabies,Kepulauan Riau,Natuna,Bunguran Tengah,Tapau,108.201175281814,3.90849244600005
+3168151,30-01-2022,3,kambing,40,Scabies,Aceh,Sabang,Sukakarya,Krueng Raya,95.3090010183423,5.85269453750004
+2998729,02-03-2022,1,sapi simental,28,Scabies,Jawa Tengah,Karanganyar,Gondangrejo,Wonosari,110.852661072163,-7.47900449999997
+3270256,10-01-2022,1,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3270465,08-03-2022,15,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Balohan,95.3349798510357,5.82166674800004
+3002431,18-01-2022,1,kelinci,57,Scabies,Kepulauan Riau,Natuna,Bunguran Tengah,Tapau,108.201175281814,3.90849244600005
+3270036,10-01-2022,1,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Ie Meule,95.3468106386117,5.88073924000005
+3415645,19-10-2022,2,sapi potong,77,Scabies,Jawa Timur,Mojokerto,Dawar Blandong,Banyulegi,112.427097598336,-7.32060599299996
+3270387,16-02-2022,4,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Iboih,95.2478138193301,5.86255719150003
+3270300,26-01-2022,3,kucing,64,Scabies,Aceh,Sabang,Sukamakmu,Batee Shok,95.285365641013,5.82985618100003
+3270281,18-01-2022,1,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3007736,09-03-2022,3,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Dolok Martumbur,98.9467689915273,2.30287359850004
+2996649,09-02-2022,2,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Unte Mungkur,98.9164694493827,2.33629749850004
+3000255,25-02-2022,3,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Pagaran,Dolok Saribu,98.8569424980192,2.15907846550004
+3168098,04-01-2022,7,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Paya Seunara,95.3141686836784,5.82647445400005
+3084058,18-02-2022,2,kelinci,57,Scabies,Kepulauan Riau,Natuna,Bunguran Tengah,Tapau,108.201175281814,3.90849244600005
+3081064,04-03-2022,1,Kucing Angora,537,Scabies,Kepulauan Riau,Natuna,Bunguran Timur,Batu Hitam,108.379931,3.92812
+3002509,26-01-2022,2,Kucing Persia,535,Scabies,Kepulauan Riau,Natuna,Bunguran Timur,Bandarsyah,108.350813,3.924961
+3168148,30-01-2022,6,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Paya Seunara,95.3141686836784,5.82647445400005
+3156480,08-04-2022,1,anjing lokal,62,Scabies,Kepulauan Riau,Natuna,Bunguran Timur,Batu Hitam,108.379931,3.92812
+3270818,21-03-2022,2,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Anoi Itam,95.3686319833151,5.82957628550005
+3270323,30-01-2022,2,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Ie Meule,95.3468106386117,5.88073924000005
+3106245,10-03-2022,3,Kucing Angora,537,Scabies,Kepulauan Riau,Natuna,Bunguran Batubi,Batubi Jaya,108.163999404648,3.86820364000005
+3091842,15-03-2022,3,Anjing,60,Scabies,Sumatera Utara,Pematang Siantar,Siantar Timur,Siopat Suhu,99.0758264478438,2.97384403600003
+3270374,05-05-2022,5,kelinci,57,Scabies,Aceh,Sabang,Sukakarya,Krueng Raya,95.3090010183423,5.85269453750004
+3002503,25-01-2022,5,Kucing Angora,537,Scabies,Kepulauan Riau,Natuna,Bunguran Timur,Batu Hitam,108.379931,3.92812
+3000248,24-02-2022,2,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Pagaran,Sipultak,98.8845768798825,2.16936205550005
+2996519,22-02-2022,1,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Pagaran,Parhorboan,98.9084497450125,2.15638552850004
+3270479,24-03-2022,4,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3306965,26-07-2022,3,kambing,40,Scabies,Sumatera Utara,Pematang Siantar,Siantar Martoba,Tambun Nabolon,99.0839286514652,2.99941526300006
+3270462,01-03-2022,10,kucing,64,Scabies,Aceh,Sabang,Sukakarya,Kota Atas,95.3323158812398,5.88951137350006
+2996700,04-02-2022,3,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Batu Binumbun,98.9318398150962,2.34158979500003
+3107846,18-05-2022,7,sapi,22,Scabies,Kepulauan Riau,Karimun,Durai,Durai,103.587261983818,0.499228993500054
+3270258,10-01-2022,7,kelinci,57,Scabies,Aceh,Sabang,Sukamakmu,Batee Shok,95.285365641013,5.82985618100003
+3007686,08-03-2022,2,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Aritonang,98.9392128728934,2.31961010550003
+3168113,11-01-2022,6,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Batee Shok,95.285365641013,5.82985618100003
+3012081,08-03-2022,4,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Pagaran,Dolok Saribu,98.8569424980192,2.15907846550004
+3012075,10-03-2022,2,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Huta Ginjang,98.9707075288091,2.29117761700005
+3270463,01-03-2022,5,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Balohan,95.3349798510357,5.82166674800004
+3007683,08-03-2022,3,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Simatupang,98.9274505665935,2.31928895550007
+3264550,26-01-2022,10,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3264506,20-01-2022,4,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3270196,20-01-2022,20,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Ie Meule,95.3468106386117,5.88073924000005
+3266952,02-01-2022,1,sapi,22,Scabies,Aceh,Sabang,Sukakarya,Krueng Raya,95.3090010183423,5.85269453750004
+2996540,22-02-2022,3,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Huta Lontung,98.86579838698,2.32966660050005
+3270828,13-03-2022,1,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Ie Meule,95.3468106386117,5.88073924000005
+3415612,11-08-2022,3,sapi potong,77,Scabies,Jawa Timur,Mojokerto,Puri,Tambakagung,112.461662376209,-7.51499533649994
+3415606,12-10-2022,1,Domba Ekor Gemuk,295,Scabies,Jawa Timur,Mojokerto,Puri,Plososari,112.425907895353,-7.55057954749995
+3501427,22-12-2022,1,sapi po,32,Scabies,Jawa Barat,Bekasi,Cikarang Selatan,Sukasejati,107.090460940055,-6.35164570799998
+3007780,09-03-2022,3,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Huta Ginjang,98.9707075288091,2.29117761700005
+3270842,27-05-2022,1,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3168143,26-01-2022,1,sapi,22,Scabies,Aceh,Sabang,Sukamakmu,Paya Seunara,95.3141686836784,5.82647445400005
+3270491,30-03-2022,3,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+3270495,30-03-2022,1,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Cot Ba U,95.3386552444689,5.86145690050006
+2996685,01-03-2022,1,Anjing,60,Scabies,Sumatera Utara,Tapanuli Utara,Tarutung,Parbubu Pea,98.9916577026001,1.95769416200005
+3270069,20-01-2022,1,kambing,40,Scabies,Aceh,Sabang,Sukajaya,Ie Meule,95.3468106386117,5.88073924000005
+2996696,04-02-2022,4,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Muara,Unte Mungkur,98.9164694493827,2.33629749850004
+3168103,06-01-2022,6,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Batee Shok,95.285365641013,5.82985618100003
+3270216,27-01-2022,10,kucing,64,Scabies,Aceh,Sabang,Sukajaya,Ie Meule,95.3468106386117,5.88073924000005
+3270247,09-01-2022,5,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Paya Seunara,95.3141686836784,5.82647445400005
+3415615,25-08-2022,15,kambing,40,Scabies,Jawa Timur,Mojokerto,Puri,Sumolawang,112.442522045108,-7.51849651299995
+3270816,20-03-2022,1,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Batee Shok,95.285365641013,5.82985618100003
+3270312,27-01-2022,1,kambing,40,Scabies,Aceh,Sabang,Sukamakmu,Paya Seunara,95.3141686836784,5.82647445400005
+3000258,28-02-2022,6,babi,55,Scabies,Sumatera Utara,Tapanuli Utara,Pagaran,Dolok Saribu,98.8569424980192,2.15907846550004

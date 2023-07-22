@@ -1,0 +1,4 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2904066,29-11-2021,1,kucing,64,Feline calicivirus,Jawa Barat,Kota Cirebon,Kesambi,Kesambi,108.557141665783,-6.73835349099997
+2916966,14-12-2021,1,kucing,64,Feline calicivirus,Sulawesi Utara,Minahasa,Tondano Utara,Marawas,124.95261906678,1.30074999450005
+2687660,17-03-2021,3,kucing kampung,520,Feline calicivirus,Sumatera Utara,Medan,Medan Johor,Suka Maju,98.6467238068022,3.54697856900003

@@ -1,0 +1,48 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2714064,10-12-2020,1,kambing,40,Brucellosis,Sulawesi Barat,Polewali Mandar,Tinambung,Tinambung,119.00931117411,-3.49138499899993
+2618699,29-12-2020,2,sapi,22,Brucellosis,Jawa Tengah,Wonosobo,Wonosobo,Tlogojati,109.966686449318,-7.33526799999996
+2677496,20-05-2020,2,sapi bali,24,Brucellosis,Kalimantan Tengah,Sukamara,Sukamara,Padang,111.194619728059,-2.48900806899994
+2683118,15-06-2020,4,sapi fh,35,Brucellosis,Jawa Barat,Cianjur,Warungkondang,Bunikasih,107.047439080136,-6.83761668199995
+2681605,15-05-2020,3,sapi po,32,Brucellosis,Sumatera Utara,Batu Bara,Limapuluh,Sumber Makmur,99.3907660709864,3.19643853750006
+2711631,20-01-2020,1,sapi,22,Brucellosis,Sulawesi Barat,Polewali Mandar,Mapilli,Kurma,119.150179633577,-3.34385249899995
+2679189,12-11-2020,4,sapi fh,35,Brucellosis,Jawa Barat,Depok,Sawangan,Pasir Putih,106.784234089128,-6.42261457449996
+2678725,15-10-2020,1,sapi po,32,Brucellosis,Jawa Barat,Sukabumi,Purabaya,Purabaya,106.888322208323,-7.06266283999994
+2683800,11-09-2020,2,sapi,22,Brucellosis,Jawa Barat,Kuningan,Cigugur,Cisantana,108.448587749587,-6.94422197349994
+2682637,03-03-2020,1,sapi fh,35,Brucellosis,Jawa Barat,Cianjur,Warungkondang,Bunikasih,107.047439080136,-6.83761668199995
+2668938,14-09-2020,1,sapi bali,24,Brucellosis,Kalimantan Timur,Penajam Paser Utara,Sepaku,Sukaraja,116.742468150157,-0.947829335999955
+2489471,10-06-2020,1,sapi bali,24,Brucellosis,Kalimantan Timur,Balikpapan,Balikpapan Timur,Teritip,116.963344332656,-1.15750449899997
+2668880,14-09-2020,1,Sapi Brahman Cross,289,Brucellosis,Kalimantan Timur,Penajam Paser Utara,Sepaku,Argo Mulyo,116.831761449923,-0.952722072999933
+2401852,03-02-2020,1,sapi,22,Brucellosis,Nusa Tenggara Timur,Ngada,Golewa Selatan,Boba,121.043900458142,-8.91453198999994
+2678723,15-10-2020,3,sapi fh,35,Brucellosis,Jawa Barat,Sukabumi,Sukalarang,Sukalarang,106.97903185412,-6.86830520649997
+2681602,04-04-2020,1,sapi po,32,Brucellosis,Sumatera Utara,Batu Bara,Lima Puluh Pesisir,Gunung Bandung,99.470003,3.255248
+2664257,11-09-2020,1,sapi,22,Brucellosis,Kalimantan Selatan,Kotabaru,Kelumpang Hilir,Pelajau Baru,116.072176052608,-3.02349200049997
+2670049,01-12-2020,4,sapi perah,78,Brucellosis,Jawa Tengah,Kota Pekalongan,Pekalongan Utara,Degayu,109.72790245774,-6.87924049999995
+2671045,28-01-2020,1,sapi perah,78,Brucellosis,Jawa Timur,Batu,Junrejo,Tlekung,112.529484415089,-7.91496324549996
+2675304,15-09-2020,6,sapi,22,Brucellosis,Jawa Timur,Malang,Karangploso,Donowarih,112.573343446522,-7.86449480099995
+2673327,06-03-2020,1,sapi simental,28,Brucellosis,Sumatera Barat,Padang,Pauh,Limau Manis Selatan,100.495552044482,-0.928872106999961
+2682640,15-03-2020,1,sapi fh,35,Brucellosis,Jawa Barat,Cianjur,Warungkondang,Bunikasih,107.047439080136,-6.83761668199995
+2677483,11-05-2020,2,sapi bali,24,Brucellosis,Kalimantan Tengah,Sukamara,Sukamara,Padang,111.194619728059,-2.48900806899994
+2675474,25-10-2020,1,sapi po,32,Brucellosis,Riau,Rokan Hilir,Bagan Sinembah,Gelora,100.529122958043,1.63909119050004
+2597622,20-11-2020,7,sapi bali,24,Brucellosis,Riau,Bengkalis,Talang Muandau,Tasik Serai Timur,101.609093,1.141288
+2670091,01-12-2020,4,sapi perah,78,Brucellosis,Jawa Tengah,Kota Pekalongan,Pekalongan Utara,Degayu,109.72790245774,-6.87924049999995
+2671394,15-02-2020,1,Sapi Bali Cross,294,Brucellosis,Sulawesi Tengah,Tojo Una Una,Ampana Tete,Uebone,121.608458522235,-1.01449560899997
+2681601,05-05-2020,2,sapi po,32,Brucellosis,Sumatera Utara,Batu Bara,Lima Puluh Pesisir,Lubuk Cuik,99.450796,3.283184
+2704535,15-01-2020,14,sapi fh,35,Brucellosis,Jawa Tengah,Boyolali,Ampel,Banyuanyar,110.556124932691,-7.47959649999996
+2401851,03-02-2020,1,sapi,22,Brucellosis,Nusa Tenggara Timur,Ngada,Golewa Selatan,Boba,121.043900458142,-8.91453198999994
+2489515,10-06-2020,3,sapi fh,35,Brucellosis,Jawa Tengah,Wonosobo,Kalikajar,Purwojiwo,110.025917864501,-7.39355050049994
+2669028,05-10-2020,1,sapi,22,Brucellosis,Riau,Pekanbaru,Tenayan Raya,Pebatuan,101.509901,0.467925
+2677374,22-12-2020,3,sapi fh,35,Brucellosis,Dki Jakarta,Jakarta Selatan,Pancoran,Pengadegan,106.854927682618,-6.25598788249997
+2690339,29-06-2020,1,sapi bali,24,Brucellosis,Jambi,Tanjung Jabung Barat,Tebing Tinggi,Purwodadi,103.144676358941,-1.10766458499995
+2677368,29-06-2020,26,sapi fh,35,Brucellosis,Dki Jakarta,Jakarta Timur,Cipayung,Pondok Ranggon,106.911545072074,-6.35907030149994
+2477874,20-05-2020,28,sapi bali,24,Brucellosis,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Kerta Buana,117.210845158199,-0.210282869999958
+2670082,01-12-2020,4,sapi perah,78,Brucellosis,Jawa Tengah,Kota Pekalongan,Pekalongan Utara,Degayu,109.72790245774,-6.87924049999995
+2675480,27-10-2020,1,sapi po,32,Brucellosis,Riau,Rokan Hilir,Bagan Sinembah,Suka Maju,100.657359858502,1.66949790400005
+2681604,03-06-2020,1,sapi brahman,30,Brucellosis,Sumatera Utara,Batu Bara,Sei Balai,Suko Rejo,99.6008521063432,3.08655618450004
+2682041,15-07-2020,36,sapi fh,35,Brucellosis,Jawa Barat,Subang,Ciater,Palasari,107.672670455328,-6.71492123599995
+2670780,25-08-2020,21,sapi bali,24,Brucellosis,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Kerta Buana,117.210845158199,-0.210282869999958
+2664107,03-09-2020,3,sapi bali,24,Brucellosis,Kalimantan Selatan,Tanah Laut,Panyipatan,Panyipatan,114.707723256939,-3.91863850099998
+2675471,27-10-2020,2,sapi po,32,Brucellosis,Riau,Rokan Hilir,Bagan Sinembah,Pelita,100.559050096821,1.60321002900005
+2674365,18-12-2020,1,sapi bali,24,Brucellosis,Sulawesi Tengah,Morowali,Bungku Barat,Wosu,121.750064149269,-2.45051597949995
+2714074,14-09-2020,1,kambing,40,Brucellosis,Sulawesi Barat,Polewali Mandar,Balanipa,Tammajarra,119.05095707299,-3.46254199899997
+2670740,25-08-2020,29,sapi bali,24,Brucellosis,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Bangun Rejo,117.211963633507,-0.246389843499941
+2477909,20-05-2020,28,sapi bali,24,Brucellosis,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Kerta Buana,117.210845158199,-0.210282869999958

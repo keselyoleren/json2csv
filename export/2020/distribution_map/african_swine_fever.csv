@@ -1,0 +1,1247 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2470469,07-05-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Barat,Kalaki Kambe,119.248770424993,-9.54555499799997
+2384304,14-01-2020,13,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Pardomuan Nauli,99.1597068101334,2.33927332150006
+2512565,13-07-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2383500,13-01-2020,20,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2514560,16-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias,Hili S/Hilisaranggu,Lalai Iii,97.6026399959488,1.17801629000004
+2385122,15-01-2020,70,babi,55,African swine fever,Sumatera Utara,Deli Serdang,Pagar Marbau,Sukamandi Hilir,98.9002249327036,3.63322601600007
+2385311,15-01-2020,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2510494,10-07-2020,53,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Sohoya,97.8587594962212,1.02657573250005
+2394034,26-01-2020,17,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Sitonong Bangun,98.882130980929,1.56658195500003
+2672175,30-01-2020,32,babi,55,African swine fever,Banten,Tangerang,Tigaraksa,Kadu Agung,106.49660206511,-6.27413699999997
+2666940,15-09-2020,17,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Sarotari Tengah,122.981147940971,-8.30158396199997
+2472396,11-05-2020,143,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Holi,97.7229537868423,0.97571437350004
+2477258,19-05-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Sisobawino Ii,97.5935289185682,1.03074090350006
+2472398,11-05-2020,103,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Hilibadalu,97.7474252107399,0.973913509000056
+2511502,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2511426,12-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2511423,12-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2512840,14-07-2020,50,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Banua Sibohou Iii,97.3675319663789,1.23869691450005
+2512649,13-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2432424,11-03-2020,3,babi,55,African swine fever,Sumatera Utara,Batu Bara,Air Putih,Tanjung Harapan,99.42158063981,3.32588099100005
+2384218,14-01-2020,8,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Sitangkola,99.1382210252666,2.32765506500004
+2536667,19-08-2020,173,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Dima,97.5525988314948,1.21806071600005
+2472400,11-05-2020,117,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Lawa Lawa Luo,97.6974004436314,1.03165190150006
+2497775,22-06-2020,2,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Fodo,97.6318200450272,1.24157075500005
+2529169,06-08-2020,98,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2379660,08-01-2020,11,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2684121,18-08-2020,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Sijama Polang,Nagurguran,98.719518,2.12516
+2511178,12-07-2020,36,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Banua Sibohou,97.3617229812709,1.36571864250004
+2511012,11-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2476944,18-05-2020,50,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Gawu Gawu Bouso,97.5324474824752,1.34330938450003
+2432386,11-03-2020,15,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Sido Mulyo,99.2978825728453,3.39077721500004
+2529038,06-08-2020,78,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511170,12-07-2020,31,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Esiwa,97.37005208231,1.27397755900003
+2419383,24-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2529069,06-08-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2462327,25-04-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2511192,12-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Orahili,97.3805391320274,1.30379651100003
+2512737,13-07-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2468553,04-05-2020,1000,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Sisarahili Bawolato,97.9036282616509,0.944578101000047
+2512731,13-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2512623,13-07-2020,112,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2379647,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2529017,06-08-2020,156,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sifaoroasi,97.2539883644694,1.33605007250003
+2511478,12-07-2020,18,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2511022,11-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2387175,17-01-2020,10,babi,55,African swine fever,Sumatera Utara,Karo,Laubaleng,Laubaleng,98.110915298007,3.11910149500005
+2472405,11-05-2020,249,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Lasara Siwalu Banua,97.6220968608305,1.04244564650003
+2404936,06-02-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Singa,98.4764877382269,3.07840440350006
+2478173,20-05-2020,48,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Hilianaa Gomo,97.7704131485737,0.885142405500062
+2490926,12-06-2020,6,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2433120,12-03-2020,39,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Pakam Raya Selatan,99.3487320347253,3.38527713700006
+2511308,12-07-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Gunung Tua,97.4315723570969,1.17515335800005
+2534896,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Madawat,122.221417080005,-8.63536297599995
+2572832,12-10-2020,97,babi,55,African swine fever,Lampung,Lampung Timur,Braja Selebah,Braja Gemilang,105.796690285553,-5.21302149949997
+2379641,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2512648,13-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2512761,14-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2474931,15-05-2020,1,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Olooa,Nazalou Alooa,97.5354953146912,1.25726513350003
+2511197,12-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Banua Sibohou,97.3617229812709,1.36571864250004
+2534892,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Koting,Ribang,122.208713828959,-8.65932197699996
+2489658,10-06-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Tuindrao,97.702354024389,0.754072538000031
+2511137,11-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Baho,97.3498162239432,1.39018539500006
+2666938,15-08-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Sarotari,122.99276123801,-8.26884346149996
+2478463,21-05-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lolosoni,97.7894554037417,0.891317208500055
+2684092,02-10-2020,4,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Onan Ganjang,Sigalogo,98.6391669512865,2.19196437300005
+2460538,22-04-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Watu Kawula,119.22060725967,-9.48007749799996
+2437143,18-03-2020,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pandan,Sibuluan I,98.8471684220203,1.68569939300005
+2510131,10-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Baho,97.3498162239432,1.39018539500006
+2511083,11-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Siofa Banua,97.4576338428045,1.43272332350006
+2511510,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2432289,11-03-2020,26,babi,55,African swine fever,Sumatera Utara,Batu Bara,Talawi,Gunung Rante,3.17740451100005,99.5401360348112
+2384238,14-01-2020,15,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Paindoan,99.0841655432167,2.31285940400005
+2511015,11-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2404897,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2404937,06-02-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Singa,98.4764877382269,3.07840440350006
+2666943,15-09-2020,30,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Sarotari Timur,122.981147940971,-8.30158396199997
+2472384,11-05-2020,100,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Saewe,97.683173923855,1.14392839450005
+2378621,07-01-2020,7,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sibabangun,Muara Sibuntuon,98.9914864457891,1.54002427200004
+2511485,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2510459,10-07-2020,4650,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Laowo Hilimbaruzo,97.7704892572102,0.996384042500068
+2529166,06-08-2020,120,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru I Afulu,97.2223004327611,1.26398567350003
+2472410,11-05-2020,20,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Huno,97.6639636588587,1.02532337850005
+2494094,16-06-2020,97,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Lahusa,97.8582712801452,0.799914082500038
+2512621,13-07-2020,178,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2397901,29-01-2020,15,babi,55,African swine fever,Sumatera Utara,Tanjung Balai,Datuk Bandar,Sirantau,99.7690689985638,2.94284700400004
+2511442,12-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2404890,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Kubu Simbelang,98.4929744414727,3.06819377050005
+2384273,14-01-2020,27,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Porsea,Patane Iv,99.1410610476955,2.44508980500004
+2672859,02-11-2020,3,babi,55,African swine fever,Riau,Bengkalis,Bathin Solapan,Pematang Obo,101.226424289857,1.25444936600004
+2377935,06-01-2020,13,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Sitonong Bangun,98.882130980929,1.56658195500003
+2511183,12-07-2020,34,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Esiwa,97.37005208231,1.27397755900003
+2379737,08-01-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Mardinding,Bandar Purba,98.022947050499,3.27412578250005
+2495569,18-06-2020,8,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Pasar Gunung Sitoli,97.60441101925,1.27623234500004
+2404940,06-02-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Singa,98.4764877382269,3.07840440350006
+2494092,16-06-2020,42,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Hili Simaetano,97.8454862552853,0.765721819500044
+2511076,11-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Siofa Banua,97.4576338428045,1.43272332350006
+2529028,06-08-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru I Afulu,97.2223004327611,1.26398567350003
+2511408,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Hiliduruwa,97.3982075143088,1.48127607400005
+2511196,12-07-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Berua,97.4060483777308,1.31659476050007
+2511430,12-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2510117,10-07-2020,40,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Fadoro Fulolo,97.352175175259,1.41023711300005
+2953351,30-12-2020,4,babi,55,African swine fever,Jawa Barat,Kuningan,Cigugur,Cigugur,108.465864038969,-6.96461582199996
+2465320,28-04-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2512611,13-07-2020,160,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2510481,10-07-2020,446,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Sifoarasi Uluhou,97.8022547980332,0.949048895500056
+2477252,19-05-2020,60,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Duria,97.6026452551883,1.03331290350005
+2511164,12-07-2020,26,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Dahana Hiligodu,97.3714963051119,1.35263220500005
+2512708,13-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2681626,15-03-2020,24,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Tanjung Sigoni,99.3569307026148,3.34452961400007
+2477241,19-05-2020,45,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Hiliwalo O I,97.5078344971706,1.03915892650005
+2510120,10-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lolofaoso,97.3217721714034,1.46163515050006
+2460668,23-04-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Timur,Tema Tana,119.371730993116,-9.59016249749996
+2411784,14-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Oebelo,123.716579016817,-10.1348949345
+2472380,11-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Maliwaa,97.7732971816816,1.06394915550004
+2482504,29-05-2020,41,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Hili Fadolo,97.6799231357443,0.758692702000047
+2477260,19-05-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Hiliuso,97.5655470766774,1.07437871500002
+2482501,29-05-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lolomatua,Hilisangowola,97.6179659805691,0.95069529400007
+2511454,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2401503,03-02-2020,20,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Badiri,Hutabalang,98.8474722578941,1.55165897850003
+2492331,14-06-2020,42,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Sisobahili,97.7021821777795,0.734525433000044
+2528998,06-08-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru I Afulu,97.2223004327611,1.26398567350003
+2512832,14-07-2020,70,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Harefanaese,97.4175170487817,1.23373321950004
+2404905,06-02-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2474922,15-05-2020,20,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Sisarahili Gamo,97.5662972394674,1.30317990250006
+2497792,22-06-2020,120,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Tumori,97.5891221878346,1.23028729750007
+2515195,17-07-2020,467,babi,55,African swine fever,Lampung,Lampung Selatan,Palas,Bali Agung,105.662658265999,-5.59087050049993
+2478172,20-05-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Doli Doli,97.7795621475169,0.90414311400005
+2379640,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2511439,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sawo,97.3838910180327,1.48557803900005
+2404913,06-02-2020,25,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2512733,13-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2514446,16-07-2020,37,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa,Lahemboho,97.3958618435786,1.18484078100005
+2472910,12-05-2020,9,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2407177,10-02-2020,28,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Lumban Dolok,99.0690798029274,2.33499287300006
+2512015,13-07-2020,53,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lahomi/Gahori,Sisobambowo,97.5150332541828,1.00110481800004
+2511028,11-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2511489,12-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2513130,14-07-2020,218,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Marafala,97.1311786992072,1.37850121350007
+2379697,08-01-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2404948,06-02-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Lepar Samura,98.5142582950921,3.09888217550005
+2511309,12-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Siwawo,97.4216937500875,1.15647683900002
+2684089,03-03-2020,3,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Onan Ganjang,Sibuluan,98.6385709621401,2.17358122750005
+2511195,12-07-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Esiwa,97.37005208231,1.27397755900003
+2379673,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2534893,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Koting,Koting B,122.19923461075,-8.68743847649995
+2513176,14-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Sitolu Banua,97.1697683167074,1.33483312350003
+2472370,11-05-2020,429,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Sitolu Banua,97.8187566927564,0.996136743500045
+2375938,02-01-2020,3,babi,55,African swine fever,Jawa Barat,Bogor,Gunung Sindur,Gunung Sindur,106.675902165747,-6.39009642599996
+2512677,13-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2465326,28-04-2020,23,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Barat Daya,Pailelang,124.533733792687,-8.28398290599995
+2666925,15-08-2020,70,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Waibalun,122.952602247894,-8.31775146299995
+2682745,23-01-2020,187,babi,55,African swine fever,Sumatera Utara,Asahan,Meranti,Meranti,99.6356679551261,3.07144903050005
+2672271,10-11-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Manggarai,Langke Rembong,Bangka Leda,120.443222009524,-8.61719249299995
+2384150,14-01-2020,4,babi,55,African swine fever,Sumatera Utara,Labuhan Batu,Rantau Selatan,Lobusona,99.8446050214161,2.03117691850005
+2511339,12-07-2020,26,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Botona Ai,97.4696101600656,1.12101308900006
+2472402,11-05-2020,87,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Fahandrona,97.7446748368879,0.949102808000049
+2459510,21-04-2020,171,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Nanaet Duabesi,Dubesi,124.897533673327,-9.35656937899998
+2511389,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2510496,10-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Botohaenga,97.8400144159259,1.04944323350006
+2510484,10-07-2020,1552,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Sisarahili Bawolato,97.9036282616509,0.944578101000047
+2536687,19-08-2020,62,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Onozitoli Dulu,97.5595525117077,1.20014212950005
+2511007,11-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2398937,31-01-2020,88,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Suka,Pematang Jering,99.3842585303574,3.31473325250005
+2511398,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sawo,97.3838910180327,1.48557803900005
+2379728,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2512576,13-07-2020,82,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2379715,08-01-2020,7,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2404925,06-02-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Mulawari,98.508268397197,3.08295879450003
+2472403,11-05-2020,477,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Fatodano,97.7301226197412,0.955383647000048
+2512598,13-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2510468,10-07-2020,448,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Oladano,97.7504280090011,1.01169024700005
+2529162,06-08-2020,77,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2404911,06-02-2020,8,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2407018,10-02-2020,37,babi,55,African swine fever,Sumatera Utara,Simalungun,Purba,Purba Sipinggan,98.6481436779754,2.92587802800006
+2511455,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2425525,02-03-2020,100,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Kakuluk Mesak,Kenebibi,124.854167430887,-9.03436138449996
+2413848,17-02-2020,56,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Balai,Mekar Baru,99.6008521063432,3.08655618450004
+2514540,16-07-2020,188,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Huno,97.6639636588587,1.02532337850005
+2510463,10-07-2020,163,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Hililawae,97.7512355888255,1.00144227150005
+2475446,16-05-2020,61,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Umbu,97.7849641003002,0.922612775500056
+2472373,11-05-2020,1200,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hilihoru,97.9114471986342,0.97441520250004
+2511177,12-07-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Tuhenakhe I,97.4149675350505,1.33340774100006
+2514572,16-07-2020,42,babi,55,African swine fever,Sumatera Utara,Nias,Botomuzoi,Loloanaa,97.5444440955395,1.19652120650005
+2529061,06-08-2020,50,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511505,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2433119,12-03-2020,60,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Pakam Raya,99.3778519444903,3.33553050500007
+2529174,06-08-2020,71,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2512026,13-07-2020,325,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Hilimbowo Mau,97.6091772368557,1.04972379050005
+2512654,13-07-2020,42,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2520309,24-07-2020,1098,babi,55,African swine fever,Sumatera Selatan,Palembang,Alang Alang Lebar,Karya Baru,104.696005793448,-2.97216300099996
+2388212,19-01-2020,3,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2472375,11-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Bobozioli Loloanaa,97.78125131414,1.02742170100004
+2472415,11-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Lewuoguru I,97.6560014246646,1.04656677150007
+2512728,13-07-2020,19,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2424831,02-03-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Timur,123.696588629522,-10.2247824974999
+2497781,22-06-2020,25,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Sihareo Siwahili,97.5821181072058,1.23773048700005
+2510477,10-07-2020,854,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Maliwaa,97.7732971816816,1.06394915550004
+2477244,19-05-2020,505,babi,55,African swine fever,Sumatera Utara,Nias Barat,Ulu Moroo/Narwo,Hilibadalu,97.5595572594166,1.05372159250004
+2512738,13-07-2020,33,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2511431,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2462331,25-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2595367,17-11-2020,6,babi,55,African swine fever,Sumatera Utara,Deli Serdang,Percut Sei Tuan,Amplas,98.7489417910595,3.57378385200005
+2404959,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Salit,98.497205,3.062404
+2511422,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Hiliduruwa,97.3982075143088,1.48127607400005
+2478170,20-05-2020,40,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Umbu,97.7849641003002,0.922612775500056
+2506162,03-07-2020,58,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Nassau,Lumban Rau Utara,99.4443647348444,2.30628561050003
+2514521,16-07-2020,27,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Atualuo,97.6164106797986,1.06834130100006
+2446364,31-03-2020,9,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Tengah,Tenggaba,119.32835541502,-9.52073649649995
+2529077,06-08-2020,295,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2426894,03-03-2020,11,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Nanaet Duabesi,Fohoeka,124.938295766061,-9.35542487799995
+2472797,12-05-2020,100,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Hilimbowo,97.8184247459115,0.913897593500053
+2472393,11-05-2020,80,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Umbu,97.6867020528345,1.14313535500006
+2529156,06-08-2020,50,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2383425,13-01-2020,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2407176,10-02-2020,50,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Tampahan,Tangga Batu Barat,99.0019433734737,2.27427684000006
+2529070,06-08-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511481,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2472479,11-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Fatuleu,Kuimasi,124.081206064621,-10.0249616235
+2479379,25-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2512633,13-07-2020,76,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2666953,15-09-2020,7,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Mokantarak,122.881621569119,-8.33089396499994
+2511432,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sawo,97.3838910180327,1.48557803900005
+2479380,25-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2681222,30-11-2020,2,babi,55,African swine fever,Banten,Kota Tangerang,Neglasari,Mekarsari,106.621482423649,-6.14968949999994
+2425166,02-03-2020,78,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Selatan,Lidak,124.857069700205,-9.17223338349996
+2404947,06-02-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Lepar Samura,98.5142582950921,3.09888217550005
+2514531,16-07-2020,54,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Tuhemberua,97.6033651575368,1.06220321450004
+2511421,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sawo,97.3838910180327,1.48557803900005
+2477235,19-05-2020,100,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Tuwuna,97.546836185724,1.08401624900003
+2419372,24-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2459497,21-04-2020,101,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Nanaet Duabesi,Nanaeone,124.966118845885,-9.31691187799993
+2403507,05-02-2020,27,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Balai,Durian,99.6302102773597,3.09767757700004
+2536683,19-08-2020,74,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Sisobalauru,97.5252965570665,1.20609103050006
+2512710,13-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2432384,11-03-2020,80,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Aek Nauli,99.3168412400349,3.38054905800004
+2514518,16-07-2020,335,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Onodalinga,97.7356083307788,0.98345502050006
+2379636,08-01-2020,8,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2483299,30-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lawa Lawa Luo Gomo,97.7738026644187,0.866890509500024
+2385149,15-01-2020,317,babi,55,African swine fever,Sumatera Utara,Labuhan Batu Utara,Kualuh Leidong,Teluk Pulai Dalam,99.9361344534776,2.70319854400006
+2477245,19-05-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe Utara,Tarahoso,97.5393384119259,1.10479180500005
+2512601,13-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2511496,12-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2422561,27-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Barat,Beirafu,124.862108260047,-9.15646738349997
+2529005,06-08-2020,150,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Ombolata Afulu,97.2186815434608,1.28375826200005
+2529035,06-08-2020,45,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511416,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2441988,25-03-2020,263,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Lima Puluh,Cahaya Pardomuan,99.50417,3.188198
+2472372,11-05-2020,1108,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hiliganoita,97.880101115535,0.943781246500066
+2489657,10-06-2020,66,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Lahusa,97.8582712801452,0.799914082500038
+2477255,19-05-2020,73,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Hilimbowo Mau,97.6091772368557,1.04972379050005
+2478467,21-05-2020,52,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Hilianaa Gomo,97.7704131485737,0.885142405500062
+2504629,01-07-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Habi,122.258293646758,-8.65563647599996
+2480786,27-05-2020,38,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Hilianaa Gomo,97.7704131485737,0.885142405500062
+2523086,28-07-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Beja,120.944429295443,-8.83939499149997
+2506161,03-07-2020,200,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Tampahan,Tangga Batu Barat,99.0019433734737,2.27427684000006
+2529032,06-08-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511189,12-07-2020,32,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Dahana Hiligodu,97.3714963051119,1.35263220500005
+2511145,11-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lawira I,97.3149395646308,1.43780724050006
+2511434,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2426877,03-03-2020,39,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Kakuluk Mesak,Kenebibi,124.854167430887,-9.03436138449996
+2379705,08-01-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2546482,31-08-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Teluk Dalam,Hili Amaetaluo,97.8680945603673,0.621314608000063
+2379700,08-01-2020,18,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2511165,12-07-2020,18,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Orahili,97.3805391320274,1.30379651100003
+2396195,28-01-2020,3,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Tanah Datar,Sei Muka,99.549328,3.161411
+2474943,15-05-2020,20,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Lolofaoso Tabaloho,97.6114011463399,1.22654198050003
+2529076,06-08-2020,113,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sifaoroasi,97.2539883644694,1.33605007250003
+2487104,06-06-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2497778,22-06-2020,2,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Fodo,97.6318200450272,1.24157075500005
+2474948,15-05-2020,4,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Lolofaoso Tabaloho,97.6114011463399,1.22654198050003
+2676590,22-09-2020,3,babi,55,African swine fever,Jawa Tengah,Karanganyar,Gondangrejo,Karangturi,110.873254428424,-7.50589850099996
+2511503,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2485280,03-06-2020,21,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Hili Fadolo,97.6799231357443,0.758692702000047
+2379719,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2673267,23-11-2020,6,babi,55,African swine fever,Sumatera Barat,Padang,Koto Tangah,Lubuk Buaya,100.36233928881,-0.879655358999941
+2511401,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2492900,15-06-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Beru,122.24294317801,-8.63164747599996
+2416679,20-02-2020,5,babi,55,African swine fever,Sumatera Utara,Simalungun,Pane,Sigodang,98.8837686757351,2.92653153650005
+2514575,16-07-2020,19,babi,55,African swine fever,Sumatera Utara,Nias,Botomuzoi,Tuhegafoa I,97.5597152617501,1.17908696750004
+2512637,13-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2404901,06-02-2020,17,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2511171,12-07-2020,37,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Hilibanua,97.4591391565072,1.32474873650006
+2512680,13-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2512641,13-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2512716,13-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2422818,27-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2480051,26-05-2020,47,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Hilianaa Gomo,97.7704131485737,0.885142405500062
+2438933,20-03-2020,16,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sibabangun,Hutagurgur,98.9642087944923,1.56766103850006
+2381751,10-01-2020,9,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Sitonong Bangun,98.882130980929,1.56658195500003
+2482502,29-05-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lolomatua,Lawa Lawa Luo,97.6293551956754,0.957801270000033
+2510474,10-07-2020,1200,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Awoni Lauso,97.8128678968029,1.04604427850003
+2514573,16-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias,Botomuzoi,Ononamolo Talafu,97.51278596528,1.18050526000005
+2480790,27-05-2020,18,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Hili Fadolo,97.6799231357443,0.758692702000047
+2404910,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2416677,20-02-2020,13,babi,55,African swine fever,Sumatera Utara,Simalungun,Purba,Purba Sipinggan,98.6481436779754,2.92587802800006
+2511984,13-07-2020,22,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2666950,15-09-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lokea,123.009707303545,-8.30766346199997
+2482498,29-05-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Hilianaa Gomo,97.7704131485737,0.885142405500062
+2379649,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2512667,13-07-2020,68,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2513157,14-07-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Hilizukhu,97.2445933067805,1.31720648100006
+2472388,11-05-2020,9,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Ladea,97.6561856967903,1.09800838050003
+2511032,11-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2514507,16-07-2020,378,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Sisobahili,97.652693639062,1.08212767700005
+2511445,12-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2514538,16-07-2020,150,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Somolo Molo,97.6674144179185,1.05133824250004
+2511042,11-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2684132,02-01-2020,309,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Bonani Onan,98.7497238075031,2.24511550400007
+2512732,13-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2510475,10-07-2020,395,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Bobozioli Loloanaa,97.78125131414,1.02742170100004
+2514520,16-07-2020,57,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Hiliweto Somolomolo,97.6861158543977,1.02446459450005
+2482202,29-05-2020,20,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Faekhu,97.6154353551979,1.23211137900006
+2411782,14-02-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Tarus,123.665688944542,-10.150179936
+2429473,07-03-2020,15,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Andam Dewi,Sogar,98.370658759772,2.13879965000007
+2512600,13-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2379741,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Mardinding,Bandar Purba,98.022947050499,3.27412578250005
+2511524,12-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2684139,28-01-2020,29,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Purba Manalu,98.7513135162088,2.20910833850004
+2453995,12-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2511400,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2491246,12-06-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Madawat,122.221417080005,-8.63536297599995
+2511477,12-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2432344,11-03-2020,5,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Penfui Timur,123.686457820565,-10.177947847
+2510488,10-07-2020,75,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hilialawa,97.9156290964597,0.98769359700006
+2514564,16-07-2020,76,babi,55,African swine fever,Sumatera Utara,Nias,Botomuzoi,Hiligadu Botomuzoi,97.5244737146324,1.16171799500006
+2413845,17-02-2020,39,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Balai,Kwala Sikasim,99.6053217130182,3.13103114400005
+2379644,08-01-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2379723,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2684131,15-02-2020,27,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Sihite I,98.7185313790739,2.22745727050005
+2486935,05-06-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Ora Hili Eho,97.7008638531353,0.768835326500039
+2511027,11-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2513133,14-07-2020,263,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Onozalukhu,97.2261833870739,1.33209226400004
+2466848,30-04-2020,58,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Tarutung Bolak,98.6072612051719,1.89604614850003
+2512660,13-07-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2523177,28-07-2020,5,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wailiti,122.19205554137,-8.60809097699996
+2512635,13-07-2020,60,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2512031,13-07-2020,39,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe Utara,Balodano,97.5267354243497,1.08451347100007
+2384280,14-01-2020,6,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Baru Ara,99.1074698512874,2.32790695400004
+2432380,11-03-2020,135,babi,55,African swine fever,Sumatera Utara,Batu Bara,Air Putih,Sukaraja,99.3931358205558,3.27731810650005
+2472411,11-05-2020,10,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Sifaoroasi,97.6634217000718,1.05876283550006
+2477257,19-05-2020,85,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Ambukha,97.5852636502295,1.03614585250003
+2472799,12-05-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lolosoni,97.7894554037417,0.891317208500055
+2511396,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2529154,06-08-2020,70,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sifaoroasi,97.2539883644694,1.33605007250003
+2471371,09-05-2020,7,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2425565,02-03-2020,30,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Tarutung Bolak,98.6072612051719,1.89604614850003
+2465317,28-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2492915,15-06-2020,23,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Nita,Takaplager,122.191310441174,-8.64152147649995
+2497231,21-06-2020,89,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Lahusa,97.8582712801452,0.799914082500038
+2512605,13-07-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2398612,30-01-2020,42,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Lima Puluh,Cahaya Pardomuan,99.50417,3.188198
+2512655,13-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2510465,10-07-2020,140,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Tuhewaebu,97.7380185621245,0.995791244500026
+2529050,06-08-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511471,12-07-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2510495,10-07-2020,374,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Tagaule,97.8690317383549,1.04259138150005
+2479376,25-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2511419,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2512624,13-07-2020,53,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2492330,14-06-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Tuindrao,97.702354024389,0.754072538000031
+2684091,10-03-2020,17,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Onan Ganjang,Parbotihan,98.599452670301,2.10189269500003
+2385336,15-01-2020,2,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2514545,16-07-2020,112,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Sisaratandrawa,97.6760673498756,1.03592674650002
+2511429,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2497833,22-06-2020,82,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Siwalubanua Ii,97.6488994393359,1.17031900600006
+2404955,06-02-2020,15,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Salit,98.497205,3.062404
+2690551,06-11-2020,6,babi,55,African swine fever,Di Yogyakarta,Bantul,Kasihan,Ngestiharjo,110.341307318049,-7.81010299999994
+2514526,16-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Dekha,97.6470612014398,1.06581770000005
+2507295,06-07-2020,20,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam Barat,Aek Raso,98.5612932885323,1.95981769300005
+2474971,15-05-2020,10,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Samasi,97.6278987479914,1.10998116550005
+2432387,11-03-2020,28,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Sei Buah Keras,99.3425882444283,3.39031539900006
+2512030,13-07-2020,180,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe Utara,Ononamolo Ii,97.5382281186402,1.12705235150005
+2416840,20-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2511472,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2576604,18-10-2020,22,babi,55,African swine fever,Riau,Bengkalis,Bathin Solapan,Sebangar,101.119810463826,1.29699773150006
+2514552,16-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Onozitoli Dulu,97.5595525117077,1.20014212950005
+2511482,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2510124,10-07-2020,55,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Hiligodu,97.3550198598642,1.42806724600004
+2502237,28-06-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Kota Uneng,122.216334847585,-8.62612447599994
+2511519,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2511074,11-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2514504,16-07-2020,70,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Umbu,97.6867020528345,1.14313535500006
+2451123,07-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2566250,02-10-2020,18,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Sibarani Nasampulu,99.1280773006679,2.32620047350005
+2543653,27-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Namangkewa,122.292596362021,-8.63916584149993
+2488231,08-06-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Kota Uneng,122.216334847585,-8.62612447599994
+2463379,26-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Timur,Tema Tana,119.371730993116,-9.59016249749996
+2512760,14-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2407391,10-02-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Selatan,Lidak,124.857069700205,-9.17223338349996
+2511982,13-07-2020,55,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2512666,13-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2379714,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2477253,19-05-2020,43,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Wango,97.5870808424581,1.07204435850005
+2666952,15-09-2020,11,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lamawalang,122.93467939468,-8.31836946199994
+2433122,12-03-2020,12,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Sei Raja,99.3487320347253,3.38527713700006
+2529001,06-08-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2512687,13-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2460533,22-04-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2511497,12-07-2020,21,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2676603,07-09-2020,3,babi,55,African swine fever,Jawa Tengah,Karanganyar,Karanganyar,Cangakan,110.949809638162,-7.58936099999994
+2511014,11-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2512567,13-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2433116,12-03-2020,12,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Cengkring Pekan,99.3487320347253,3.38527713700006
+2511476,12-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2672164,21-01-2020,44,babi,55,African swine fever,Banten,Tangerang,Legok,Babat,106.538957829118,-6.32282049999995
+2425504,02-03-2020,28,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Lasiolat,Dualasi,125.036810708854,-9.09615637299996
+2510476,10-07-2020,400,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Tetehosi,97.764770311361,1.03536986100002
+2514542,16-07-2020,68,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Sifaoroasi,97.6634217000718,1.05876283550006
+2511508,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2379675,08-01-2020,11,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2512816,14-07-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Mazingo,97.4106651535295,1.29055677000005
+2666945,15-09-2020,54,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lewolere,122.964840683203,-8.31428046299996
+2476447,18-05-2020,5,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Tumori,97.5891221878346,1.23028729750007
+2512766,14-07-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2470830,08-05-2020,154,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Tetezou,97.8798020976326,0.778581998500073
+2404949,06-02-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Salit,98.497205,3.062404
+2512721,13-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2511386,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2514514,16-07-2020,518,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Sisobahili Ulugawo,97.6950587873898,0.96780141000005
+2425489,02-03-2020,51,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Lasiolat,Fatulotu,125.029767613145,-9.11350933849994
+2407359,10-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Kota,Atambua Kota,124.879193682655,-9.14984488249996
+2512618,13-07-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2512579,13-07-2020,75,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2425571,02-03-2020,6,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Nai Pos Pos Barat,98.5851994902208,1.90254484250005
+2510480,10-07-2020,400,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Siofa Banua,97.7745271101078,0.960731256500054
+2474906,15-05-2020,12,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Dahana,97.5941924455517,1.24028967250004
+2474946,15-05-2020,100,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Onozitoli Tabaloho,97.6203928727497,1.18884991100003
+2391840,23-01-2020,13,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Porsea,Simpang Sigura Gura,99.064946,2.517493
+2489655,10-06-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Hili Simaetano,97.8454862552853,0.765721819500044
+2511404,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2384291,14-01-2020,2,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Banjar Ganjang,99.191026,2.473577
+2381495,10-01-2020,12,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2491891,13-06-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Tetezou,97.8798020976326,0.778581998500073
+2474901,15-05-2020,10,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Onozikho,97.5692169976815,1.21606068250006
+2512750,14-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2511425,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2474959,15-05-2020,10,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Bawadesolo,97.5574665864375,1.30465702500007
+2395587,27-01-2020,20,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Toga Basir,98.914480709623,1.56996767750005
+2405751,07-02-2020,42,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Tanah Datar,Sei Muka,99.549328,3.161411
+2384257,14-01-2020,2,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Pasar Lagu Boti,99.1313245162619,2.34040533300004
+2418158,22-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2390611,22-01-2020,41,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Suka,Pematang Jering,99.3842585303574,3.31473325250005
+2379665,08-01-2020,12,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2684119,05-05-2020,13,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Sijama Polang,Sibuntuon,98.7427619792124,2.14110015450007
+2529071,06-08-2020,132,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2384227,14-01-2020,1,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Uluan,Parhabinsaran Janji Matogu,99.1066978592901,2.44633077350005
+2380567,09-01-2020,21,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sarudik,Sarudik,98.8473801959637,1.72679959700005
+2529016,06-08-2020,222,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sisobahili,97.2643438598019,1.29324976550004
+2414718,18-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2512631,13-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2511403,12-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2404930,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Mulawari,98.508268397197,3.08295879450003
+2391858,23-01-2020,30,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Silalahi Pagar Batu,99.0464916934728,2.30443500250004
+2401498,03-02-2020,10,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Badiri,Gunung Kelambu,98.9168125593594,1.59298097150005
+2404929,06-02-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Mulawari,98.508268397197,3.08295879450003
+2511462,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2478171,20-05-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Sifaoroasi Gomo,97.7897740464222,0.853141655500025
+2379711,08-01-2020,6,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2474936,15-05-2020,276,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Tetehosi Afia,97.4934634900245,1.37011931450007
+2379740,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Mardinding,Bandar Purba,98.022947050499,3.27412578250005
+2383503,13-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2384342,14-01-2020,64,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Pangombusan,99.193265,2.481521
+2425530,02-03-2020,8,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Rai Manuk,Tasain,124.854208301343,-9.43286838149996
+2511457,12-07-2020,18,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Botona Ai,97.4696101600656,1.12101308900006
+2480052,26-05-2020,53,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lawa Lawa Luo Gomo,97.7738026644187,0.866890509500024
+2387167,17-01-2020,9,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Suka,98.5135695674381,3.06707725650006
+2417768,21-02-2020,11,babi,55,African swine fever,Sumatera Utara,Tapanuli Utara,Muara,Aritonang,98.9392128728934,2.31961010550003
+2684136,06-01-2020,45,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Hutaraja,98.7436583180849,2.25678180200006
+2513129,14-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Holi,97.1966444204171,1.29978368550005
+2511495,12-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2511166,12-07-2020,22,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Sisarahili,97.4341498167571,1.30595354400006
+2474969,15-05-2020,1,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Idanotae,97.656222133863,1.16138087250005
+2510472,10-07-2020,445,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Hilionozega,97.8160502061924,1.02470748450003
+2473845,13-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2512833,14-07-2020,75,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Hilina A,97.4170137107584,1.27257059200005
+2514527,16-07-2020,285,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Lewuaguru Ii,97.6258361936737,1.01310400850005
+2479360,25-05-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2684138,14-04-2020,72,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Simangaronsang,98.741624,2.297217
+2497230,21-06-2020,52,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Hili Simaetano,97.8454862552853,0.765721819500044
+2460670,23-04-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Utara,Mataloko,119.386734545997,-9.54158599749996
+2477247,19-05-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe Barat,Hilidaura,97.42530621496,1.01228784100005
+2404887,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Kubu Simbelang,98.4929744414727,3.06819377050005
+2511167,12-07-2020,26,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Sisobahili,97.4447253037537,1.33415500450005
+2511487,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2482203,29-05-2020,3,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Fodo,97.6318200450272,1.24157075500005
+2511501,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2514492,16-07-2020,221,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Hilisebua,97.6842241963819,1.10700230450004
+2511493,12-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2511520,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2512758,14-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2511395,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2511500,12-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2684103,06-04-2020,51,Anjing,60,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Sipitu Huta,98.7298866758949,2.29111705750006
+2468803,04-05-2020,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pandan,Aek Tolang,98.8649281467216,1.67875503450006
+2512745,14-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2499665,24-06-2020,70,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Lahusa,97.8582712801452,0.799914082500038
+2684146,11-11-2020,7,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Lumban Purba,98.7625044783128,2.18468497800004
+2404945,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Lepar Samura,98.5142582950921,3.09888217550005
+2682278,02-09-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Silimabanua,97.8743649010563,0.828603199000071
+2477251,19-05-2020,45,babi,55,African swine fever,Sumatera Utara,Nias Barat,Moro'O,Sitolu Ewali,97.4398422824431,1.08421109600005
+2423976,29-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Oelnasi,123.660605305417,-10.1796179535
+2404939,06-02-2020,6,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Singa,98.4764877382269,3.07840440350006
+2483303,30-05-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lolomatua,Koendrafo,97.6459105787512,0.961315292000052
+2546484,31-08-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Teluk Dalam,Bawo Zaua,97.853761391306,0.603314006000033
+2511005,11-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2485343,03-06-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2511428,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2472376,11-05-2020,100,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Tetehosi,97.764770311361,1.03536986100002
+2426900,03-03-2020,21,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Nanaet Duabesi,Nanaeone,124.966118845885,-9.31691187799993
+2477248,19-05-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe Barat,Lasara Faga,97.4272553631164,1.03464941700005
+2513172,14-07-2020,242,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Iraono Lase,97.1853844769644,1.31724844250004
+2404908,06-02-2020,6,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2476439,18-05-2020,3,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Loloanaa / Lolomoyo,97.5253805566839,1.30971209400005
+2556077,17-09-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Simpang Empat,Nang Belawan,98.4410949927899,3.10537705450005
+2387174,17-01-2020,15,babi,55,African swine fever,Sumatera Utara,Karo,Laubaleng,Laubaleng,98.110915298007,3.11910149500005
+2511413,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2512620,13-07-2020,47,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2510473,10-07-2020,380,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Mondrali,97.8243597143904,1.01822869800003
+2684088,21-06-2020,30,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Onan Ganjang,Sibuluan,98.6385709621401,2.17358122750005
+2507283,06-07-2020,38,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam Barat,Maduma,98.5363832634705,1.96177528850004
+2432383,11-03-2020,193,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Durian,99.3606202042917,3.38817726150003
+2512614,13-07-2020,170,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2529039,06-08-2020,45,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2404904,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2529004,06-08-2020,40,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Harewakhe,97.2162240999127,1.29337696150006
+2430734,09-03-2020,7,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pandan,Sibuluan I,98.8471684220203,1.68569939300005
+2404942,06-02-2020,12,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Lepar Samura,98.5142582950921,3.09888217550005
+2511483,12-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2383506,13-01-2020,11,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2474911,15-05-2020,18,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Pasar Gunung Sitoli,97.60441101925,1.27623234500004
+2419367,24-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2486933,05-06-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Hilimbowo,97.6730284684228,0.717146268500045
+2490923,12-06-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Wee Tobula,119.283011010081,-9.44057199799997
+2511017,11-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2546477,31-08-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Teluk Dalam,Lagundri,97.7559925352291,0.588309191500031
+2495064,17-06-2020,60,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Sisobahili,97.7021821777795,0.734525433000044
+2411427,14-02-2020,7,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Tanah Datar,Sumber Tani,99.442337,3.167477
+2529064,06-08-2020,85,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511437,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2512087,13-07-2020,58,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Fadorobahili,97.4582149000316,1.02196256900007
+2512674,13-07-2020,22,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2528992,06-08-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2393165,24-01-2020,12,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2512551,13-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2425546,02-03-2020,23,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Pearaja,98.5937192749958,1.92339949400005
+2478464,21-05-2020,55,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Umbu,97.7849641003002,0.922612775500056
+2512757,14-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2404909,06-02-2020,9,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2511488,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2510136,10-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lawira Satua,97.325400128875,1.41833249600003
+2512657,13-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2512768,14-07-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2510486,10-07-2020,80,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hilihoru,97.9114471986342,0.97441520250004
+2420439,26-02-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2432324,11-03-2020,4,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Balai,Sei Bejangkar,99.5645221406829,3.09700070650004
+2513179,14-07-2020,236,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Sitolu Banua,97.1697683167074,1.33483312350003
+2512827,14-07-2020,60,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Hilina A,97.4170137107584,1.27257059200005
+2676297,19-10-2020,20,babi,55,African swine fever,Jawa Tengah,Karanganyar,Gondangrejo,Plesungan,110.873270430063,-7.52550549999995
+2512746,14-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2434310,13-03-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2384264,14-01-2020,3,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Jonggi Manulus,99.188185,2.465586
+2512749,14-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2511175,12-07-2020,34,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Berua,97.4060483777308,1.31659476050007
+2528995,06-08-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2415801,19-02-2020,12,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Tanah Datar,Sumber Tani,99.442337,3.167477
+2472551,11-05-2020,8,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2534902,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Koting,Koting B,122.19923461075,-8.68743847649995
+2483308,30-05-2020,41,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Hili Fadolo,97.6799231357443,0.758692702000047
+2512699,13-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2511449,12-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2672178,30-01-2020,50,babi,55,African swine fever,Banten,Tangerang,Legok,Babat,106.538957829118,-6.32282049999995
+2467943,02-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Timur,Tema Tana,119.371730993116,-9.59016249749996
+2511072,11-07-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2507553,06-07-2020,16,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sosor Gadong,Sosor Gadong,98.5060166125751,2.00084255650003
+2666949,15-09-2020,16,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Lohayong,123.002304750443,-8.30761046249995
+2482205,29-05-2020,604,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Binaka,97.6626742595054,1.15882615800007
+2511484,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2512843,14-07-2020,32,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Banua Sibohou Iii,97.3675319663789,1.23869691450005
+2512354,13-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2511190,12-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Sisarahili,97.4341498167571,1.30595354400006
+2529161,06-08-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru I Afulu,97.2223004327611,1.26398567350003
+2511184,12-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Berua,97.4060483777308,1.31659476050007
+2579060,21-10-2020,4,babi,55,African swine fever,Riau,Dumai,Dumai Timur,Bukit Batrem,101.525072801114,1.52325767500005
+2528996,06-08-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sifaoroasi,97.2539883644694,1.33605007250003
+2477239,19-05-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lahomi/Gahori,Sisobaoho,97.5469620567105,0.943186718000049
+2681618,13-03-2020,82,babi,55,African swine fever,Sumatera Utara,Batu Bara,Lima Puluh Pesisir,Pematang Tengah,99.437149,3.285205
+2511187,12-07-2020,25,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Namohalu,97.4143247602647,1.34731463700007
+2387171,17-01-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Kampung Dalam,98.4821369737977,3.11053416800007
+2511522,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2514533,16-07-2020,490,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Sisarahili Ma U,97.636233537254,1.04102938050005
+2491898,13-06-2020,84,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Lahusa,97.8582712801452,0.799914082500038
+2536664,19-08-2020,200,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Sinarikhi,97.5411795044147,1.21425782050005
+2485305,03-06-2020,35,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Lolomoyo Tuhemberua,97.5706816231863,1.23245195900006
+2379708,08-01-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2511393,12-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2511486,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2511435,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Onozitoli Sawo,97.3905275593804,1.46578816450005
+2666951,15-09-2020,5,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Waihali,122.981147940971,-8.30158396199997
+2511182,12-07-2020,22,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Hilibanua,97.4591391565072,1.32474873650006
+2472391,11-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Lahemo,97.673344210078,1.09775398800005
+2407179,10-02-2020,3,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Gasa Ribu,99.1538581053505,2.36182783850003
+2491232,12-06-2020,9,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Koting,Koting A,122.205612090983,-8.67717697649996
+2512348,13-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2512640,13-07-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2387618,18-01-2020,30,babi,55,African swine fever,Jawa Barat,Bogor,Gunung Sindur,Padurenan,106.708718447309,-6.39939641949996
+2472412,11-05-2020,10,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Sisaratandrawa,97.6760673498756,1.03592674650002
+2514550,16-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Fadoro Lauru,97.5271190487872,1.22120104600006
+2511180,12-07-2020,31,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Orahili,97.3805391320274,1.30379651100003
+2666929,15-09-2020,20,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Waibalun,122.952602247894,-8.31775146299995
+2512663,13-07-2020,42,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2492328,14-06-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Hili Simaetano,97.8454862552853,0.765721819500044
+2425270,02-03-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Kakuluk Mesak,Fatukety,124.828625820879,-9.08386838649994
+2396207,28-01-2020,3,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Bonatua Lunasi,Sinar Sabungan,99.103388,2.553027
+2431225,10-03-2020,102,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sibabangun,Hutagurgur,98.9642087944923,1.56766103850006
+2512724,13-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2403516,05-02-2020,48,babi,55,African swine fever,Sumatera Utara,Batu Bara,Talawi,Benteng,3.17740451100005,99.5401360348112
+2426898,03-03-2020,8,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Nanaet Duabesi,Dubesi,124.897533673327,-9.35656937899998
+2684145,10-03-2020,62,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Sihite Ii,98.7110372378506,2.20045064450005
+2666947,15-09-2020,7,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Pohon Bao,122.961883574612,-8.27951746199997
+2512679,13-07-2020,55,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2472408,11-05-2020,20,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Somolo Molo,97.6674144179185,1.05133824250004
+2384314,14-01-2020,6,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Bonatua Lunasi,Pardolok Lumban Lobu,99.3300711342615,2.38032375550003
+2514571,16-07-2020,12,babi,55,African swine fever,Sumatera Utara,Nias,Botomuzoi,Hiliwaele I,97.5509248087511,1.17581175200004
+2379739,08-01-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Mardinding,Bandar Purba,98.022947050499,3.27412578250005
+2474920,15-05-2020,8,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Sihareo Ii,97.622003114757,1.25167868950007
+2468558,04-05-2020,547,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Siofa Banua,97.7745271101078,0.960731256500054
+2385316,15-01-2020,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2514482,16-07-2020,22,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Saewe,97.683173923855,1.14392839450005
+2510460,10-07-2020,715,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Tete Goenaai,97.7932176905012,0.994484920000048
+2510466,10-07-2020,212,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Sisobahili Iraonohura,97.7131060905331,1.01661522950005
+2512828,14-07-2020,115,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Hilimbowo Kare,97.4410184193977,1.27592675150004
+2529020,06-08-2020,174,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2514549,16-07-2020,152,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Iodano,97.6574194056295,1.01005386050005
+2512612,13-07-2020,95,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2682281,25-09-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Maniamolo,Pekan Hilisimaetano,97.734888,0.67127
+2479664,26-05-2020,34,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Binaka,97.6626742595054,1.15882615800007
+2684134,20-03-2020,45,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Simangaronsang,98.741624,2.297217
+2384247,14-01-2020,9,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Pardomuan Nauli,99.1597068101334,2.33927332150006
+2417769,21-02-2020,14,babi,55,African swine fever,Sumatera Utara,Tapanuli Utara,Muara,Simatupang,98.9274505665935,2.31928895550007
+2511492,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2684135,04-01-2020,105,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Sileang,98.7784673956279,2.26664601300004
+2507953,07-07-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Sabu Timur,Bodae,121.987906879436,-10.458004978
+2510479,10-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Bozihona,97.8170237982862,1.08759610600003
+2512759,14-07-2020,21,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2684097,01-01-2020,118,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Huta Paung,98.6990452464184,2.31737266400003
+2512714,13-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2487050,06-06-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2404927,06-02-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Mulawari,98.508268397197,3.08295879450003
+2514491,16-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Lolozasai,97.6732571415355,1.14089940550005
+2512547,13-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2391849,23-01-2020,2,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Bonatua Lunasi,Pardolok Lumban Lobu,99.3300711342615,2.38032375550003
+2511470,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2432404,11-03-2020,82,babi,55,African swine fever,Sumatera Utara,Batu Bara,Lima Puluh Pesisir,Pematang Panjang,99.493206,3.250735
+2514546,16-07-2020,174,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Lewuoguru I,97.6560014246646,1.04656677150007
+2482499,29-05-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lawa Lawa Luo Gomo,97.7738026644187,0.866890509500024
+2411439,14-02-2020,99,babi,55,African swine fever,Sumatera Utara,Batu Bara,Air Putih,Pematang Panjang,99.4146520424673,3.28008578850006
+2407174,10-02-2020,17,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Pardomuan Nauli,99.1597068101334,2.33927332150006
+2379668,08-01-2020,18,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2512705,13-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2462332,25-04-2020,6,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2433121,12-03-2020,169,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Sei Rakyat,99.3516123374295,3.36159132450007
+2387177,17-01-2020,25,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Rumah Kabanjahe,98.4746654631448,3.11445412650005
+2511444,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2466873,30-04-2020,130,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Tukka,Huta Nabolon,98.906938704879,1.62654196250006
+2435642,16-03-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2385315,15-01-2020,13,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2512837,14-07-2020,180,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Hilina A,97.4170137107584,1.27257059200005
+2514484,16-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Sirete,97.6922800016004,1.13889192150006
+2684147,08-04-2020,204,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Saitnihuta,98.7920215878067,2.17876695200005
+2507624,06-07-2020,5,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Barus Utara,Pananggahan,98.4269048946893,2.07029066850004
+2514558,16-07-2020,26,babi,55,African swine fever,Sumatera Utara,Nias,Hili S/Hilisaranggu,Lolofaoso Lalai,97.600706353618,1.15829466300005
+2512569,13-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2379651,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2427227,04-03-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Kota,Manumutin,124.866091055142,-9.13335788399996
+2529165,06-08-2020,150,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sifaoroasi,97.2539883644694,1.33605007250003
+2485277,03-06-2020,47,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lawa Lawa Luo Gomo,97.7738026644187,0.866890509500024
+2511981,13-07-2020,55,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2416836,20-02-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Penfui Timur,123.686457820565,-10.177947847
+2510483,10-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hiliganoita,97.880101115535,0.943781246500066
+2497803,22-06-2020,20,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Siwalubanua Ii,97.6488994393359,1.17031900600006
+2512682,13-07-2020,19,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2474929,15-05-2020,8,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Olooa,Lololawa,97.5483713450097,1.26677791600005
+2511506,12-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2379663,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2949973,30-12-2020,2,babi,55,African swine fever,Jawa Barat,Kuningan,Cigugur,Cigugur,108.465864038969,-6.96461582199996
+2391844,23-01-2020,7,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Uluan,Marom,99.0775998673953,2.42635475300003
+2512650,13-07-2020,19,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2407180,10-02-2020,163,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Sigumpar,Sigumpar,99.1812430036458,2.39098905350005
+2472355,11-05-2020,425,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Sitolu Banua,97.8187566927564,0.996136743500045
+2511341,12-07-2020,18,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Botona Ai,97.4696101600656,1.12101308900006
+2488221,08-06-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Kota Uneng,122.216334847585,-8.62612447599994
+2491903,13-06-2020,56,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Sisobahili,97.7021821777795,0.734525433000044
+2529055,06-08-2020,150,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2504634,01-07-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Kota Uneng,122.216334847585,-8.62612447599994
+2436718,17-03-2020,78,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Habinsaran,Parsoburan Tengah,99.3589632566494,2.31519257050005
+2478910,22-05-2020,53,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Umbu,97.7849641003002,0.922612775500056
+2510123,10-07-2020,46,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lawira Ii,97.3448488550062,1.44360552100005
+2477261,19-05-2020,40,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Hilimbuasi,97.5802274370873,1.04455839200003
+2523085,28-07-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Bajawa,Ngedukelu,120.968158055964,-8.77322298949997
+2512014,13-07-2020,288,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lahomi/Gahori,Ono Limbu,97.500486452803,1.00034822650002
+2438448,19-03-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2394033,26-01-2020,11,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2425532,02-03-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Rai Manuk,Mandeu,124.841087043063,-9.39209938349995
+2474912,15-05-2020,10,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Miga,97.6213645730108,1.23888204900004
+2387173,17-01-2020,19,babi,55,African swine fever,Sumatera Utara,Karo,Laubaleng,Laubaleng,98.110915298007,3.11910149500005
+2485282,03-06-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Lolozaria,97.6657733825668,0.728883227500063
+2379656,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2492896,15-06-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Beru,122.24294317801,-8.63164747599996
+2511480,12-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2384298,14-01-2020,4,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Sibarani Nasampulu,99.1280773006679,2.32620047350005
+2407178,10-02-2020,5,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Bonatua Lunasi,Sinar Sabungan,99.103388,2.553027
+2468559,04-05-2020,338,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Orahili,97.8376118967786,1.01840795900006
+2511176,12-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Dahana Hiligodu,97.3714963051119,1.35263220500005
+2474915,15-05-2020,1,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Boyo,97.5970955791719,1.26252798600004
+2388215,19-01-2020,3,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Sitonong Bangun,98.882130980929,1.56658195500003
+2511526,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2511450,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2533091,12-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2682089,02-01-2020,213,babi,55,African swine fever,Sumatera Utara,Labuhan Batu,Panai Hilir,Sei Penggantungan,100.076860721491,2.63828765650004
+2536660,19-08-2020,95,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Ombolata Saloo,97.534321835016,1.20839475000005
+2510482,10-07-2020,53,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Gazamanu,97.8785568118728,0.924939264500068
+2512597,13-07-2020,81,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2443830,27-03-2020,30,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Tukka,Sipange,98.8842259073076,1.62523423650003
+2472387,11-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Somi,97.712870697957,1.14037464700004
+2472374,11-05-2020,1150,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hilialawa,97.9156290964597,0.98769359700006
+2506171,03-07-2020,6,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Porsea,Patane Iii,99.1481450327243,2.45981203250005
+2706771,09-11-2020,6,babi,55,African swine fever,Jambi,Merangin,Tabir Lintas,Tambang Baru,102.254694434355,-1.96836840999995
+2511081,11-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2512626,13-07-2020,26,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2514556,16-07-2020,25,babi,55,African swine fever,Sumatera Utara,Nias,Hili S/Hilisaranggu,Fulolo Lalai,97.5904415484754,1.16006563600004
+2506165,03-07-2020,21,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Nassau,Liattondung,99.324093,2.378635
+2489225,09-06-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Tetezou,97.8798020976326,0.778581998500073
+2512651,13-07-2020,45,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2511411,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2492329,14-06-2020,45,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Lahusa,97.8582712801452,0.799914082500038
+2512604,13-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2472397,11-05-2020,77,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Sisobahili Ulugawo,97.6950587873898,0.96780141000005
+2512685,13-07-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2512568,13-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2684148,10-01-2020,166,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Matiti II,98.712926,2.260818
+2512602,13-07-2020,19,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2468895,04-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Wewewa Selatan,Weri Lolo,119.194434723049,-9.56864699699995
+2384249,14-01-2020,4,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Sitoluama,99.1503487161605,2.37849890000007
+2514576,16-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Bozihona,97.8170237982862,1.08759610600003
+2514519,16-07-2020,113,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Orahili Somolomolo,97.678968460341,1.01144199300003
+2379736,08-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Mardinding,Bandar Purba,98.022947050499,3.27412578250005
+2512628,13-07-2020,76,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2511392,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Onozitoli Sawo,97.3905275593804,1.46578816450005
+2489661,10-06-2020,48,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Sisobahili,97.7021821777795,0.734525433000044
+2414751,18-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2404914,06-02-2020,11,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2384226,14-01-2020,50,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Lumban Manurung,99.3300711342615,2.38032375550003
+2468557,04-05-2020,761,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Gazamanu,97.8785568118728,0.924939264500068
+2684098,02-07-2020,66,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Parsingguran I,98.7613233585499,2.35096417350005
+2512563,13-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2684149,16-01-2020,44,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Silaga Laga,98.7162155316662,2.25188659150004
+2511513,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2511475,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2546480,31-08-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Teluk Dalam,Pasar Teluk Dalam,97.8359060572171,0.585713648000052
+2514574,16-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias,Botomuzoi,Simanaere Botomuzoi,97.5598485114643,1.13755969700006
+2512742,14-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2379725,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2379698,08-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2404946,06-02-2020,17,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Lepar Samura,98.5142582950921,3.09888217550005
+2477242,19-05-2020,140,babi,55,African swine fever,Sumatera Utara,Nias Barat,Ulu Moroo/Narwo,Hilisangawola,97.566999669743,1.02923755500004
+2512751,14-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2404957,06-02-2020,9,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Salit,98.497205,3.062404
+2467039,30-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Wee Londa,119.23039580046,-9.41859199749996
+2480008,26-05-2020,31,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Doli Doli,97.7795621475169,0.90414311400005
+2684099,13-05-2020,60,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Parsingguran Ii,98.7856313930402,2.33146844800004
+2606063,03-12-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2468900,04-05-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2444093,28-03-2020,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Kadi Pada,119.255307641982,-9.48402099749995
+2511446,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2536663,19-08-2020,127,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Fadoro Lauru,97.5271190487872,1.22120104600006
+2514505,16-07-2020,567,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Hiliotalua,97.6885336413838,1.06548963650005
+2514516,16-07-2020,155,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Sifoarasi Ulugawo,97.6937505864988,0.998079943500045
+2529163,06-08-2020,265,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2482200,29-05-2020,25,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Olooa,Lololawa,97.5483713450097,1.26677791600005
+2684102,21-07-2020,58,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Ria Ria,98.7266306087004,2.34008608700003
+2511453,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2474975,15-05-2020,2,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Tuhegeo I,97.6468373201284,1.19139628100004
+2482503,29-05-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lolomatua,Koendrafo,97.6459105787512,0.961315292000052
+2536681,19-08-2020,64,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Lasara Tanoseo,97.5206423398012,1.23047624350002
+2404896,06-02-2020,43,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2512672,13-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2383427,13-01-2020,7,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2536671,19-08-2020,78,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Hiligodu Tanoseo,97.5355905914808,1.23847524650006
+2511024,11-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Banuagea,97.4353706721934,1.44807140000003
+2485302,03-06-2020,32,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Faekhu,97.6154353551979,1.23211137900006
+2511163,12-07-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Banua Sibohou,97.3617229812709,1.36571864250004
+2514548,16-07-2020,139,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Sisobawino I,97.6428841889337,1.01482956350006
+2511447,12-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2474942,15-05-2020,61,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Fodo,97.6318200450272,1.24157075500005
+2425560,02-03-2020,48,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Pargarutan,98.602560292635,1.91465537400003
+2688910,17-09-2020,210,babi,55,African swine fever,Sumatera Utara,Tanjung Balai,Datuk Bandar,Sirantau,99.7690689985638,2.94284700400004
+2391857,23-01-2020,6,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Bonatua Lunasi,Lumban Lobu,99.125456,2.548133
+2379648,08-01-2020,13,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2510135,10-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lawira I,97.3149395646308,1.43780724050006
+2512683,13-07-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2509214,08-07-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Barat,Wailiti,122.19205554137,-8.60809097699996
+2514537,16-07-2020,49,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Lasara Siwalu Banua,97.6220968608305,1.04244564650003
+2512636,13-07-2020,48,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2379721,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2529011,06-08-2020,86,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Harewakhe,97.2162240999127,1.29337696150006
+2514497,16-07-2020,122,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Lahemo,97.673344210078,1.09775398800005
+2391856,23-01-2020,1,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Sigumpar,Dolok Jior,99.1729022333857,2.38968240050005
+2478914,22-05-2020,42,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lawa Lawa Luo Gomo,97.7738026644187,0.866890509500024
+2684108,30-07-2020,137,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Huta Paung,98.6990452464184,2.31737266400003
+2511468,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2511409,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sawo,97.3838910180327,1.48557803900005
+2506170,03-07-2020,5,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Sibuea,99.1431842016106,2.33228980300007
+2514551,16-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Ononamolo I Botomuzoi,97.5163421504118,1.21742091900003
+2379735,08-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Mardinding,Bandar Purba,98.022947050499,3.27412578250005
+2379639,08-01-2020,17,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2476946,18-05-2020,950,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Tetehosi I,97.6379640338886,1.14123992700007
+2511494,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2432308,11-03-2020,51,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Balai,Kwala Sikasim,99.6053217130182,3.13103114400005
+2377403,05-01-2020,18,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2432335,11-03-2020,32,babi,55,African swine fever,Sumatera Utara,Karo,Barusjahe,Sukanalu,98.5423394562796,3.08597586300004
+2586475,02-11-2020,15,babi,55,African swine fever,Riau,Bengkalis,Bathin Solapan,Bumbung,101.262522260282,1.30235896150003
+2474900,15-05-2020,12,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Tumori,97.5891221878346,1.23028729750007
+2494089,16-06-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Tetezou,97.8798020976326,0.778581998500073
+2512642,13-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2514524,16-07-2020,888,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Balodano,97.6106346504081,1.02885662200003
+2511394,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2379637,08-01-2020,8,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2495568,18-06-2020,734,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Teluk Belukar,97.5081919532055,1.39634070900004
+2510490,10-07-2020,2420,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hilifaosi,97.8174259346271,0.969005722500043
+2511034,11-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Siofa Banua,97.4576338428045,1.43272332350006
+2514486,16-07-2020,112,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Hiliweto Gido,97.6901428983553,1.12131999550004
+2512627,13-07-2020,118,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2447914,02-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2536657,19-08-2020,120,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Hiliduho,97.5291177469101,1.23577342750005
+2497233,21-06-2020,72,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Sisobahili,97.7021821777795,0.734525433000044
+2467033,30-04-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Watu Kawula,119.22060725967,-9.48007749799996
+2511039,11-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2511174,12-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Lasara,97.368107403932,1.33203099200003
+2511465,12-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2466852,30-04-2020,46,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Gonting Mahe,98.6291393411408,1.89192722900006
+2511172,12-07-2020,21,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Banua Sibohou,97.3617229812709,1.36571864250004
+2485297,03-06-2020,42,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Siwalubanua Ii,97.6488994393359,1.17031900600006
+2511491,12-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2495063,17-06-2020,19,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Tuindrao,97.702354024389,0.754072538000031
+2483302,30-05-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lolomatua,Lawa Lawa Luo,97.6293551956754,0.957801270000033
+2512619,13-07-2020,67,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2476942,18-05-2020,19,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Hilimbowo Olora,97.5391371992394,1.31058190500005
+2502239,28-06-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok,Madawat,122.221417080005,-8.63536297599995
+2432220,11-03-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Barat,123.661109370897,-10.217871709
+2507555,06-07-2020,20,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Barus,Gabungan Hasang,98.4346667190826,2.06399915950007
+2534899,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Hewokloang,Baomekot,122.305793374512,-8.63827540249997
+2512603,13-07-2020,90,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Laowowaga,97.3520659327961,1.30203465650004
+2497785,22-06-2020,53,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Olooa,Nazalou Alooa,97.5354953146912,1.25726513350003
+2474907,15-05-2020,2,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Hilina A,97.5931476995881,1.25353382400004
+2682739,22-01-2020,38,babi,55,African swine fever,Sumatera Utara,Asahan,Rawang Panca Arga,Panca Arga I Rawang,99.6508647072649,3.09941946350003
+2536666,19-08-2020,190,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Mazingo Tanoseo,97.5633069156287,1.22617368250005
+2511427,12-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2512755,14-07-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2529048,06-08-2020,71,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2396192,28-01-2020,93,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Suka,Pematang Jering,99.3842585303574,3.31473325250005
+2512021,13-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Hayo,97.4917228653726,1.08118550450007
+2474980,15-05-2020,4,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Awaai,97.6032317191869,1.13081781650004
+2511305,12-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Ononazara,97.4785924211505,1.19290809200004
+2512744,14-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2511499,12-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2474926,15-05-2020,1,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Olooa,Iraono Lase,97.5389757466542,1.22986934950004
+2684087,15-07-2020,3,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Onan Ganjang,Sibuluan,98.6385709621401,2.17358122750005
+2488423,08-06-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Hilimbowo,97.6730284684228,0.717146268500045
+2511525,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2478912,22-05-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Doli Doli,97.7795621475169,0.90414311400005
+2474972,15-05-2020,204,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Siwalubanua I,97.615895084374,1.12888757950003
+2472379,11-05-2020,30,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Oladano,97.7504280090011,1.01169024700005
+2513149,14-07-2020,66,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Hili Goduhoya,97.1900472416909,1.34541759700005
+2480006,26-05-2020,41,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Umbu,97.7849641003002,0.922612775500056
+2666939,15-09-2020,11,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Sarotari,122.99276123801,-8.26884346149996
+2514554,16-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias,Hili S/Hilisaranggu,Dahadano Botombawo,97.5709587468372,1.18069951150002
+2379657,08-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2511406,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2529013,06-08-2020,133,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Ombolata Afulu,97.2186815434608,1.28375826200005
+2436544,17-03-2020,325,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Lima Puluh,Cahaya Pardomuan,99.50417,3.188198
+2512735,13-07-2020,58,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2512820,14-07-2020,19,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Harefanaese,97.4175170487817,1.23373321950004
+2472386,11-05-2020,7,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Lolozasai,97.6732571415355,1.14089940550005
+2511139,11-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lawira Satua,97.325400128875,1.41833249600003
+2512653,13-07-2020,42,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2513178,14-07-2020,93,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Balefadoro Tuho,97.1349433558305,1.40766421600003
+2492326,14-06-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Tetezou,97.8798020976326,0.778581998500073
+2474925,15-05-2020,21,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Sisarahili Sisambalahe,97.5799856407084,1.25063697850004
+2511441,12-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2529052,06-08-2020,37,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2477262,19-05-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Lolofitu,97.5886458276452,1.05234615650005
+2404935,06-02-2020,11,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Singa,98.4764877382269,3.07840440350006
+2511146,11-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Maziaya,97.3703168742429,1.40800915100007
+2379671,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2401500,03-02-2020,7,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Badiri,Lopian,98.8378986370234,1.56960140700005
+2477750,20-05-2020,54,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe Utara,Ononamolo Ii,97.5382281186402,1.12705235150005
+2423702,28-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Penfui Timur,123.686457820565,-10.177947847
+2469919,06-05-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Wee Londa,119.23039580046,-9.41859199749996
+2510491,10-07-2020,236,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Sitolu Banua,97.8187566927564,0.996136743500045
+2379634,08-01-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2383501,13-01-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2684143,10-02-2020,69,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Pakkat,98.8014834857013,2.22372208650003
+2506167,03-07-2020,392,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Habinsaran,Parsoburan Tengah,99.3589632566494,2.31519257050005
+2511458,12-07-2020,22,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2512712,13-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2379680,08-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2425531,02-03-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Rai Manuk,Leuntolu,124.811670993874,-9.39888138449996
+2609481,11-12-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Selatan,Kelaisi Timur,124.704858108759,-8.28990789649995
+2425492,02-03-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Lasiolat,Lakanmau,125.022649971045,-9.15046937249997
+2426891,03-03-2020,20,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Nanaet Duabesi,Nanaet,124.917114521466,-9.32357887949993
+2529010,06-08-2020,196,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Ombolata Afulu,97.2186815434608,1.28375826200005
+2425160,02-03-2020,50,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Lasiolat,Raiulun,125.04465524192,-9.13491787149997
+2485304,03-06-2020,21,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Hilimbawo Desolo,97.6400204670875,1.20018385350005
+2415913,19-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Barat,123.661109370897,-10.217871709
+2506169,03-07-2020,3,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Habinsaran,Tornagodang,99.3105010711203,2.30797611700004
+2391806,23-01-2020,205,babi,55,African swine fever,Sumatera Utara,Labuhan Batu Utara,Kualuh Hilir,Tanjung Mangedar,99.9653885391639,2.64442490800005
+2513136,14-07-2020,70,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Hilizukhu,97.2445933067805,1.31720648100006
+2512718,13-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2511474,12-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2511490,12-07-2020,13,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2405849,07-02-2020,50,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Suka,Pematang Kuing,99.4039199187234,3.32761548600004
+2512839,14-07-2020,66,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Laehuwa,97.4703543518485,1.28934852500004
+2404931,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Mulawari,98.508268397197,3.08295879450003
+2510489,10-07-2020,149,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hiliwarokha,97.8731381298851,1.00580357400005
+2536684,19-08-2020,250,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Tuhegafoa Ii,97.5142192725671,1.20626501600006
+2510478,10-07-2020,249,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Biouti,97.7890102809017,1.08550279100007
+2396209,28-01-2020,2,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Napitupulu Bagasan,99.0619891665029,2.32342611500005
+2514501,16-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Ladea,97.6561856967903,1.09800838050003
+2474902,15-05-2020,3,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Sihareo Siwahili,97.5821181072058,1.23773048700005
+2511473,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2479678,26-05-2020,10,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Olora,97.5565606616118,1.33495698600004
+2512756,14-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2404958,06-02-2020,8,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Salit,98.497205,3.062404
+2529042,06-08-2020,70,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2487102,06-06-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Kamot,124.765372584872,-8.20068989349997
+2502232,28-06-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Habi,122.258293646758,-8.65563647599996
+2529058,06-08-2020,68,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511460,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2512027,13-07-2020,601,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Duria,97.6026452551883,1.03331290350005
+2433136,12-03-2020,17,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Habinsaran,Parsoburan Tengah,99.3589632566494,2.31519257050005
+2485309,03-06-2020,8,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Tumori,97.5891221878346,1.23028729750007
+2432408,11-03-2020,44,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Tanah Datar,Sumber Tani,99.442337,3.167477
+2379742,08-01-2020,33,babi,55,African swine fever,Sumatera Utara,Karo,Laubaleng,Laubaleng,98.110915298007,3.11910149500005
+2534888,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Koting,Koting B,122.19923461075,-8.68743847649995
+2479616,26-05-2020,3,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Lolomoyo Tuhemberua,97.5706816231863,1.23245195900006
+2426380,03-03-2020,37,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Raihat,Tohe,125.070596837452,-9.11575467499995
+2384287,14-01-2020,6,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Ompu Raja Hutapea,99.1385403011907,2.36347662200004
+2381695,10-01-2020,14,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sarudik,Sarudik,98.8473801959637,1.72679959700005
+2511169,12-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Orahili,97.3805391320274,1.30379651100003
+2512664,13-07-2020,32,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2511198,12-07-2020,26,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Sisarahili,97.4341498167571,1.30595354400006
+2510128,10-07-2020,52,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lolomboli,97.3459432645704,1.46464846350005
+2512841,14-07-2020,75,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Laehuwa,97.4703543518485,1.28934852500004
+2379688,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2518046,21-07-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2384301,14-01-2020,6,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Sitoluama,99.1503487161605,2.37849890000007
+2533062,12-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Oeltua,123.672245054568,-10.2417549369999
+2672169,30-01-2020,65,babi,55,African swine fever,Banten,Tangerang,Panongan,Mekar Jaya,106.541982288094,-6.29988049999994
+2512029,13-07-2020,165,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Hiliuso,97.5655470766774,1.07437871500002
+2468651,04-05-2020,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Ramma Dana,119.327641584167,-9.41874699799996
+2379694,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2513166,14-07-2020,90,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Sitolu Banua,97.1697683167074,1.33483312350003
+2466876,30-04-2020,30,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Pargarutan,98.602560292635,1.91465537400003
+2529043,06-08-2020,71,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2534900,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Beru,122.24294317801,-8.63164747599996
+2470701,08-05-2020,7,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Koting,Paubekor,122.217089174517,-8.70124897599996
+2606064,03-12-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2512753,14-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2682062,06-01-2020,271,babi,55,African swine fever,Sumatera Utara,Labuhan Batu,Panai Hilir,Sei Penggantungan,100.076860721491,2.63828765650004
+2379709,08-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2512668,13-07-2020,55,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2385317,15-01-2020,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2512643,13-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2534880,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Talibura,Hikong,122.605204576099,-8.56802246899994
+2416997,21-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Barat,123.661109370897,-10.217871709
+2512554,13-07-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2474933,15-05-2020,308,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Utara,Hambawa,97.4742790342719,1.36095378950006
+2511463,12-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2511194,12-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Lasara,97.368107403932,1.33203099200003
+2379662,08-01-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2543651,27-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Habi,122.258293646758,-8.65563647599996
+2405743,07-02-2020,5,babi,55,African swine fever,Sumatera Utara,Batu Bara,Talawi,Benteng,3.17740451100005,99.5401360348112
+2512815,14-07-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2513153,14-07-2020,76,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Lasara,97.2155726378929,1.35894183150003
+2529172,06-08-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2477246,19-05-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe Barat,Lasara Faga,97.4272553631164,1.03464941700005
+2510126,10-07-2020,67,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Hiligeo Afia,97.3501325638948,1.49101785600004
+2392139,23-01-2020,6,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Huta Bulu Mejan,99.0884286663593,2.32868467550006
+2512630,13-07-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2478168,20-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lolosoni,97.7894554037417,0.891317208500055
+2384296,14-01-2020,3,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Balige Iii,99.0681232763195,2.31219540800006
+2512671,13-07-2020,71,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2684117,10-01-2020,1,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Sijama Polang,Sitapongan,98.7502704473243,2.09848986700004
+2536680,19-08-2020,28,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Ononamolo I Botomuzoi,97.5163421504118,1.21742091900003
+2514495,16-07-2020,300,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Somi,97.712870697957,1.14037464700004
+2511185,12-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Lasara,97.368107403932,1.33203099200003
+2460539,22-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Radamata,119.279854855004,-9.39005049749994
+2513161,14-07-2020,114,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Sitolu Banua,97.1697683167074,1.33483312350003
+2511456,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2512830,14-07-2020,117,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Mazingo,97.4106651535295,1.29055677000005
+2512023,13-07-2020,20,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Lakhene,97.5072829793119,1.05566196250004
+2513164,14-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Balefadoro Tuho,97.1349433558305,1.40766421600003
+2510118,10-07-2020,60,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Hilidundra,97.3315503055776,1.40227381300005
+2414735,18-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata Utara,123.689402347189,-10.196674052
+2514487,16-07-2020,64,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Lasara Idanoi,97.6615433598741,1.14376001150006
+2529060,06-08-2020,100,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2513143,14-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Sitolu Banua,97.1697683167074,1.33483312350003
+2404962,06-02-2020,29,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Salit,98.497205,3.062404
+2512608,13-07-2020,56,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2512028,13-07-2020,324,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lolofitu Moi,Wango,97.5870808424581,1.07204435850005
+2395584,27-01-2020,20,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Kolang,Satahi Nauli,98.6563580002644,1.84632359650004
+2387172,17-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Laubaleng,Laubaleng,98.110915298007,3.11910149500005
+2534887,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Umagera,122.273558346334,-8.67947147499996
+2511415,12-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2480788,27-05-2020,42,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lawa Lawa Luo Gomo,97.7738026644187,0.866890509500024
+2416680,20-02-2020,20,babi,55,African swine fever,Sumatera Utara,Simalungun,Raya,Sondi Raya,98.8669250926546,3.01434515100004
+2379716,08-01-2020,5,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2469549,05-05-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Lete Konda Selatan,119.30289164708,-9.42545999749996
+2468562,04-05-2020,29,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Hiliwarokha,97.8731381298851,1.00580357400005
+2474967,15-05-2020,1,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Hiliweto Idanoi,97.6499471899543,1.10688231950004
+2511469,12-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2425520,02-03-2020,42,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Lasiolat,Raiulun,125.04465524192,-9.13491787149997
+2379718,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2379658,08-01-2020,18,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2511181,12-07-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Sisobahili,97.4447253037537,1.33415500450005
+2512617,13-07-2020,151,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2511310,12-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Fabaliwa Oyo,97.4168269970379,1.12962905950005
+2479670,26-05-2020,5,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Simanaere,97.6478662869778,1.18121211250005
+2529074,06-08-2020,182,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Ombolata Afulu,97.2186815434608,1.28375826200005
+2425563,02-03-2020,8,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam,Pelita,98.6296434329661,1.93562995050004
+2404934,06-02-2020,7,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Singa,98.4764877382269,3.07840440350006
+2488545,09-06-2020,6,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Langga Lero,119.274432105537,-9.42880549749995
+2512754,14-07-2020,18,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilisaloo,97.4173366941058,1.41054366050005
+2511985,13-07-2020,22,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2543659,27-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Watuliwung,122.262882380977,-8.65649097499997
+2512740,13-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2681621,14-03-2020,3,babi,55,African swine fever,Sumatera Utara,Batu Bara,Air Putih,Tanjung Harapan,99.42158063981,3.32588099100005
+2432382,11-03-2020,54,babi,55,African swine fever,Sumatera Utara,Batu Bara,Air Putih,Tanah Tinggi,99.3758254409912,3.26328598050006
+2514508,16-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Loloanaa Gido,97.6773221174716,1.08959864250005
+2511151,11-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lombuzaua,97.3660011806097,1.43969962900007
+2512834,14-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Hilimbowo Kare,97.4410184193977,1.27592675150004
+2514529,16-07-2020,286,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Sihaero Iii,97.639679117074,1.05142711250002
+2511193,12-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Hilibanua,97.4591391565072,1.32474873650006
+2512634,13-07-2020,76,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Lukhu Lase,97.3125873847468,1.30668173300006
+2416675,20-02-2020,143,babi,55,African swine fever,Sumatera Utara,Simalungun,Pane,Sipoldas,98.9335276038957,2.91637800400002
+2379638,08-01-2020,19,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2404943,06-02-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Lepar Samura,98.5142582950921,3.09888217550005
+2395585,27-01-2020,8,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sibabangun,Simanosor,98.9588365771337,1.52865540100004
+2482368,29-05-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2485278,03-06-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lolomatua,Koendrafo,97.6459105787512,0.961315292000052
+2385306,15-01-2020,3,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sarudik,Sarudik,98.8473801959637,1.72679959700005
+2511071,11-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Siofa Banua,97.4576338428045,1.43272332350006
+2477250,19-05-2020,85,babi,55,African swine fever,Sumatera Utara,Nias Barat,Moro'O,Sitolu Banua Fadoro,97.3804829981307,1.07417283900006
+2529073,06-08-2020,70,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511149,11-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Dahadano,97.3665662957782,1.46815095200006
+2501080,26-06-2020,31,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Semau,Bokonusan,123.378207142167,-10.215654947
+2529167,06-08-2020,115,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2682036,15-08-2020,69,babi,55,African swine fever,Sumatera Utara,Labuhan Batu,Panai Hilir,Sei Penggantungan,100.076860721491,2.63828765650004
+2401502,03-02-2020,5,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Badiri,Kebun Pisang,98.8573153595884,1.57619558800005
+2681996,27-08-2020,57,babi,55,African swine fever,Sumatera Utara,Labuhan Batu,Panai Hilir,Sei Baru,100.165729724647,2.68271207150005
+2385544,15-01-2020,39,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Sitoluama,99.1503487161605,2.37849890000007
+2479622,26-05-2020,1,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Sihareo Siwahili,97.5821181072058,1.23773048700005
+2405745,07-02-2020,4,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Tanah Datar,Sumber Tani,99.442337,3.167477
+2511390,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Hiliduruwa,97.3982075143088,1.48127607400005
+2511459,12-07-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2425170,02-03-2020,13,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Selatan,Rinbesi,124.866062650478,-9.16551988249995
+2379703,08-01-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2529159,06-08-2020,46,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2472378,11-05-2020,30,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Ahedano,97.7600897720755,1.01789586550007
+2514535,16-07-2020,98,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Lewa Lewa,97.6302143901129,1.06913797700005
+2391854,23-01-2020,4,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Sigumpar,Sigumpar Barat,99.158641,2.400677
+2511451,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Botona Ai,97.4696101600656,1.12101308900006
+2475444,16-05-2020,95,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lolosoni,97.7894554037417,0.891317208500055
+2514443,16-07-2020,48,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa,Loloana A,97.4251023667556,1.25363646150004
+2513155,14-07-2020,230,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Fadoro Hilimbowo,97.2513342751562,1.37126890650003
+2513169,14-07-2020,503,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Iraono Lase,97.1853844769644,1.31724844250004
+2677608,24-01-2020,3,babi,55,African swine fever,Sumatera Utara,Deli Serdang,Pancur Batu,Lama,98.6028340654546,3.50805113250004
+2511509,12-07-2020,6,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2492886,15-06-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tekaiku,122.250455578596,-8.69610047599994
+2514236,16-07-2020,30,babi,55,African swine fever,Riau,Rokan Hulu,Rokan Iv Koto,Cipang Kanan,100.27462376239,0.542240380000038
+2666937,15-08-2020,79,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Balela,122.984558561406,-8.30751746249996
+2534886,15-08-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Umagera,122.273558346334,-8.67947147499996
+2384288,14-01-2020,2,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Ompu Raja Hutapea,99.1385403011907,2.36347662200004
+2379738,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Mardinding,Bandar Purba,98.022947050499,3.27412578250005
+2512752,14-07-2020,14,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2397321,29-01-2020,3,babi,55,African swine fever,Sumatera Utara,Karo,Munte,Munthe,98.3269922515685,3.08426902150003
+2379653,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2666926,15-08-2020,12,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Pohon Sirih,122.994147129696,-8.31018796249995
+2453472,10-04-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2529041,06-08-2020,30,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2423967,29-02-2020,5,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Noelbaki,123.690126435185,-10.146689935
+2379690,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2379712,08-01-2020,11,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2432316,11-03-2020,136,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Suka,Simodong,99.3537489927522,3.33414219350007
+2407019,10-02-2020,48,babi,55,African swine fever,Sumatera Utara,Simalungun,Purba,Purba Sipinggan,98.6481436779754,2.92587802800006
+2512022,13-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Tuwuna,97.546836185724,1.08401624900003
+2415921,19-02-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Oeltua,123.672245054568,-10.2417549369999
+2511186,12-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Berua,97.4060483777308,1.31659476050007
+2425494,02-03-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Lasiolat,Dualasi,125.036810708854,-9.09615637299996
+2682512,07-04-2020,5,babi,55,African swine fever,Sumatera Utara,Deli Serdang,Pancur Batu,Namo Bintang,98.6225319341696,3.50176188900002
+2512357,13-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2511498,12-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sisarahili Teluk Siabang,97.3575788150333,1.51075444400004
+2514617,16-07-2020,161,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Akhelaume,97.6691737808426,1.07504521450005
+2512599,13-07-2020,19,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2511179,12-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Sisarahili,97.4341498167571,1.30595354400006
+2673731,15-07-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Ngada,Soa,Waepana,121.016361228734,-8.69534598999996
+2485299,03-06-2020,51,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Olooa,Nazalou Alooa,97.5354953146912,1.25726513350003
+2512606,13-07-2020,180,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2512644,13-07-2020,5,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Batom Bawo,97.3817156697537,1.41603604850005
+2512748,14-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2477243,19-05-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Barat,Ulu Moroo/Narwo,Lawelu,97.53671625067,1.02877394950005
+2491895,13-06-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Hili Simaetano,97.8454862552853,0.765721819500044
+2478913,22-05-2020,60,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Hilianaa Gomo,97.7704131485737,0.885142405500062
+2470318,07-05-2020,85,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Golambanua I,97.8187119165951,0.757920018500045
+2529141,06-08-2020,135,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Afulu,97.2545889407859,1.26524357000005
+2666946,15-09-2020,25,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Larantuka,122.98177805362,-8.31856296149994
+2511420,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2425264,02-03-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Kakuluk Mesak,Jenilu,124.845409507653,-9.03792888499993
+2511173,12-07-2020,28,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Sisarahili,97.4341498167571,1.30595354400006
+2513146,14-07-2020,38,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Iraono Lase,97.1853844769644,1.31724844250004
+2684090,05-03-2020,21,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Onan Ganjang,Sigalogo,98.6391669512865,2.19196437300005
+2416987,21-02-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Oeltua,123.672245054568,-10.2417549369999
+2478468,21-05-2020,35,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Lawa Lawa Luo Gomo,97.7738026644187,0.866890509500024
+2497232,21-06-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Tuindrao,97.702354024389,0.754072538000031
+2473841,13-05-2020,5,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Kota Tambolaka,Wee Londa,119.23039580046,-9.41859199749996
+2485295,03-06-2020,48,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Hilinakhe,97.5765003098739,1.22372428950004
+2472416,11-05-2020,40,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Iodano,97.6574194056295,1.01005386050005
+2383383,13-01-2020,20,babi,55,African swine fever,Sumatera Utara,Deli Serdang,Lubuk Pakam,Pasar Melintang,98.8739240454365,3.56603048150004
+2529170,06-08-2020,67,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sifaoroasi,97.2539883644694,1.33605007250003
+2474944,15-05-2020,10,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Selatan,Lololakha,97.6129197123552,1.18736164250006
+2511521,12-07-2020,2,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2487052,06-06-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Alor,Alor Timur Laut,Nailang,124.766704336918,-8.31203289549995
+2581652,25-10-2020,6,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2476055,17-05-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Sumba Barat Daya,Loura,Karuni,119.34266434891,-9.42407399799995
+2684140,10-02-2020,44,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Aek Lung,98.7825501514589,2.20664416350004
+2378623,07-01-2020,9,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sibabangun,Muara Sibuntuon,98.9914864457891,1.54002427200004
+2434289,13-03-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Oeletsala,123.688210985516,-10.2575949344999
+2425260,02-03-2020,11,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Selatan,Fatukbot,124.866201293747,-9.17703338149994
+2514562,16-07-2020,61,babi,55,African swine fever,Sumatera Utara,Nias,Botomuzoi,Balohili Botomuzoi,97.5527404540837,1.18887989150005
+2684142,08-01-2020,303,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Dolok Sanggul,Pasaribu,98.7465421852808,2.23683856500006
+2404932,06-02-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Mulawari,98.508268397197,3.08295879450003
+2512656,13-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tefao,97.2761100287432,1.39747247900007
+2510485,10-07-2020,112,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Dahana,97.9089678394111,0.955278833000051
+2512725,13-07-2020,27,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2529160,06-08-2020,110,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sifaoroasi,97.2539883644694,1.33605007250003
+2664563,10-04-2020,81,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2495566,18-06-2020,8,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Barat,Tumori Balohili,97.5800593656272,1.23032270300007
+2511142,11-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lotu,Lolofaoso,97.3217721714034,1.46163515050006
+2474916,15-05-2020,1,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Saewe,97.5821186978358,1.29168169050004
+2477237,19-05-2020,50,babi,55,African swine fever,Sumatera Utara,Nias Barat,Sirombo,Togim Bogi,97.5002617842119,0.932870286000053
+2684109,06-04-2020,19,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Pandumaan,98.6884978929902,2.28295908800004
+2404898,06-02-2020,1,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2511511,12-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2510492,10-07-2020,21,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Orahili,97.8376118967786,1.01840795900006
+2384262,14-01-2020,19,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Permaksian,Pangombusan,99.193265,2.481521
+2534890,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Koting,Koting B,122.19923461075,-8.68743847649995
+2511168,12-07-2020,29,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Banua Sibohou,97.3617229812709,1.36571864250004
+2511026,11-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2529006,06-08-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru I Afulu,97.2223004327611,1.26398567350003
+2511523,12-07-2020,1,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Ombolata Sawo,97.3807718349193,1.44490299500004
+2507294,06-07-2020,18,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Sorkam Barat,Sipea Pea,98.5536170305163,1.94200973300005
+2472417,11-05-2020,25,babi,55,African swine fever,Sumatera Utara,Nias,Simolo Molo,Sisobawino I,97.6428841889337,1.01482956350006
+2379692,08-01-2020,13,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2404907,06-02-2020,60,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Tigapanah,98.5201136621153,3.07697758800006
+2511467,12-07-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2512625,13-07-2020,10,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2384293,14-01-2020,14,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Hutagaol Peatalun,99.1081735449483,2.29153858450005
+2512013,13-07-2020,198,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lahomi/Gahori,Ono Waembo,97.491228059497,0.995704011000043
+2391853,23-01-2020,35,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Sigumpar,Sigumpar,99.1812430036458,2.39098905350005
+2506163,03-07-2020,9,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Nassau,Lumban Rau Tengah,99.4449760453696,2.26083778400005
+2379693,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2379717,08-01-2020,14,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2510493,10-07-2020,447,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Siofaewali,97.8701955017701,1.01805802050006
+2423977,29-02-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Kupang Tengah,Mata Air,123.704814362733,-10.186624158
+2475021,15-05-2020,103,babi,55,African swine fever,Sumatera Utara,Nias Barat,Mandrehe,Hayo,97.4917228653726,1.08118550450007
+2478466,21-05-2020,45,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Gomo,Doli Doli,97.7795621475169,0.90414311400005
+2510471,10-07-2020,247,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Hilinaa Tafuo,97.7914069254185,1.01527826800006
+2536669,19-08-2020,40,babi,55,African swine fever,Sumatera Utara,Nias,Hiliduho,Sisobahili I Tanoseo,97.5511456856403,1.23665849700006
+2529056,06-08-2020,175,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511466,12-07-2020,9,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2511440,12-07-2020,3,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Lasara Sowu,97.3691931200608,1.49387959450004
+2510469,10-07-2020,684,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Ahedano,97.7600897720755,1.01789586550007
+2512704,13-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2384286,14-01-2020,19,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Siantar Narumonda,Siantar Sitiotio,99.2070639661501,2.44227992300006
+2512835,14-07-2020,174,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Mazingo,97.4106651535295,1.29055677000005
+2491901,13-06-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Amandraya,Tuindrao,97.702354024389,0.754072538000031
+2472401,11-05-2020,137,babi,55,African swine fever,Sumatera Utara,Nias,Ulugawo,Hilimbowo,97.7021871401041,0.947864282500063
+2512836,14-07-2020,101,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Harefanaese,97.4175170487817,1.23373321950004
+2379726,08-01-2020,4,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2379655,08-01-2020,6,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2507985,07-07-2020,3,babi,55,African swine fever,Nusa Tenggara Timur,Sabu Raijua,Hawu Mehara,Molie,121.740562106654,-10.556934981
+2497229,21-06-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Selatan,Lahusa,Tetezou,97.8798020976326,0.778581998500073
+2512085,13-07-2020,12,babi,55,African swine fever,Sumatera Utara,Nias Barat,Lahomi/Gahori,Sisobaoho,97.5469620567105,0.943186718000049
+2512103,13-07-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Semau,Bokonusan,123.378207142167,-10.215654947
+2474973,15-05-2020,5,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli Idanoi,Tetehosi I,97.6379640338886,1.14123992700007
+2512669,13-07-2020,38,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Umbubalodano,97.45267933533,1.38064209700005
+2534898,15-08-2020,4,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kewapante,Geliting,122.302228071,-8.66118863549997
+2511079,11-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tuhemberua,Botolakha,97.4691866151096,1.42106179450005
+2435581,16-03-2020,100,babi,55,African swine fever,Sumatera Utara,Karo,Barusjahe,Sukanalu,98.5423394562796,3.08597586300004
+2427229,04-03-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Belu,Atambua Kota,Atambua Kota,124.879193682655,-9.14984488249996
+2666957,15-09-2020,77,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Amagarapati,122.991704708734,-8.28954596149995
+2513139,14-07-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa,Ombolata,97.1502909015198,1.38718018600005
+2511307,12-07-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Botona Ai,97.4696101600656,1.12101308900006
+2433124,12-03-2020,18,babi,55,African swine fever,Sumatera Utara,Batu Bara,Medang Deras,Pematang Cengkring,99.3706574688938,3.35307358300003
+2543657,27-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Alok Timur,Beru,122.24294317801,-8.63164747599996
+2384276,14-01-2020,14,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Balige,Paindoan,99.0841655432167,2.31285940400005
+2684100,11-08-2020,43,babi,55,African swine fever,Sumatera Utara,Humbang Hasundutan,Pollung,Pollung,98.733217050113,2.30894456750005
+2512629,13-07-2020,118,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tetehosi Sorowi,97.3065721995986,1.33467946400003
+2387176,17-01-2020,20,babi,55,African swine fever,Sumatera Utara,Karo,Laubaleng,Laubaleng,98.110915298007,3.11910149500005
+2512730,13-07-2020,17,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2512762,14-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2512838,14-07-2020,66,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa Talu Muzoi,Hilimbowo Kare,97.4410184193977,1.27592675150004
+2512702,13-07-2020,16,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Tetehosi Maziaya,97.4178992405261,1.37425051200003
+2379710,08-01-2020,16,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2529068,06-08-2020,15,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru Fadoro,97.2876888119882,1.25929437150003
+2511412,12-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2391861,23-01-2020,12,babi,55,African swine fever,Sumatera Utara,Toba Samosir,Lagu Boti,Op. Raja Hutapea Timur,99.1763773395454,2.31110082950005
+2617721,28-12-2020,3,babi,55,African swine fever,Di Yogyakarta,Sleman,Ngaglik,Sari Harjo,110.389759742673,-7.72517549999995
+2511340,12-07-2020,23,babi,55,African swine fever,Sumatera Utara,Nias Utara,Tugala Oyo,Fabaliwa Oyo,97.4168269970379,1.12962905950005
+2416833,20-02-2020,2,babi,55,African swine fever,Nusa Tenggara Timur,Kupang,Taebenu,Baumata,123.680241988455,-10.2191389165
+2534894,15-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Kangae,Tekaiku,122.250455578596,-8.69610047599994
+2432423,11-03-2020,26,babi,55,African swine fever,Sumatera Utara,Batu Bara,Sei Suka,Kwala Tanjung,99.4432989700505,3.34647284550005
+2404928,06-02-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Tigapanah,Mulawari,98.508268397197,3.08295879450003
+2666944,15-09-2020,7,babi,55,African swine fever,Nusa Tenggara Timur,Flores Timur,Larantuka,Puken Tobi Wangi Bao,122.988569533945,-8.28024196199996
+2512764,14-07-2020,24,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Fulolo Saloo,97.4027618657372,1.43219224550003
+2472385,11-05-2020,1,babi,55,African swine fever,Sumatera Utara,Nias,Gido,Lasara Idanoi,97.6615433598741,1.14376001150006
+2511461,12-07-2020,7,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sifahandro,97.3387264391209,1.51860163350005
+2385309,15-01-2020,1,babi,55,African swine fever,Sumatera Utara,Tapanuli Tengah,Pinangsori,Pinangsori,98.8731947469833,1.53665640300002
+2474913,15-05-2020,20,babi,55,African swine fever,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Onozitoli Olora,97.5478906245963,1.30698518200003
+2510467,10-07-2020,141,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Hilimoasio,97.7320750946944,1.02914040050004
+2529008,06-08-2020,80,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Harewakhe,97.2162240999127,1.29337696150006
+2512676,13-07-2020,8,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sitolu Ori,Hilimbosi,97.4755780998521,1.40497521600005
+2514445,16-07-2020,83,babi,55,African swine fever,Sumatera Utara,Nias Utara,Alasa,Ombolata,97.3904659155708,1.25405685300004
+2432284,11-03-2020,109,babi,55,African swine fever,Sumatera Utara,Batu Bara,Datuk Tanah Datar,Sei Muka,99.549328,3.161411
+2529155,06-08-2020,225,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Lauru I Afulu,97.2223004327611,1.26398567350003
+2379685,08-01-2020,2,babi,55,African swine fever,Sumatera Utara,Karo,Kabanjahe,Lau Cimba,98.471208789047,3.09381387250005
+2472404,11-05-2020,67,babi,55,African swine fever,Sumatera Utara,Nias,Ma'U,Dekha,97.6470612014398,1.06581770000005
+2529015,06-08-2020,178,babi,55,African swine fever,Sumatera Utara,Nias Utara,Afulu,Sisobahili,97.2643438598019,1.29324976550004
+2514559,16-07-2020,4,babi,55,African swine fever,Sumatera Utara,Nias,Hili S/Hilisaranggu,Lolowua,97.5861904017211,1.18106757050003
+2543661,27-08-2020,1,babi,55,African swine fever,Nusa Tenggara Timur,Sikka,Hewokloang,Baomekot,122.305793374512,-8.63827540249997
+2387178,17-01-2020,6,babi,55,African swine fever,Sumatera Utara,Karo,Laubaleng,Laubaleng,98.110915298007,3.11910149500005
+2512684,13-07-2020,18,babi,55,African swine fever,Sumatera Utara,Nias Utara,Lahewa Timur,Tugala Lauru,97.3193435069182,1.36104033350006
+2468565,04-05-2020,358,babi,55,African swine fever,Sumatera Utara,Nias,Bawolato,Dahana,97.9089678394111,0.955278833000051
+2511507,12-07-2020,11,babi,55,African swine fever,Sumatera Utara,Nias Utara,Sawo,Sanawuyu,97.3963694033803,1.45234594600004
+2511191,12-07-2020,21,babi,55,African swine fever,Sumatera Utara,Nias Utara,Namohalu Esiwa,Banua Sibohou,97.3617229812709,1.36571864250004
+2472377,11-05-2020,120,babi,55,African swine fever,Sumatera Utara,Nias,Idano Gawo,Laowo Hilimbaruzo,97.7704892572102,0.996384042500068

@@ -1,0 +1,32 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2532660,12-08-2020,1,musang,95,Kecelakaan,Jawa Barat,Kota Sukabumi,Lembursitu,Lembursitu,106.868178085511,-6.97006034849994
+2488536,09-06-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Citamiang,Gedongpanjang,106.918661473487,-6.94185066199995
+2413544,17-02-2020,1,kucing,64,Kecelakaan,Jawa Barat,Bandung,Pacet,Nagrak,107.717078882723,-7.11621022249994
+2434297,13-03-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Bandung,Kutawaringin,Cibodas,107.53027777778,-7.0666666666667
+2610733,14-12-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Citamiang,Gedongpanjang,106.918661473487,-6.94185066199995
+2548708,04-09-2020,1,kucing,64,Kecelakaan,Jawa Barat,Bekasi,Pebayuran,Bantarjaya,107.260025808292,-6.20974683749995
+2550430,08-09-2020,1,kucing,64,Kecelakaan,Jawa Barat,Kota Sukabumi,Warudoyong,Benteng,106.905395608132,-6.93100023299993
+2531123,10-08-2020,1,monyet,76,Kecelakaan,Jawa Barat,Sumedang,Buahdua,Cilangkap,107.980942472614,-6.70931220049997
+2610734,14-12-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Lembursitu,Cipanengah,106.899472108614,-6.96199536349994
+2382425,11-01-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Bandung,Paseh,Drawati,107.805036735944,-7.08141589149994
+2503923,30-06-2020,1,Anjing,60,Kecelakaan,Sumatera Barat,Sijunjung,Lubuk Tarok,Lubuk Tarok,101.033915716125,-0.84010875149994
+2523294,28-07-2020,1,kucing,64,Kecelakaan,Jawa Barat,Kota Sukabumi,Baros,Sudajayahilir,106.914588735873,-6.95324063299995
+2425254,02-03-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Cibeureum,Babakan,106.957776594117,-6.94608163799995
+2403865,05-02-2020,1,anjing ras,61,Kecelakaan,Jawa Barat,Subang,Kalijati,Kalijati Barat,107.666129374973,-6.54099941249996
+2512267,13-07-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Baros,Sudajayahilir,106.914588735873,-6.95324063299995
+2403264,05-02-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Gunung Puyuh,Karangtengah,106.898475315938,-6.91019892649996
+2428306,05-03-2020,1,kucing,64,Kecelakaan,Jawa Barat,Kota Sukabumi,Citamiang,Cikondang,106.911756195081,-6.93914532649995
+2509450,09-07-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Cikole,Subangjaya,106.935083598412,-6.92273139999995
+2502666,29-06-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Bandung,Majalaya,Padamulya,107.74172569197,-7.06365656899996
+2428271,05-03-2020,1,kucing,64,Kecelakaan,Sumatera Barat,Sijunjung,Iv Nagari,Koto Baru,100.951697313218,-0.791322200499962
+2548697,04-09-2020,1,kucing,64,Kecelakaan,Jawa Barat,Bekasi,Pebayuran,Bantarjaya,107.260025808292,-6.20974683749995
+2400076,01-02-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Bekasi,Kedungwaringin,Karangmekar,107.263379560243,-6.23364138599996
+2407455,10-02-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Baros,Jayamekar,106.920912537612,-6.96135568599996
+2536310,18-08-2020,1,kucing,64,Kecelakaan,Jawa Barat,Bekasi,Pebayuran,Bantarjaya,107.260025808292,-6.20974683749995
+2401645,03-02-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Bandung,Paseh,Cigentur,107.787248098965,-7.01992964749994
+2407350,10-02-2020,1,kucing,64,Kecelakaan,Jawa Barat,Bandung,Cimaung,Cipinang,107.579455823746,-7.12139964099995
+2438257,19-03-2020,1,kucing ras,65,Kecelakaan,Sumatera Barat,Sijunjung,Iv Nagari,Palangki,100.967049956806,-0.738987772499968
+2448511,03-04-2020,1,kucing,64,Kecelakaan,Sumatera Barat,Sijunjung,Iv Nagari,Palangki,100.967049956806,-0.738987772499968
+2406542,08-02-2020,1,anjing lokal,62,Kecelakaan,Sumatera Barat,Sijunjung,Sijunjung,Pematang Panjang,101.002860893231,-0.729147403499979
+2400073,01-02-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Bekasi,Kedungwaringin,Karangmekar,107.263379560243,-6.23364138599996
+2503005,29-06-2020,1,Anjing,60,Kecelakaan,Jawa Barat,Kota Sukabumi,Gunung Puyuh,Sriwidari,106.909357115762,-6.92177176449994

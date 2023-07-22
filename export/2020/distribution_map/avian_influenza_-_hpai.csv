@@ -1,0 +1,95 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2673066,05-11-2020,1,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Boyolali,Mojosongo,Metuk,110.627245692708,-7.51436899999996
+2519514,23-07-2020,3,ayam layer,9,Avian Influenza - HPAI,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Manunggal Jaya,117.180604305437,-0.269468094499956
+2379574,08-01-2020,5,ayam kampung,7,Avian Influenza - HPAI,Banten,Serang,Lebak Wangi,Kebon Ratu,106.280781136011,-6.10997699999996
+2443059,26-03-2020,184,ayam,3,Avian Influenza - HPAI,Jawa Timur,Jember,Bangsalsari,Curah Kalong,113.53842651187,-8.08518409699997
+2440924,23-03-2020,153,entog,15,Avian Influenza - HPAI,Jawa Timur,Jember,Bangsalsari,Curah Kalong,113.53842651187,-8.08518409699997
+2673087,15-10-2020,3,ayam kampung,7,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Lawang Kidul,Keban Agung,103.840494710309,-3.76832550049997
+2405836,07-02-2020,30,ayam pelung,4,Avian Influenza - HPAI,Lampung,Metro,Metro Timur,Tejoagung,105.317922266667,-5.12463699899996
+2676394,19-10-2020,5,ayam broiler,8,Avian Influenza - HPAI,Jawa Tengah,Karanganyar,Gondangrejo,Wonosari,110.852661072163,-7.47900449999997
+2602105,27-11-2020,2,ayam,3,Avian Influenza - HPAI,Kalimantan Timur,Bontang,Bontang Selatan,Tanjung Laut,117.439790364665,0.155274623500048
+2680456,03-06-2020,38,ayam,3,Avian Influenza - HPAI,Jawa Barat,Cirebon,Beber,Cipinang,108.51467913293,-6.81532645199997
+2556686,18-09-2020,2,ayam,3,Avian Influenza - HPAI,Gorontalo,Gorontalo,Limboto,Hutuo,122.98111417233,0.717745479000058
+2678934,15-08-2020,152,puyuh,19,Avian Influenza - HPAI,Jawa Barat,Majalengka,Leuwimunding,Rajawangi,108.341711893607,-6.74801492699996
+2517412,21-07-2020,7,ayam layer,9,Avian Influenza - HPAI,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Manunggal Jaya,117.180604305437,-0.269468094499956
+2673068,15-10-2020,1,ayam kampung,7,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Lawang Kidul,Pasar Tanjung Enim,103.832553624513,-3.73698999899995
+2413114,17-02-2020,304,ayam,3,Avian Influenza - HPAI,Jawa Barat,Bandung Barat,Cipeundeuy,Nanggeleng,107.362826202912,-6.79451131799996
+2515314,17-07-2020,170,itik,10,Avian Influenza - HPAI,Banten,Serang,Tunjung Teja,Kamuning,106.23006808019,-6.29321599999997
+2407910,11-02-2020,52,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Depok,Tapos,Sukamaju Baru,106.872847672909,-6.40368700049996
+2441384,24-03-2020,20,entog,15,Avian Influenza - HPAI,Jawa Barat,Indramayu,Cantigi,Cantigi Kulon,108.238407074695,-6.34417343149997
+2440133,22-03-2020,100,ayam,3,Avian Influenza - HPAI,Jawa Timur,Jember,Bangsalsari,Curah Kalong,113.53842651187,-8.08518409699997
+2565590,01-10-2020,2,puyuh,19,Avian Influenza - HPAI,Gorontalo,Gorontalo,Telaga Biru,Dumati,123.060202668283,0.668299462500045
+2489396,10-06-2020,113,itik,10,Avian Influenza - HPAI,Jawa Barat,Bekasi,Cikarang Utara,Waluya,107.19250196536,-6.25319242499995
+2602237,27-11-2020,15,Ayam Bangkok,187,Avian Influenza - HPAI,Banten,Serang,Kibin,Nambo Ilir,106.328553442841,-6.17684549999996
+2509198,08-07-2020,3,itik,10,Avian Influenza - HPAI,Gorontalo,Gorontalo,Limboto,Hunggaluwa,122.950111678652,0.653437998500038
+2522572,27-07-2020,1,ayam,3,Avian Influenza - HPAI,Gorontalo,Gorontalo,Limboto Barat,Yoosonegoro,122.877126533514,0.655434217500044
+2678705,20-08-2020,500,unggas,2,Avian Influenza - HPAI,Jawa Timur,Mojokerto,Puri,Puri,112.443551245538,-7.53725171099995
+2673035,13-06-2020,1,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Boyolali,Klego,Banyu Urip,110.723817015126,-7.36150549949994
+2605561,02-12-2020,100,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Bandung Barat,Cihampelas,Cihampelas,107.47641400324,-6.92621684049996
+2680475,20-05-2020,20,ayam,3,Avian Influenza - HPAI,Jawa Barat,Cirebon,Mundu,Penpen,108.577541899697,-6.79111766849996
+2596970,19-11-2020,68,entog,15,Avian Influenza - HPAI,Kalimantan Timur,Bontang,Bontang Utara,Bontang Baru,117.430226623979,0.264745314500033
+2676482,15-03-2020,15,ayam,3,Avian Influenza - HPAI,Di Yogyakarta,Sleman,Godean,Sidokarto,110.316040695834,-7.76956499999994
+2487436,07-06-2020,20,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Semarang,Banyubiru,Kebumen,110.432967599874,-7.33050700049995
+2402151,03-02-2020,9,ayam,3,Avian Influenza - HPAI,Jawa Barat,Bandung,Cimeunyan,Cibeunying,107.644123942162,-6.88680768049997
+2595441,17-11-2020,27,ayam,3,Avian Influenza - HPAI,Jawa Barat,Bandung,Cicalengka,Waluya,107.821088249197,-6.99261665349997
+2673034,13-06-2020,1,anjing kampung,519,Avian Influenza - HPAI,Jawa Tengah,Boyolali,Klego,Banyu Urip,110.723817015126,-7.36150549949994
+2519329,23-07-2020,750,puyuh,19,Avian Influenza - HPAI,Jawa Barat,Indramayu,Jatibarang,Malangsemirang,108.32658316986,-6.40411543849996
+2687302,28-07-2020,20,ayam layer,9,Avian Influenza - HPAI,Jawa Tengah,Temanggung,Tembarak,Tawangsari,110.164175104731,-7.36050200049996
+2410943,14-02-2020,400,puyuh,19,Avian Influenza - HPAI,Jawa Barat,Bekasi,Cikarang Pusat,Cicau,107.159869095495,-6.35792112349995
+2515153,17-07-2020,5,entog,15,Avian Influenza - HPAI,Jawa Barat,Bandung,Solokan Jeruk,Rancakasumba,107.726225605426,-7.02525925649994
+2405838,07-02-2020,50,ayam kampung,7,Avian Influenza - HPAI,Lampung,Metro,Metro Timur,Yosodadi,105.33172872683,-5.08464449949994
+2407904,11-02-2020,52,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Depok,Tapos,Sukamaju Baru,106.872847672909,-6.40368700049996
+2506816,05-07-2020,2,angsa,14,Avian Influenza - HPAI,Jawa Barat,Bekasi,Bojongmanggu,Bojongmangu,107.191787538968,-6.43159747149997
+2594253,15-11-2020,35,ayam,3,Avian Influenza - HPAI,Kalimantan Timur,Bontang,Bontang Utara,Bontang Baru,117.430226623979,0.264745314500033
+2515676,18-07-2020,2,Ayam Bangkok,187,Avian Influenza - HPAI,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Sukamaju,117.206507057033,-0.0971355669999525
+2507454,06-07-2020,1,ayam,3,Avian Influenza - HPAI,Gorontalo,Gorontalo,Limboto,Hunggaluwa,122.950111678652,0.653437998500038
+2533354,13-08-2020,58,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Indramayu,Indramayu,Lemahmekar,108.334302849037,-6.33741140349994
+2507455,06-07-2020,2,itik,10,Avian Influenza - HPAI,Gorontalo,Gorontalo,Limboto,Hunggaluwa,122.950111678652,0.653437998500038
+2416201,20-02-2020,133,ayam kampung,7,Avian Influenza - HPAI,Banten,Serang,Cinangka,Kubangbaros,105.894244643748,-6.17194849999996
+2687301,18-07-2020,10,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Temanggung,Candiroto,Mento,110.069629515369,-7.19648699999996
+2598255,21-11-2020,5,ayam,3,Avian Influenza - HPAI,Kalimantan Timur,Bontang,Bontang Barat,Gunung Telihan,117.28977809689,0.283123254500026
+2673154,19-10-2020,34,ayam kampung,7,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Muara Enim,Tanjung Serian,103.797134656865,-3.59316150049995
+2418804,24-02-2020,37,ayam broiler,8,Avian Influenza - HPAI,Kalimantan Utara,Bulungan,Bunyu,Pulau Bunyu Selatan,117.848168748768,3.46432602350004
+2432910,12-03-2020,75,puyuh,19,Avian Influenza - HPAI,Lampung,Pringsewu,Pringsewu,Pringsewu Timur,104.995483564555,-5.34022699999994
+2605566,02-12-2020,220,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Bandung Barat,Ngamprah,Margajaya,107.512566783,-6.85611915599995
+2519807,23-07-2020,7,ayam layer,9,Avian Influenza - HPAI,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Manunggal Jaya,117.180604305437,-0.269468094499956
+2605563,02-12-2020,30,ayam layer,9,Avian Influenza - HPAI,Jawa Barat,Bandung Barat,Batujajar,Pangauban,107.466923511159,-6.91184377699994
+2577368,19-10-2020,25,itik,10,Avian Influenza - HPAI,Jawa Barat,Bekasi,Sukawangi,Sukamekar,107.068682279295,-6.13582825649993
+2678936,15-08-2020,30,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Majalengka,Leuwimunding,Rajawangi,108.341711893607,-6.74801492699996
+2413035,17-02-2020,300,ayam,3,Avian Influenza - HPAI,Jawa Barat,Bandung Barat,Cipeundeuy,Jatimekar,107.388231346416,-6.76541757549995
+2520515,24-07-2020,1,ayam,3,Avian Influenza - HPAI,Gorontalo,Gorontalo,Limboto,Hunggaluwa,122.950111678652,0.653437998500038
+2673169,03-06-2020,6,ayam kampung,7,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Muara Enim,Muara Lawai,103.772969913012,-3.62981499949996
+2402157,03-02-2020,7,entog,15,Avian Influenza - HPAI,Jawa Barat,Bandung,Cimeunyan,Cibeunying,107.644123942162,-6.88680768049997
+2596943,19-11-2020,100,ayam,3,Avian Influenza - HPAI,Kalimantan Timur,Bontang,Bontang Utara,Bontang Baru,117.430226623979,0.264745314500033
+2673096,15-10-2020,1,ayam kampung,7,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Muara Enim,Harapan Jaya,103.855938292003,-3.61549799949995
+2509195,08-07-2020,1,ayam,3,Avian Influenza - HPAI,Gorontalo,Gorontalo,Limboto,Hunggaluwa,122.950111678652,0.653437998500038
+2424099,29-02-2020,1,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Subang,Cipunagara,Tanjung,107.873016443326,-6.48275995249995
+2512060,13-07-2020,250,ayam,3,Avian Influenza - HPAI,Jawa Tengah,Semarang,Ungaran Barat,Kalisidi,110.364827469921,-7.15077149999996
+2676481,15-03-2020,3,ayam,3,Avian Influenza - HPAI,Di Yogyakarta,Sleman,Seyegan,Margokaton,110.297345737212,-7.71720949999997
+2489394,10-06-2020,43,ayam,3,Avian Influenza - HPAI,Jawa Barat,Bekasi,Cikarang Utara,Waluya,107.19250196536,-6.25319242499995
+2673064,29-06-2020,1,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Boyolali,Teras,Tawangsari,110.657488676779,-7.51803949949996
+2598067,21-11-2020,165,ayam,3,Avian Influenza - HPAI,Kalimantan Timur,Penajam Paser Utara,Waru,Bangun Mulya,116.494405366308,-1.28343355649994
+2673069,16-11-2020,1,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Boyolali,Mojosongo,Metuk,110.627245692708,-7.51436899999996
+2673143,16-10-2020,1,ayam kampung,7,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Muara Enim,Muara Harapan,103.852610339776,-3.57994100099995
+2687299,09-04-2020,6,entog,15,Avian Influenza - HPAI,Jawa Tengah,Temanggung,Kaloran,Tegowanuh,110.206246496939,-7.28785599999995
+2673076,15-10-2020,3,ayam broiler,8,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Muara Enim,Karang Raja,103.814560844816,-3.66923149899995
+2390613,22-01-2020,740,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Pemalang,Petarukan,Klareyan,109.476454412686,-6.85121749999993
+2428835,06-03-2020,2,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Bekasi,Cibarusah,Sindangmulya,107.099160509226,-6.41389393799994
+2602240,27-11-2020,15,Ayam Cochin,416,Avian Influenza - HPAI,Banten,Serang,Kibin,Nambo Ilir,106.328553442841,-6.17684549999996
+2676486,15-11-2020,1,ayam,3,Avian Influenza - HPAI,Di Yogyakarta,Sleman,Sleman,Tri Mulyo,110.365361980092,-7.67991549999996
+2575197,15-10-2020,36,itik,10,Avian Influenza - HPAI,Jawa Barat,Bekasi,Cibitung,Kertamukti,107.11899407749,-6.21962642699995
+2676173,19-10-2020,5,itik,10,Avian Influenza - HPAI,Jawa Tengah,Karanganyar,Jaten,Ngringo,110.886053794567,-7.55973199999994
+2518908,22-07-2020,11,ayam layer,9,Avian Influenza - HPAI,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Manunggal Jaya,117.180604305437,-0.269468094499956
+2700591,14-04-2020,103,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Boyolali,Karanggede,Grogolan,110.66862331301,-7.37399149999996
+2687298,09-04-2020,43,ayam,3,Avian Influenza - HPAI,Jawa Tengah,Temanggung,Kaloran,Tegowanuh,110.206246496939,-7.28785599999995
+2680534,28-12-2020,3,ayam kampung,7,Avian Influenza - HPAI,Sulawesi Barat,Majene,Banggae Timur,Lembang,118.976989071813,-3.51201299899998
+2687303,05-11-2020,32,ayam,3,Avian Influenza - HPAI,Jawa Tengah,Temanggung,Kranggan,Kranggan,110.214603731499,-7.34071749999995
+2675970,19-10-2020,5,ayam kampung,7,Avian Influenza - HPAI,Jawa Tengah,Karanganyar,Karanganyar,Jungke,110.953395316455,-7.59804149999997
+2598070,21-11-2020,5,ayam,3,Avian Influenza - HPAI,Kalimantan Timur,Bontang,Bontang Barat,Gunung Telihan,117.28977809689,0.283123254500026
+2506814,05-07-2020,11,itik,10,Avian Influenza - HPAI,Jawa Barat,Bekasi,Bojongmanggu,Bojongmangu,107.191787538968,-6.43159747149997
+2577462,19-10-2020,600,puyuh,19,Avian Influenza - HPAI,Jawa Timur,Probolinggo,Tiris,Tiris,113.409098994217,-7.97432756399994
+2375806,02-01-2020,71,entog,15,Avian Influenza - HPAI,Jawa Barat,Indramayu,Sindang,Pasekan,108.256210327504,-6.27021765699996
+2680467,19-06-2020,40,ayam,3,Avian Influenza - HPAI,Jawa Barat,Cirebon,Sedong,Winduhaji,108.557277139681,-6.85381507849993
+2673113,15-10-2020,1,ayam kampung,7,Avian Influenza - HPAI,Sumatera Selatan,Muara Enim,Muara Enim,Harapan Jaya,103.855938292003,-3.61549799949995
+2605560,02-12-2020,250,ayam kampung,7,Avian Influenza - HPAI,Jawa Barat,Bandung Barat,Cihampelas,Mekarmukti,107.46706237352,-6.93360495599995
+2515674,18-07-2020,2,ayam,3,Avian Influenza - HPAI,Kalimantan Timur,Kutai Kertanegara,Tenggarong Seberang,Manunggal Jaya,117.180604305437,-0.269468094499956

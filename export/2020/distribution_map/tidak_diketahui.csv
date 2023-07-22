@@ -1,0 +1,134 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2380136,08-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Kintamani,115.357807136869,-8.24597649999995
+2406343,08-02-2020,1,Anjing,60,tidak diketahui,Sulawesi Tengah,Donggala,Labuan,Labuan Toposo,119.876311916894,-0.669975369999946
+2596052,18-11-2020,9,ayam kampung,7,tidak diketahui,Kalimantan Utara,Bulungan,Tanjung Palas,Antutan,117.358293239507,2.72545921800005
+2511868,13-07-2020,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2446815,01-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2497637,22-06-2020,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Bangli,Taman Bali,115.349935698278,-8.49946099999997
+2381578,10-01-2020,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Langke Rembong,Compang Tuke,120.443222009524,-8.61719249299995
+2533476,13-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2389537,21-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan A,115.388080022439,-8.24343399999995
+2467774,02-05-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bantang,115.322542625614,-8.20201049999994
+2432088,11-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Abuan,115.323777936064,-8.31207199999994
+2505178,02-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2533254,13-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kawan,115.365386077268,-8.44563899999997
+2388784,20-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Demulih,115.34345,-8.48547599999995
+2552747,11-09-2020,40,Anjing luar dewasa,220,tidak diketahui,Sulawesi Tengah,Buol,Gadung,Taat,121.753781585439,1.05562579350004
+2591833,11-11-2020,1,kucing,64,tidak diketahui,Riau,Siak,Bunga Raya,Langsat Permai,102.035609996278,0.964939963000035
+2521775,27-07-2020,1,kucing lokal,66,tidak diketahui,Bali,Bangli,Bangli,Taman Bali,115.349935698278,-8.49946099999997
+2412054,15-02-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2516057,19-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2554609,15-09-2020,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Ruteng,Meler,120.360584737325,-8.58144949449996
+2616471,26-12-2020,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2472199,11-05-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Banua,115.308472320439,-8.32760649999997
+2474286,14-05-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Banua,115.308472320439,-8.32760649999997
+2475638,16-05-2020,1,anjing lokal,62,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2472462,11-05-2020,8,anjing kampung,519,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2378678,07-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bonyoh,115.331538718175,-8.30945699999995
+2468406,03-05-2020,2,anjing lokal,62,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2438834,20-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2573464,13-10-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Kintamani,115.357807136869,-8.24597649999995
+2565742,01-10-2020,1,Anjing,60,tidak diketahui,Kalimantan Barat,Mempawah,Sadaniang,Pentek,109.177595924563,0.553486079000038
+2519461,23-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Kintamani,115.357807136869,-8.24597649999995
+2385071,15-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2532023,11-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2411179,14-02-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2505912,03-07-2020,1,kucing,64,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2492654,15-06-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Taman Bali,115.349935698278,-8.49946099999997
+2519427,23-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2539454,24-08-2020,1,kucing lokal,66,tidak diketahui,Bali,Bangli,Bangli,Kayubihi,115.371424983778,-8.37754299999995
+2389597,21-01-2020,1,kucing,64,tidak diketahui,Bali,Bangli,Susut,Tiga,115.356370137525,-8.38162999999994
+2454348,13-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Tembuku,115.390129894924,-8.43226499999997
+2431256,10-03-2020,1,Anjing,60,tidak diketahui,Riau,Kuantan Singingi,Kuantan Tengah,Sawah,101.532804526661,-0.553735970999952
+2537795,21-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2464737,27-04-2020,28,Anjing,60,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2543707,27-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan A,115.388080022439,-8.24343399999995
+2501068,26-06-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2450011,06-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Sukawana,115.35247045184,-8.20798849999994
+2375651,02-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Kintamani,115.357807136869,-8.24597649999995
+2505309,02-07-2020,1,Anjing luar dewasa,220,tidak diketahui,Jambi,Sarolangun,Sarolangun,Sukasari,102.697073019094,-2.28296470549995
+2458699,20-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bayungcerik,115.308670468524,-8.29674449999996
+2571045,09-10-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Landih,115.377288,-8.339611
+2616425,26-12-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2459724,21-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Undisan,115.4022,-8.44211399999995
+2413898,18-02-2020,1,Anjing luar,216,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Seberuang,Tajau Mada,112.015577973488,0.375315770500038
+2504425,01-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kawan,115.365386077268,-8.44563899999997
+2577022,19-10-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Tiga,115.356370137525,-8.38162999999994
+2472463,11-05-2020,8,anjing kampung,519,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2532771,12-08-2020,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Satarmese,Ulu Belang,120.384079541695,-8.74141599399994
+2610464,14-12-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2438998,20-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2377155,04-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Batur Tengah,115.363073079936,-8.27439349999997
+2376618,03-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2381782,10-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Pengotan,115.378898603365,-8.34164949999993
+2596054,18-11-2020,3,entog,15,tidak diketahui,Kalimantan Utara,Bulungan,Tanjung Palas,Antutan,117.358293239507,2.72545921800005
+2451055,07-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Batur Utara,115.357633894058,-8.26184199999997
+2377152,04-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Belancan,115.324673867006,-8.28210999999996
+2526406,01-08-2020,1,Anjing,60,tidak diketahui,Bali,Badung,Mengwi,Abianbase,115.167020862534,-8.60166199999995
+2494186,17-06-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Suter,115.403074060606,-8.29663999999997
+2379941,08-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Abuan,115.338868437903,-8.46892249999996
+2619125,30-12-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2480341,27-05-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Taman Bali,115.349935698278,-8.49946099999997
+2377919,06-01-2020,1,kucing,64,tidak diketahui,Bali,Bangli,Kintamani,Kintamani,115.357807136869,-8.24597649999995
+2525996,31-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bonyoh,115.331538718175,-8.30945699999995
+2532016,11-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kawan,115.365386077268,-8.44563899999997
+2446167,31-03-2020,1,Anjing,60,tidak diketahui,Riau,Bengkalis,Bengkalis,Temeran,102.336381225731,1.43619030650007
+2617639,28-12-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2467614,01-05-2020,2,Anjing,60,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2495303,18-06-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2513628,15-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2402503,04-02-2020,1,Anjing luar dewasa,220,tidak diketahui,Kalimantan Barat,Sekadau,Sekadau Hilir,Engkersik,111.135041952044,-0.0643166684999414
+2552727,11-09-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2541132,25-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2469843,06-05-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2433827,13-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Abuan,115.338868437903,-8.46892249999996
+2413781,17-02-2020,1,Anjing,60,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Seberuang,Tajau Mada,112.015577973488,0.375315770500038
+2505053,02-07-2020,1,Anjing,60,tidak diketahui,Nusa Tenggara Timur,Manggarai,Wae Rii,Compang Ndehes,120.468882941531,-8.56300499349993
+2561112,25-09-2020,2,Anjing,60,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Embaloh Hulu,Langan Baru,112.557150139655,1.32945776000005
+2538446,23-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2498792,23-06-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Serahi,115.332958137474,-8.24342049999996
+2455163,14-04-2020,1,Anjing,60,tidak diketahui,Kalimantan Barat,Mempawah,Toho,Kecurit,109.143011986141,0.452340245500039
+2437833,19-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2551193,09-09-2020,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Tembuku,Bangbang,115.409989932369,-8.43992449999993
+2612703,18-12-2020,1,Anjing luar anak,219,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2616470,26-12-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Peninjoan,115.409210797858,-8.40841849999995
+2531889,11-08-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Batur Tengah,115.363073079936,-8.27439349999997
+2458026,18-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Batur Selatan,115.371647120898,-8.26375599999994
+2664387,18-01-2020,1,Anjing,60,tidak diketahui,Kalimantan Barat,Sintang,Ketungau Hilir,Maung,111.564157,0.607778
+2483589,31-05-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Tiga,115.356370137525,-8.38162999999994
+2615502,23-12-2020,1,monyet,76,tidak diketahui,Kalimantan Selatan,Hulu Sungai Utara,Banjang,Patarikan,115.278546292577,-2.41950549999996
+2430570,09-03-2020,1,Anjing,60,tidak diketahui,Riau,Bengkalis,Bengkalis,Temeran,102.336381225731,1.43619030650007
+2468414,03-05-2020,2,Anjing,60,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2571183,09-10-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Susut,115.331490132683,-8.43897149999995
+2589535,06-11-2020,1,anjing lokal,62,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Sebasang,117.454904160006,-8.65135299949995
+2425349,02-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Tiga,115.356370137525,-8.38162999999994
+2389724,21-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2461040,23-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Mengani,115.259106537577,-8.29218649999996
+2407138,10-02-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Bayunggede,115.352207326219,-8.29554249999995
+2436354,17-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Jehem,115.380307716401,-8.42475849999994
+2413758,17-02-2020,1,Anjing,60,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Seberuang,Tajau Mada,112.015577973488,0.375315770500038
+2428648,06-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Sekaan,115.335231298742,-8.31800149999995
+2377146,04-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Batukaang,115.278078419985,-8.26188449999995
+2613345,19-12-2020,1,Anjing luar dewasa,220,tidak diketahui,Bali,Bangli,Kintamani,Abuan,115.323777936064,-8.31207199999994
+2410013,13-02-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kawan,115.365386077268,-8.44563899999997
+2485213,03-06-2020,1,Anjing,60,tidak diketahui,Bali,Badung,Mengwi,Abianbase,115.167020862534,-8.60166199999995
+2542904,26-08-2020,1,monyet,76,tidak diketahui,Bali,Bangli,Susut,Sulahan,115.340327968072,-8.41798349999993
+2571044,09-10-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Landih,115.377288,-8.339611
+2513700,15-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2515757,18-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan B,115.437791803159,-8.20918199999994
+2456056,15-04-2020,1,kucing,64,tidak diketahui,Riau,Dumai,Dumai Barat,Pangkalan Sesai,101.480273531262,1.61966638150005
+2612636,17-12-2020,1,anjing lokal,62,tidak diketahui,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Maman,117.466139020354,-8.62912123399997
+2596028,18-11-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Lembean,115.29858661197,-8.29075149999994
+2417919,22-02-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2485239,03-06-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Tembuku,Yangapi,115.394226307955,-8.40930699999996
+2586689,02-11-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kubu,115.370446944653,-8.40907599999994
+2460162,22-04-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Bebalang,115.361002912024,-8.46847599999995
+2568985,07-10-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Songan A,115.388080022439,-8.24343399999995
+2602602,28-11-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Susut,Demulih,115.34345,-8.48547599999995
+2524270,29-07-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Taman Bali,115.349935698278,-8.49946099999997
+2597538,20-11-2020,1,kucing,64,tidak diketahui,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2425335,02-03-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Cempaga,115.369397506748,-8.42444149999997
+2613338,19-12-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Bangli,Kayubihi,115.371424983778,-8.37754299999995
+2591832,11-11-2020,1,Kelelawar,504,tidak diketahui,Riau,Siak,Bunga Raya,Jati Baru,102.012246927978,0.948179071000055
+2393302,24-01-2020,1,Anjing,60,tidak diketahui,Bali,Bangli,Kintamani,Dausa,115.302123933814,-8.19325649999993
+2468395,03-05-2020,2,anjing lokal,62,tidak diketahui,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048

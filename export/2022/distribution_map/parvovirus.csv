@@ -1,0 +1,60 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+3353182,04-10-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Langowan Utara,Karumenga,124.840686249784,1.15377609000006
+3015912,16-03-2022,1,kucing,64,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Kauneran Satu,124.771182,1.25453
+3074152,29-04-2022,2,Anjing,60,Parvovirus,Sumatera Utara,Pematang Siantar,Siantar Timur,Siopat Suhu,99.0758264478438,2.97384403600003
+3085573,27-04-2022,1,Anjing,60,Parvovirus,Bali,Karang Asem,Karang Asem,Seraya Barat,115.630053933043,-8.46257999999995
+3354824,05-10-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso Barat,Pinabetengan,124.763869,1.143448
+3253783,04-08-2022,1,kucing,64,Parvovirus,Sulawesi Utara,Minahasa,Tompaso,Tempok,124.774326040853,1.17908350750005
+3038987,30-03-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Pineleng,Sea,124.783824405993,1.39898017800004
+2996683,01-03-2022,1,Anjing,60,Parvovirus,Sumatera Utara,Tapanuli Utara,Tarutung,Hapoltahan,98.9977233283994,1.99296026350004
+3236823,25-07-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Talikuran,124.768200912358,1.27266160650004
+3004009,11-01-2022,2,anjing lokal,62,Parvovirus,Sumatera Utara,Sibolga,Sibolga Selatan,Aek Muara Pinang,98.8212574139801,1.69388477950002
+3004273,31-01-2022,1,anjing lokal,62,Parvovirus,Sumatera Utara,Sibolga,Sibolga Selatan,Aek Parombunan,98.8208238259968,1.71514063000004
+3357958,08-10-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso,Talikuran,124.766209198416,1.16526589950004
+2942942,11-01-2022,2,Anjing dalam anak,217,Parvovirus,Sumatera Utara,Medan,Medan Tuntungan,Simalingkar B,98.6004873423686,3.54621133750004
+3064088,14-04-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Langowan Utara,Tempang Dua,124.826448,1.167198
+3138781,04-06-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Langowan Utara,Taraitak,124.827724690501,1.14523671200004
+3263350,10-08-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tombariri,Poopoh,124.624744779189,1.37672928950005
+3204852,05-07-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tondano Utara,Tonsea Lama,124.942097643282,1.31206122750004
+3004502,17-02-2022,1,anjing lokal,62,Parvovirus,Sumatera Utara,Sibolga,Sibolga Selatan,Aek Parombunan,98.8208238259968,1.71514063000004
+3007678,08-03-2022,1,Anjing,60,Parvovirus,Sumatera Utara,Tapanuli Utara,Tarutung,Simamora,98.9881884125007,2.00020729400003
+2948153,21-01-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tondano Utara,Tonsea Lama,124.942097643282,1.31206122750004
+3316800,09-09-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso,Liba,124.804117733922,1.18187878600003
+2954514,27-01-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso,Kamanga,124.812419105769,1.16827420500005
+3319828,12-09-2022,1,kucing,64,Parvovirus,Sulawesi Utara,Minahasa,Tondano Utara,Sasaran,124.899770672241,1.32554534800005
+3373738,20-10-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Langowan Utara,Karumenga,124.840686249784,1.15377609000006
+3278469,20-08-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso,Tember,124.833128548534,1.17354420900006
+3304567,01-09-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tondano Utara,Tonsea Lama,124.942097643282,1.31206122750004
+2962360,02-02-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso Barat,Pinabetengan Utara,124.787052,1.16757
+3183838,23-06-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tombariri,Ranowangko,124.659615287912,1.36670384750005
+3236757,25-07-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Timbukar,124.760033178811,1.23817203500005
+3195212,29-06-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tondano Utara,Wulaoan,124.930828161876,1.30298248700007
+3043483,02-04-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Langowan Utara,Toraget,124.834894626037,1.15283004550005
+2931414,03-01-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Barat,124.707841,1.385569
+3099952,13-05-2022,2,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Kolongan Atas,124.791646359967,1.25011132200007
+3253786,04-08-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso Barat,Tompaso Dua Utara,124.794755,1.19251
+3236857,25-07-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Kauneran Satu,124.771182,1.25453
+3388410,31-10-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tombariri,Mokupa,124.713022629385,1.40522936800005
+3099894,13-05-2022,2,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Kauneran Satu,124.771182,1.25453
+3354825,05-10-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso Barat,Tompaso Dua Utara,124.794755,1.19251
+2969223,09-02-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tondano Selatan,Tataaran Patar,124.873105949691,1.26930836700006
+3233521,23-07-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tondano Utara,Kembuan,124.917314601028,1.31774917950005
+3004288,14-02-2022,1,anjing lokal,62,Parvovirus,Sumatera Utara,Sibolga,Sibolga Selatan,Aek Parombunan,98.8208238259968,1.71514063000004
+3099937,13-05-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Leilem Tiga,124.808949,1.260812
+3074158,18-02-2022,2,Anjing,60,Parvovirus,Sumatera Utara,Pematang Siantar,Siantar Timur,Siopat Suhu,99.0758264478438,2.97384403600003
+3189793,27-06-2022,1,kucing,64,Parvovirus,Sulawesi Utara,Minahasa,Tompaso Barat,Pinabetengan Selatan,124.798126,1.1923
+3007680,08-03-2022,2,Anjing,60,Parvovirus,Sumatera Utara,Tapanuli Utara,Tarutung,Huta Toruan Vii,98.9840591072335,1.99103276800005
+3074151,20-01-2022,1,Anjing,60,Parvovirus,Sumatera Utara,Pematang Siantar,Siantar Timur,Siopat Suhu,99.0758264478438,2.97384403600003
+3236835,25-07-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Talikuran Satu,124.773758,1.26321
+2962045,02-02-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso,Tempok Selatan,124.783602431995,1.16704545550004
+3179322,22-06-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Uner,124.737975,1.364005
+2996670,21-02-2022,1,Anjing,60,Parvovirus,Sumatera Utara,Tapanuli Utara,Tarutung,Huta Toruan Vi,98.9531251428098,1.98884760200005
+3003992,10-01-2022,1,Anjing,60,Parvovirus,Sumatera Utara,Sibolga,Sibolga Selatan,Aek Parombunan,98.8208238259968,1.71514063000004
+2931406,03-01-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tombariri Timur,Lemoh Timur,124.734183,1.379803
+3320209,12-09-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso Barat,Tompaso Dua Utara,124.794755,1.19251
+3229879,21-07-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Langowan Utara,Taraitak,124.827724690501,1.14523671200004
+3401431,08-11-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Langowan Utara,Walantakan,124.836360644427,1.14532641700006
+3183832,23-06-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tombariri,Mokupa,124.713022629385,1.40522936800005
+2996667,22-02-2022,1,Anjing,60,Parvovirus,Sumatera Utara,Tapanuli Utara,Tarutung,Huta Toruan Xi,98.9686133615074,1.99247299500004
+3193262,28-06-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Tompaso Barat,Tompaso Dua Uara,124.798126,1.1923
+2932370,04-01-2022,1,Anjing,60,Parvovirus,Sulawesi Utara,Minahasa,Sonder,Tincep,124.794202033181,1.23181424550003

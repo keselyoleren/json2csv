@@ -1,0 +1,43 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+3000252,24-02-2022,2,Anjing,60,distemper,Sumatera Utara,Tapanuli Utara,Pagaran,Parhorboan,98.9084497450125,2.15638552850004
+3278468,20-08-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso,Kamanga,124.812419105769,1.16827420500005
+3331964,19-09-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Walantakan,124.836360644427,1.14532641700006
+3179765,22-06-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso,Tolok,124.804536080544,1.19469539400004
+3316797,09-09-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso Barat,Tompaso Dua Utara,124.794755,1.19251
+3179762,22-06-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso Barat,Pinabetengan,124.763869,1.143448
+3169869,18-06-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Walantakan,124.836360644427,1.14532641700006
+3484114,07-12-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Tempang Tiga,124.836492,1.180383
+3081009,25-04-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tombariri,Borgo,124.677373712861,1.38766203250003
+3202254,03-07-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Tempang Dua,124.826448,1.167198
+3385023,29-10-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Karumenga,124.840686249784,1.15377609000006
+3326135,15-09-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tondano Utara,Tonsea Lama,124.942097643282,1.31206122750004
+3062608,13-04-2022,1,Anjing,60,distemper,Bali,Badung,Abiansemal,Sedang,115.227141059052,-8.54307499999993
+2947840,20-01-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tondano Selatan,Tataaran Satu,124.888175596343,1.26714412200008
+3298145,29-08-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Taraitak Satu,124.830902368683,1.14532641700006
+3000308,24-02-2022,4,Anjing,60,distemper,Sumatera Utara,Tapanuli Utara,Muara,Huta Lontung,98.86579838698,2.32966660050005
+2954495,27-01-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso Barat,Pinabetengan Utara,124.787052,1.16757
+2931692,03-01-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Karumenga,124.840686249784,1.15377609000006
+3354829,05-10-2022,1,kucing,64,distemper,Sulawesi Utara,Minahasa,Tompaso,Liba,124.804117733922,1.18187878600003
+3366581,17-10-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Walantakan,124.836360644427,1.14532641700006
+3354822,05-10-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso Barat,Touure,124.808168,1.166439
+3253785,04-08-2022,1,kucing,64,distemper,Sulawesi Utara,Minahasa,Tompaso Barat,Pinabetengan,124.763869,1.143448
+3387379,31-10-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Taraitak,124.827724690501,1.14523671200004
+3236863,25-07-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Sonder,Leilem Dua,124.782213331078,1.25810251650003
+3183810,23-06-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tombulu,Kembes Satu,124.860922112727,1.39209071500005
+2996530,23-02-2022,4,Anjing,60,distemper,Sumatera Utara,Tapanuli Utara,Muara,Huta Lontung,98.86579838698,2.32966660050005
+2954453,27-01-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso,Tempok Selatan,124.783602431995,1.16704545550004
+2946026,19-01-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tondano Selatan,Koya,124.874108748843,1.25770209150002
+3253450,03-08-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso,Kamanga,124.812419105769,1.16827420500005
+3167570,17-06-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Toraget,124.834894626037,1.15283004550005
+3212974,11-07-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Toraget,124.834894626037,1.15283004550005
+3012091,11-03-2022,1,Anjing,60,distemper,Sumatera Utara,Tapanuli Utara,Pagaran,Lumban Silintong,98.8701562907643,2.13746844450006
+3236844,25-07-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Sonder,Leilem Tiga,124.808949,1.260812
+3438859,22-11-2022,2,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tompaso,Tempok Selatan,124.783602431995,1.16704545550004
+3145860,08-06-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Taraitak,124.827724690501,1.14523671200004
+3062054,13-04-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tombariri,Mokupa,124.713022629385,1.40522936800005
+3232668,22-07-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tondano Selatan,Tataaran Dua,124.861772520521,1.28285365250005
+3236970,25-07-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Tempang Dua,124.826448,1.167198
+3030107,25-03-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Sonder,Timbukar,124.760033178811,1.23817203500005
+3378264,25-10-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Langowan Utara,Taraitak,124.827724690501,1.14523671200004
+3253779,04-08-2022,1,kucing,64,distemper,Sulawesi Utara,Minahasa,Tompaso Barat,Tompaso Dua Utara,124.794755,1.19251
+3270226,15-08-2022,1,Anjing,60,distemper,Sulawesi Utara,Minahasa,Tombariri,Sarani Matani,124.692965776867,1.36932335200004

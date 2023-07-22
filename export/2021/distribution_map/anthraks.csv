@@ -1,0 +1,12 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2738857,31-05-2021,1,sapi,22,Anthraks,Jawa Timur,Tulungagung,Pager Wojo,Sidomulyo,111.745320463339,-7.95569014549994
+2912776,08-12-2021,1,sapi,22,Anthraks,Jawa Tengah,Wonogiri,Eromoko,Basuhan,110.782216643104,-7.99268649999996
+2956543,14-12-2021,4,sapi,22,Anthraks,Di Yogyakarta,Gunung Kidul,Ponjong,Gombang,110.703580066101,-8.00366699999995
+2720972,01-05-2021,1,sapi,22,Anthraks,Nusa Tenggara Barat,Sumbawa,Moyo Hilir,Serading,117.505993202519,-8.57400249999995
+2956547,14-12-2021,2,kambing,40,Anthraks,Di Yogyakarta,Gunung Kidul,Ponjong,Gombang,110.703580066101,-8.00366699999995
+2865997,22-10-2021,4,sapi bali,24,Anthraks,Nusa Tenggara Barat,Sumbawa,Labuhan Badas,Karang Dima,117.364938988027,-8.51452299999997
+2645448,02-02-2021,2,sapi bali,24,Anthraks,Nusa Tenggara Barat,Sumbawa,Moyo Hulu,Mokong,117.466765908484,-8.58964599949996
+2933972,26-01-2021,2,sapi,22,Anthraks,Jawa Timur,Pacitan,Pringkuku,Dersono,110.982346876991,-8.20555639299997
+2912779,08-12-2021,1,sapi,22,Anthraks,Jawa Tengah,Wonogiri,Eromoko,Pucung,110.802459514931,-7.98415700049995
+2934090,22-11-2021,2,sapi,22,Anthraks,Jawa Timur,Pacitan,Pringkuku,Dersono,110.982346876991,-8.20555639299997
+2933996,07-01-2021,1,sapi,22,Anthraks,Jawa Timur,Pacitan,Donorojo,Klepu,110.938421149726,-8.16349506399996

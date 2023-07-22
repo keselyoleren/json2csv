@@ -1,0 +1,10 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2942661,29-08-2021,6,kucing,64,Salmonellosis,Papua,Deiyai,Tigi,Waghete I,136.33099570205,-4.00072079849994
+2777896,05-05-2021,12,babi,55,Salmonellosis,Sumatera Utara,Karo,Munte,Munthe,98.3269922515685,3.08426902150003
+2793363,08-07-2021,5,babi,55,Salmonellosis,Sumatera Utara,Toba Samosir,Porsea,Patane Iii,99.1481450327243,2.45981203250005
+2777894,10-05-2021,10,babi,55,Salmonellosis,Sumatera Utara,Karo,Munte,Pertumbungen,98.33656557053,3.05672976800005
+2913681,07-08-2021,150,ayam kampung,7,Salmonellosis,Kepulauan Riau,Kepulauan Anambas,Siantan,Tarempa Timur,106.230523719275,3.16428828200006
+2793364,14-07-2021,2,sapi bali,24,Salmonellosis,Sumatera Utara,Toba Samosir,Permaksian,Siantar Utara,99.227508,2.495607
+2793356,02-07-2021,2,babi,55,Salmonellosis,Sumatera Utara,Toba Samosir,Permaksian,Lumban Huala,99.168889,2.499049
+2793369,31-07-2021,1,sapi po,32,Salmonellosis,Sumatera Utara,Toba Samosir,Permaksian,Tangga Batu II,99.184457,2.496083
+2917853,13-07-2021,2,sapi,22,Salmonellosis,Sumatera Utara,Labuhan Batu Selatan,Sei Kanan,Hajoran,99.9205391191238,1.74005197950004

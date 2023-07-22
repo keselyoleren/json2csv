@@ -1,0 +1,5 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2696094,10-01-2020,6,sapi,22,Bovine Ephemeral Fever,Sumatera Utara,Labuhan Batu Utara,Kualuh Selatan,Perk Damuli,99.6091172649226,2.46803890700005
+2691428,14-07-2020,3,sapi,22,Bovine Ephemeral Fever,Sumatera Utara,Labuhan Batu Utara,Kualuh Selatan,Tanjung Pasir,99.7473115124413,2.49672626600005
+2689823,25-01-2020,5,sapi po,32,Bovine Ephemeral Fever,Sumatera Utara,Labuhan Batu Utara,Kualuh Hulu,Perk Membang Muda,99.6810069511877,2.53667675550005
+2689846,02-07-2020,4,sapi,22,Bovine Ephemeral Fever,Sumatera Utara,Labuhan Batu Utara,Kualuh Hulu,Perk Hanna,99.7489767257554,2.53667079550004

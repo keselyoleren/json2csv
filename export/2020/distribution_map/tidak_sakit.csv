@@ -1,0 +1,350 @@
+caseid,tanggal,cases,hewan,spid,disease,prop,kab,kec,desa,lon,lat
+2434701,14-03-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Barat,Pangkalan Sesai,101.480273531262,1.61966638150005
+2472035,11-05-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Jembrana,Pendem,114.633545340502,-8.31014849999994
+2555640,16-09-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Margahayu,Sulaeman,107.577155325323,-6.98569273949997
+2403775,05-02-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Timur,Buluh Kasap,101.559863043636,1.62836414400005
+2554687,15-09-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Puhu,115.256960798135,-8.38987499999996
+2454641,13-04-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Kusamba,115.445522805136,-8.55890549999995
+2575517,16-10-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Nagreg,Nagreg,107.894579853045,-7.01148629199994
+2428514,05-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2413220,17-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Mandau,Babussalam,101.1364405679,1.20833200050006
+2412230,15-02-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Sampit,109.95123110977,-1.79819154699996
+2523623,28-07-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Majalaya,Wangisagara,107.732241204119,-7.07983899099995
+2523218,28-07-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Semunai,101.330725575164,1.10855734250003
+2434720,14-03-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bantan,Berancah,102.426579101153,1.46086126500006
+2499734,24-06-2020,1,Anjing luar dewasa,220,Tidak sakit,Sumatera Barat,Sijunjung,Lubuk Tarok,Lubuk Tarok,101.033915716125,-0.84010875149994
+2472467,11-05-2020,1,kera,68,Tidak sakit,Kalimantan Barat,Kapuas Hulu,Batang Lupar,Sungai Ajung,112.361264574894,0.960711866500048
+2527330,04-08-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Sidemen,115.455361898761,-8.47187999999997
+2443512,27-03-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Kusamba,115.445522805136,-8.55890549999995
+2519543,23-07-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Abang,Culik,115.607704223464,-8.33449399999995
+2407360,10-02-2020,1,Anjing,60,Tidak sakit,Sumatera Barat,Sijunjung,Sumpur Kudus,Tanjung Bonar Aur,100.884251897608,-0.518779083499965
+2420054,25-02-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Mulia Baru,110.016204546125,-1.83380311699995
+2612721,18-12-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Tampak Siring,Pejeng Kangin,115.298416074437,-8.48384899999994
+2553221,12-09-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Bintan,101.264234015972,1.74797606250004
+2417258,21-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Sebangar,101.119810463826,1.29699773150006
+2413115,17-02-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Gunaksa,115.423178920945,-8.54645749999995
+2536214,18-08-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Talibeng,115.455511104657,-8.48633499999994
+2395528,27-01-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Barat,Rimba Sekampung,101.515493781297,1.62410354450006
+2407208,10-02-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Tri Eka Buana,115.453825965505,-8.50253699999996
+2428843,06-03-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Ubud,115.259240231491,-8.49945199999996
+2428182,05-03-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Pematang Obo,101.226424289857,1.25444936600004
+2460761,23-04-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Paksebali,115.410906519774,-8.52931999999996
+2500024,24-06-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Bungbungan,115.371773069582,-8.48296649999997
+2395291,27-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Buana Giri,115.545875912256,-8.39020899999994
+2386453,16-01-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Nagreg,Bojong,107.864254801751,-7.03967809699995
+2607528,07-12-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Pangkalan libut,101.296101815396,1.12094625750007
+2526760,03-08-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Manggissari,114.891260921394,-8.37899399999995
+2620023,31-12-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2410396,13-02-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Sangkan Gunung,115.437255670002,-8.46458749999996
+2379744,08-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Jungutan,115.520858284039,-8.41261999999995
+2465331,28-04-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Kedewatan,115.246801804529,-8.48084799999995
+2408334,11-02-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Sidemen,115.455361898761,-8.47187999999997
+2393689,25-01-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Selat,115.401164294258,-8.49844149999996
+2435035,15-03-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Bungaya Kangin,115.569656903943,-8.45392849999993
+2416489,20-02-2020,1,kucing,64,Tidak sakit,Kalimantan Barat,Ketapang,Benua Kayong,Banjar,110.07120098426,-1.87020605799995
+2386076,16-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Sangkan Gunung,115.437255670002,-8.46458749999996
+2426377,03-03-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Sungai Sembilan,Lubuk Gaung,101.316335144986,1.65326772200007
+2428049,05-03-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Bungbungan,115.371773069582,-8.48296649999997
+2616115,25-12-2020,1,kucing,64,Tidak sakit,Bali,Karang Asem,Sidemen,Talibeng,115.455511104657,-8.48633499999994
+2515925,18-07-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Titian Antui,101.332722584483,1.14976215250005
+2509451,09-07-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Suak Merambai,102.039636820068,0.86592227150004
+2502536,29-06-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Kemuning Muda,102.01608902716,0.902886599000027
+2604920,01-12-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Pangalengan,Tribaktimulya,107.594447216842,-7.14099502549996
+2397609,29-01-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Titian Antui,101.332722584483,1.14976215250005
+2431591,10-03-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Kerta,115.280058791607,-8.34393149999994
+2586283,01-11-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2386238,16-01-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Sungai Sembilan,Lubuk Gaung,101.316335144986,1.65326772200007
+2410269,13-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Pinggir,101.028752903781,1.08010893950006
+2610481,14-12-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Bukian,115.257667096971,-8.41592999999997
+2611024,15-12-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Sibetan,115.534236734218,-8.45663629149996
+2407769,10-02-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Ubud,115.259240231491,-8.49945199999996
+2489047,09-06-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Jati Baru,102.012246927978,0.948179071000055
+2530904,10-08-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Manggis,Antiga,115.489942830181,-8.53361809999993
+2449173,04-04-2020,1,kucing,64,Tidak sakit,Sumatera Barat,Sijunjung,Iv Nagari,Palangki,100.967049956806,-0.738987772499968
+2423406,28-02-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Nanga Tayap,Sepakat Raya,110.535527,-1.60557
+2480995,28-05-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Puhu,115.256960798135,-8.38987499999996
+2536938,19-08-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Siak Kecil,Tanjung Belit,102.060592744745,1.21425938550007
+2424802,02-03-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Banjarangkan,115.370425676556,-8.55063999999993
+2564353,30-09-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Lokasari,115.42608611228,-8.51519099999993
+2448519,03-04-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Bebandem,115.549855426965,-8.43323649999994
+2395273,27-01-2020,1,Anjing,60,Tidak sakit,Jawa Tengah,Boyolali,Banyudono,Bendan,110.67310943417,-7.54430749949995
+2508055,07-07-2020,1,kucing,64,Tidak sakit,Bali,Karang Asem,Rendang,Besakih,115.443695548305,-8.35940649999995
+2506846,05-07-2020,1,kucing lokal,66,Tidak sakit,Riau,Bengkalis,Bantan,Bantan Tengah,102.270813157531,1.52558761800006
+2499669,24-06-2020,1,Kucing Angora,537,Tidak sakit,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2465780,29-04-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Tampak Siring,Manukaya,115.325378950228,-8.40060949999994
+2476834,18-05-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai kota,Bintan,101.264234015972,1.74797606250004
+2376495,03-01-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2447582,02-04-2020,1,kera,68,Tidak sakit,Riau,Bengkalis,Rupat,Tanjung Kapal,101.478529636786,1.84218430350006
+2604328,30-11-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2396679,28-01-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Siak Kecil,Lubuk Muda,102.113976365448,1.19692856000006
+2504417,01-07-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Gelgel,115.398933845079,-8.56860749999996
+2445868,31-03-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Tampak Siring,Tampaksiring,115.311423746569,-8.44011849999995
+2515502,17-07-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Mekar Sari,101.264234015972,1.74797606250004
+2471406,09-05-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2505473,02-07-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Solokan Jeruk,Bojongemas,107.718465063927,-7.00311040899996
+2442160,25-03-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2614571,22-12-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Sibetan,115.534236734218,-8.45663629149996
+2440608,23-03-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Balai Makam,101.126601095593,1.24430143700005
+2446165,31-03-2020,1,kucing lokal,66,Tidak sakit,Riau,Bengkalis,Mandau,Duri Barat,101.142823512867,1.18807321650004
+2530203,08-08-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Tengganau,101.181219735326,1.06866502650004
+2569786,07-10-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Margahayu,Margahayu Selatan,107.572253422673,-6.97395229349996
+2401800,03-02-2020,1,Anjing,60,Tidak sakit,Jawa Tengah,Boyolali,Ampel,Urutsewu,110.543577773389,-7.44246449949995
+2479563,26-05-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Bukian,115.257667096971,-8.41592999999997
+2544161,28-08-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Pangyangan,114.862331070718,-8.42375999999993
+2420051,25-02-2020,1,kucing,64,Tidak sakit,Kalimantan Barat,Ketapang,Benua Kayong,Baru,109.953842871959,-1.84083276949994
+2398198,30-01-2020,1,kucing,64,Tidak sakit,Bali,Karang Asem,Bebandem,Bude Keling,115.567309612225,-8.43297049999995
+2556677,18-09-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Asahduren,114.855157625036,-8.39414599999995
+2432119,11-03-2020,1,kucing lokal,66,Tidak sakit,Sumatera Barat,Sijunjung,Iv Nagari,Koto Tuo,100.974636062366,-0.726039825999976
+2508727,08-07-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Nagreg,Citaman,107.875546443787,-7.00949525849995
+2577031,19-10-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Majalaya,Sukamaju,107.746156772953,-7.05710363399996
+2440389,22-03-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Mekar Sari,101.264234015972,1.74797606250004
+2470706,08-05-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Manggis,Gegelang,115.481003647398,-8.49494749999997
+2466078,29-04-2020,1,kucing,64,Tidak sakit,Sumatera Barat,Sijunjung,Lubuk Tarok,Lubuk Tarok,101.033915716125,-0.84010875149994
+2493112,15-06-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Balai Makam,101.126601095593,1.24430143700005
+2407353,10-02-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Pikat,115.463569037249,-8.52658899999994
+2430316,09-03-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Selat,115.401164294258,-8.49844149999996
+2434985,15-03-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Manggis,Gegelang,115.481003647398,-8.49494749999997
+2440513,23-03-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Pengeragoan,114.917417963716,-8.42099299999995
+2473664,13-05-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bengkalis,Wonosari,102.173220293105,1.48874014550006
+2410783,14-02-2020,1,kucing,64,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Mulia Baru,110.016204546125,-1.83380311699995
+2504148,30-06-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Ratu Sima,101.264234015972,1.74797606250004
+2530834,10-08-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Semarapura Kauh,115.385907196494,-8.54068799999993
+2470858,08-05-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Pangalengan,Sukaluyu,107.526820492663,-7.21905350699996
+2555303,16-09-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai kota,Dumai Kota,101.264234015972,1.74797606250004
+2509447,09-07-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Bunga Raya,101.998713639133,0.929961621000047
+2409616,12-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bukit Batu,Pakning Asal,101.874010419031,1.39579361600005
+2615347,23-12-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Sangkan Gunung,115.437255670002,-8.46458749999996
+2533916,13-08-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2426436,03-03-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Timur,Tanjung Palas,101.588714844602,1.56781512350005
+2379627,08-01-2020,1,anjing lokal,62,Tidak sakit,Sumatera Barat,Sijunjung,Iv Nagari,Koto Tuo,100.974636062366,-0.726039825999976
+2380897,09-01-2020,1,anjing lokal,62,Tidak sakit,Bali,Gianyar,Gianyar,Serongga,115.3370960368,-8.56843149999995
+2475600,16-05-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Tampak Siring,Pejeng,115.289669211289,-8.51622499999996
+2584018,28-10-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2519025,22-07-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Majalaya,Sukamaju,107.746156772953,-7.05710363399996
+2413242,17-02-2020,1,anjing lokal,62,Tidak sakit,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2516581,20-07-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Negara,Kaliakah,114.58211923562,-8.33612399999996
+2513619,15-07-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Bebandem,115.549855426965,-8.43323649999994
+2385168,15-01-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Banjarangkan,115.370425676556,-8.55063999999993
+2429556,07-03-2020,1,monyet,76,Tidak sakit,Riau,Bengkalis,Pinggir,Semunai,101.330725575164,1.10855734250003
+2511903,13-07-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Sukajadi,101.264234015972,1.74797606250004
+2515498,17-07-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bukit Timah,101.264234015972,1.74797606250004
+2439433,20-03-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2601069,26-11-2020,1,monyet,76,Tidak sakit,Riau,Dumai,Dumai Barat,Pangkalan Sesai,101.480273531262,1.61966638150005
+2525416,30-07-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Bebandem,115.549855426965,-8.43323649999994
+2581956,26-10-2020,1,monyet,76,Tidak sakit,Riau,Dumai,Dumai kota,Rimba Sekampung,101.264234015972,1.74797606250004
+2405315,06-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bukit Batu,Sukajadi,101.905359377013,1.29335707350006
+2515207,17-07-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Besan,115.453845762774,-8.51537699999994
+2509570,09-07-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Pikat,115.463569037249,-8.52658899999994
+2549187,05-09-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Balai Raja,101.065508863004,1.12460219750005
+2375611,02-01-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Tengah,109.95679338891,-1.81409412599996
+2458651,20-04-2020,1,anjing ras,61,Tidak sakit,Bali,Gianyar,Tampak Siring,Tampaksiring,115.311423746569,-8.44011849999995
+2382427,11-01-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Paseh,Drawati,107.805036735944,-7.08141589149994
+2518852,22-07-2020,1,kucing lokal,66,Tidak sakit,Riau,Bengkalis,Bantan,Ulu Pulau,102.426579101153,1.46086126500006
+2417340,21-02-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Selat,115.401164294258,-8.49844149999996
+2451080,07-04-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Melaya,Nusa Sari,114.497520767422,-8.27324499999995
+2384195,14-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Kubu,Tianyar Tengah,115.473674166644,-8.21125199999994
+2485175,03-06-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Lokasari,115.42608611228,-8.51519099999993
+2593162,12-11-2020,1,monyet,76,Tidak sakit,Bali,Karang Asem,Abang,Pidpid,115.576361217167,-8.39792899999995
+2510295,10-07-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Pangalengan,Sukaluyu,107.526820492663,-7.21905350699996
+2546049,31-08-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Barat,Bagan Keladi,101.439537910732,1.64865273100006
+2415232,19-02-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Mulia Baru,110.016204546125,-1.83380311699995
+2499693,24-06-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Siak Kecil,Lubuk Garam,102.051477672949,1.15692388950006
+2484588,02-06-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Pengeragoan,114.917417963716,-8.42099299999995
+2422595,27-02-2020,1,musang,95,Tidak sakit,Kalimantan Barat,Ketapang,Muara Pawan,Sungai Awan Kiri,110.070249585842,-1.73441004749995
+2599166,23-11-2020,1,kucing,64,Tidak sakit,Jawa Barat,Sumedang,Buahdua,Panyindangan,107.968664514271,-6.68289780649994
+2489112,09-06-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bukit Timah,101.264234015972,1.74797606250004
+2553947,14-09-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Melinggih,115.237694835526,-8.42744599999997
+2492729,15-06-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Semarapura Kelod,115.391200381361,-8.54941249999996
+2432568,11-03-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Lodtunduh,115.256184804502,-8.55717799999996
+2426240,03-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Bintan,101.264234015972,1.74797606250004
+2447115,01-04-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Ibun,Mekarwangi,107.771276222533,-7.10694503749997
+2562241,28-09-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Kubu,Tianyar Tengah,115.473674166644,-8.21125199999994
+2598937,23-11-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Telaga Tawang,115.455975794906,-8.47804599999995
+2581609,25-10-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Bunga Raya,101.998713639133,0.929961621000047
+2385219,15-01-2020,1,monyet,76,Tidak sakit,Riau,Dumai,Dumai Barat,Pangkalan Sesai,101.480273531262,1.61966638150005
+2395239,27-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Sibetan,115.534236734218,-8.45663629149996
+2529310,06-08-2020,1,monyet,76,Tidak sakit,Riau,Dumai,Dumai Barat,Bagan Keladi,101.439537910732,1.64865273100006
+2542656,26-08-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Rimba Sekampung,101.264234015972,1.74797606250004
+2426549,03-03-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Mendoyo,Yeh Embang Kangin,114.792977644046,-8.32948649999997
+2475099,15-05-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Gunaksa,115.423178920945,-8.54645749999995
+2468741,04-05-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Tihingan,115.377855968906,-8.52576499999995
+2390683,22-01-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Kutawaringin,Jatisari,107.530278,-7.077233
+2525635,30-07-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Bintan,101.264234015972,1.74797606250004
+2528133,05-08-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Pekutatan,114.849812021193,-8.41784999999996
+2593135,12-11-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Solokan Jeruk,Panyadap,107.758022575425,-7.03226947799996
+2502614,29-06-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Cimaung,Cikalong,107.563541112763,-7.12257003799994
+2413531,17-02-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Majalaya,Neglasari,107.720227745959,-7.07870912549996
+2620011,31-12-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2488080,08-06-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Nyalian,115.361009487209,-8.50262799999993
+2550340,08-09-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Manggissari,114.891260921394,-8.37899399999995
+2437945,19-03-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bengkalis,Kelapa Pati,102.123144856215,1.47874504250004
+2528053,05-08-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Negara,Baluk,114.567649073078,-8.36062999999996
+2385427,15-01-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Mas,115.26968051738,-8.54620699999995
+2419464,24-02-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Mekar Sari,101.264234015972,1.74797606250004
+2413234,17-02-2020,1,kucing lokal,66,Tidak sakit,Riau,Bengkalis,Mandau,Air Jamban,101.122523228546,1.21842640500003
+2375575,02-01-2020,1,kucing,64,Tidak sakit,Bali,Karang Asem,Bebandem,Jungutan,115.520858284039,-8.41261999999995
+2523620,28-07-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Majalaya,Biru,107.719252635524,-7.05269145999995
+2598940,23-11-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Tangkup,115.438131239382,-8.48488039399993
+2502535,29-06-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Jaya Pura,102.022263229796,0.86025080050004
+2440391,22-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bukit Timah,101.264234015972,1.74797606250004
+2427458,04-03-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Buana Giri,115.545875912256,-8.39020899999994
+2438697,20-03-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Mendoyo,Mendoyo Dangin Tukad,114.673723036769,-8.37734599999996
+2426374,03-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Sungai Sembilan,Tanjung Penyembal,101.290913353049,1.76284020050005
+2493631,16-06-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Timur,Tanjung Palas,101.588714844602,1.56781512350005
+2383172,13-01-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Pacet,Cikawao,107.725630167841,-7.11584973299995
+2457359,17-04-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Rendang,Besakih,115.443695548305,-8.35940649999995
+2567044,04-10-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Aan,115.376989971931,-8.50074549999994
+2494255,17-06-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Kelusa,115.25257005709,-8.45282399999994
+2575525,16-10-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Nagreg,Nagreg,107.894579853045,-7.01148629199994
+2416498,20-02-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Mulia Baru,110.016204546125,-1.83380311699995
+2380127,08-01-2020,2,Anjing,60,Tidak sakit,Dki Jakarta,Jakarta Barat,Cengkareng,Rawa Buaya,106.729707971986,-6.17053103449993
+2398409,30-01-2020,1,kucing,64,Tidak sakit,Jawa Tengah,Boyolali,Banyudono,Ketaon,110.675389078197,-7.53005400049994
+2507605,06-07-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Kubu,Ban,115.490726961798,-8.27158249999994
+2588126,03-11-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Timur,Teluk Binjai,101.547154609412,1.60320544100006
+2511338,12-07-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Gumbrih,114.8837245,-8.43572299999997
+2425084,02-03-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Kantor,109.975790898672,-1.83153152449995
+2434877,14-03-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Bukian,115.257667096971,-8.41592999999997
+2419827,25-02-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Beresela,115.269804268955,-8.42770999999993
+2608959,10-12-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Kusamba,115.445522805136,-8.55890549999995
+2509470,09-07-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Kemuning Muda,102.01608902716,0.902886599000027
+2527340,04-08-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Banjaran,Margahurip,107.565861634156,-7.05306267749995
+2607529,07-12-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Pinggir,Pangkalan libut,101.296101815396,1.12094625750007
+2419798,25-02-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Negara,Banjar Tengah,114.599816829775,-8.36520499999995
+2435652,16-03-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Pangalengan,Margaluyu,107.557299058228,-7.23230195049996
+2596086,18-11-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Talibeng,115.455511104657,-8.48633499999994
+2406369,08-02-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Puhu,115.256960798135,-8.38987499999996
+2525729,30-07-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Tampak Siring,Pejeng Kaja,115.285926885868,-8.48712149999994
+2520914,25-07-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Buahan,115.232070852609,-8.39613749999995
+2441509,24-03-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Kusamba,115.445522805136,-8.55890549999995
+2413212,17-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Mandau,Gajah Sakti,101.220332738484,1.21245115850004
+2532515,11-08-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Timur,Bukit Batrem,101.525072801114,1.52325767500005
+2574497,14-10-2020,1,Anjing,60,Tidak sakit,Jambi,Sarolangun,Singkut,Siliwangi,102.613113734929,-2.58088099899996
+2517387,21-07-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Bebandem,Bungaya Kangin,115.569656903943,-8.45392849999993
+2497638,22-06-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Tusan,115.366037073881,-8.53920899999997
+2424856,02-03-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Sukaharja,110.034489135526,-1.79351443599995
+2439432,20-03-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Mekar Sari,101.264234015972,1.74797606250004
+2441376,24-03-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Manis Mata,Asam Besar,110.97254372028,-2.53910647699996
+2544072,28-08-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Negara,Kaliakah,114.58211923562,-8.33612399999996
+2401648,03-02-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Ibun,Sudi,107.76881517772,-7.08570313449997
+2603578,30-11-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai kota,Rimba Sekampung,101.264234015972,1.74797606250004
+2422592,27-02-2020,1,kera,68,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Sukaharja,110.034489135526,-1.79351443599995
+2447177,01-04-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Jati Baru,102.012246927978,0.948179071000055
+2458063,18-04-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Majalaya,Neglasari,107.720227745959,-7.07870912549996
+2496801,20-06-2020,1,monyet,76,Tidak sakit,Riau,Dumai,Dumai Barat,Pangkalan Sesai,101.480273531262,1.61966638150005
+2552894,11-09-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Ciamis,Cisaga,Kepel,108.480863942843,-7.33203649549995
+2376138,02-01-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Timur,Teluk Binjai,101.547154609412,1.60320544100006
+2418112,22-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bukit Batu,Sungai Selari,102.130308043856,1.33814299050005
+2407345,10-02-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Banjaran,Ciapus,107.593398480391,-7.07182979599995
+2430719,09-03-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Mandau,Babussalam,101.1364405679,1.20833200050006
+2489044,09-06-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Buantan Lestari,101.961312338775,0.869293237000051
+2451263,07-04-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Ratu Sima,101.264234015972,1.74797606250004
+2532518,11-08-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Timur,Jaya Mukti,101.564414249811,1.59851155550004
+2433090,12-03-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Selat,115.401164294258,-8.49844149999996
+2515500,17-07-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bukit datuk,101.264234015972,1.74797606250004
+2382560,11-01-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Majalaya,Padamulya,107.74172569197,-7.06365656899996
+2616015,24-12-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Sayan,115.23889027929,-8.51693449999996
+2383507,13-01-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Solokan Jeruk,Padamukti,107.763403210943,-7.01668715499994
+2447197,01-04-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Dumai Kota,101.264234015972,1.74797606250004
+2552628,11-09-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Besan,115.453845762774,-8.51537699999994
+2376588,03-01-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Gunaksa,115.423178920945,-8.54645749999995
+2460523,22-04-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2479777,26-05-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Paksebali,115.410906519774,-8.52931999999996
+2526416,01-08-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Abang,Ababi,115.600337068526,-8.41890049999995
+2615351,23-12-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Pacet,Mandalahaji,107.705600979116,-7.11854028699995
+2437876,19-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Rimba Sekampung,101.264234015972,1.74797606250004
+2375613,02-01-2020,1,kucing,64,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Sukaharja,110.034489135526,-1.79351443599995
+2437856,19-03-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Lodtunduh,115.256184804502,-8.55717799999996
+2420634,26-02-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Sindu Wati,115.461610840543,-8.45849399999997
+2620026,31-12-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2381146,09-01-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2498601,23-06-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Buahan Kaja,115.251842430641,-8.34572649999996
+2375608,02-01-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Kantor,109.975790898672,-1.83153152449995
+2440588,23-03-2020,1,kucing lokal,66,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Balai Makam,101.126601095593,1.24430143700005
+2385185,15-01-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2563827,29-09-2020,2,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Solokan Jeruk,Panyadap,107.758022575425,-7.03226947799996
+2454687,13-04-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Ibun,Lampegan,107.75032642691,-7.07689309099996
+2425001,02-03-2020,1,monyet,76,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Kantor,109.975790898672,-1.83153152449995
+2445341,30-03-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Gunaksa,115.423178920945,-8.54645749999995
+2384955,14-01-2020,1,Anjing,60,Tidak sakit,Riau,Siak,Bunga Raya,Suak Merambai,102.039636820068,0.86592227150004
+2509455,09-07-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Jaya Pura,102.022263229796,0.86025080050004
+2561134,25-09-2020,5,Anjing,60,Tidak sakit,Kalimantan Barat,Kapuas Hulu,Embaloh Hulu,Benua Martinus,112.453887273243,1.13199454550005
+2440616,23-03-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Simpang Padang,101.226424289857,1.25444936600005
+2414764,18-02-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Melinggih Kelod,115.242051609909,-8.45657149999997
+2528475,05-08-2020,1,anjing lokal,62,Tidak sakit,Sumatera Barat,Sijunjung,Lubuk Tarok,Lalan,101.018191293853,-0.782040087999945
+2431536,10-03-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Lokasari,115.42608611228,-8.51519099999993
+2419463,24-02-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2483426,31-05-2020,1,Anjing,60,Tidak sakit,Riau,Siak,Bunga Raya,Suak Merambai,102.039636820068,0.86592227150004
+2555379,16-09-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Sungai Sembilan,Bangsal Aceh,101.384669536596,1.60266601850003
+2611677,16-12-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Abang,Tista,115.604068538786,-8.37056648149996
+2425654,02-03-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bukit Batu,Sungai Selari,102.130308043856,1.33814299050005
+2451260,07-04-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Ratu Sima,101.264234015972,1.74797606250004
+2575499,16-10-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Paseh,Sukamanah,107.764870898039,-7.04860091199996
+2596165,18-11-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Melinggih Kelod,115.242051609909,-8.45657149999997
+2506074,03-07-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Dawan Kaler,115.443294913118,-8.52313049999995
+2426226,03-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Timur,Teluk Binjai,101.547154609412,1.60320544100006
+2574632,15-10-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Akah,115.395110126827,-8.52315899999996
+2415385,19-02-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Bengkalis,Penampi,102.30705238646,1.45148676600004
+2604349,30-11-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Ratu Sima,101.264234015972,1.74797606250004
+2423711,28-02-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Majalaya,Bojong,107.766452483635,-7.03958582849995
+2459661,21-04-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Jaya Pura,102.022263229796,0.86025080050004
+2399078,31-01-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Dumai Kota,101.264234015972,1.74797606250004
+2386263,16-01-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Gunaksa,115.423178920945,-8.54645749999995
+2604340,30-11-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Mekar Sari,101.264234015972,1.74797606250004
+2479270,25-05-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Kelusa,115.25257005709,-8.45282399999994
+2428510,05-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2445418,30-03-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Banjaran,Ciapus,107.593398480391,-7.07182979599995
+2515409,17-07-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Gianyar,Gianyar,115.323497046278,-8.55193699999995
+2559232,22-09-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bukit datuk,101.264234015972,1.74797606250004
+2403367,05-02-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Simpang Padang,101.226424289857,1.25444936600005
+2579004,21-10-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Dawan Klod,115.443176477121,-8.54251599999995
+2525302,30-07-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Klungkung,Selat,115.401164294258,-8.49844149999996
+2390530,22-01-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Melaya,Ekasari,114.583558900641,-8.22850749999995
+2607304,07-12-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Manggis,Pesedahan,115.560382715541,-8.49814149999997
+2582770,26-10-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Petulu,115.26759877871,-8.49297449999995
+2432839,11-03-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Solokan Jeruk,Rancakasumba,107.726225605426,-7.02525925649994
+2508010,07-07-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Sidemen,Sindu Wati,115.461610840543,-8.45849399999997
+2423404,28-02-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Nanga Tayap,Betenung,110.826360410101,-1.56610250449995
+2489114,09-06-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2496818,20-06-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai kota,Bintan,101.264234015972,1.74797606250004
+2389722,21-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Rendang,Rendang,115.432100910357,-8.41803999999993
+2447174,01-04-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Tuah Indrapura,101.976626101618,0.902698665500054
+2377788,06-01-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Pekutatan,Pekutatan,114.849812021193,-8.41784999999996
+2605390,02-12-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Kerta,115.280058791607,-8.34393149999994
+2438703,20-03-2020,1,monyet,76,Tidak sakit,Riau,Siak,Bunga Raya,Kemuning Muda,102.01608902716,0.902886599000027
+2620017,31-12-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Mekar Sari,101.264234015972,1.74797606250004
+2447854,02-04-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai kota,Dumai Kota,101.264234015972,1.74797606250004
+2606855,05-12-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Bukian,115.257667096971,-8.41592999999997
+2433533,12-03-2020,1,musang,95,Tidak sakit,Riau,Dumai,Dumai Barat,Sp Darul Ihsan,101.500943703762,1.65394178650004
+2416190,20-02-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Simpang Padang,101.226424289857,1.25444936600005
+2499690,24-06-2020,1,Anjing,60,Tidak sakit,Riau,Bengkalis,Siak Kecil,Sungai Siput,102.117420789657,1.16101449650006
+2378776,07-01-2020,1,kucing,64,Tidak sakit,Bali,Klungkung,Klungkung,Tangkas,115.405535212612,-8.56077349999995
+2455427,14-04-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai kota,Rimba Sekampung,101.264234015972,1.74797606250004
+2398940,31-01-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Solokan Jeruk,Padamukti,107.763403210943,-7.01668715499994
+2447624,02-04-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bathin Solapan,Tambusai Batang Duri,101.172656,1.294236
+2413520,17-02-2020,1,monyet,76,Tidak sakit,Jawa Barat,Bandung,Majalaya,Majakerta,107.756626606443,-7.05188846599995
+2459660,21-04-2020,1,kucing,64,Tidak sakit,Riau,Siak,Bunga Raya,Jaya Pura,102.022263229796,0.86025080050004
+2596077,18-11-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Kusamba,115.445522805136,-8.55890549999995
+2572264,12-10-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Sukajadi,101.264234015972,1.74797606250004
+2614070,21-12-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Payangan,Kelusa,115.25257005709,-8.45282399999994
+2620014,31-12-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Ratu Sima,101.264234015972,1.74797606250004
+2386235,16-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Rendang,Rendang,115.432100910357,-8.41803999999993
+2435654,16-03-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Pangalengan,Margamekar,107.575326257524,-7.19733643499995
+2375618,02-01-2020,1,Anjing,60,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Kali Nilam,109.944391760307,-1.78284954999995
+2612926,18-12-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Rendang,Pempatan,115.415531979551,-8.34408599999998
+2509571,09-07-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Kusamba,115.445522805136,-8.55890549999995
+2445426,30-03-2020,1,kucing,64,Tidak sakit,Jawa Barat,Bandung,Pangalengan,Pangalengan,107.610109630994,-7.16341567049994
+2481053,28-05-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Dawan,Sampalan Klod,115.406299248232,-8.55183799999995
+2495523,18-06-2020,1,Anjing,60,Tidak sakit,Bali,Jembrana,Mendoyo,Mendoyo Dauh Tukad,114.678994885367,-8.31651449999995
+2586337,01-11-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Rancaekek,Bojongloa,107.757221957987,-6.97750902149994
+2592350,11-11-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Barat,Purnama,101.465616182362,1.64782255700007
+2396198,28-01-2020,1,Anjing,60,Tidak sakit,Bali,Karang Asem,Manggis,Nyuh Tebel,115.544627489457,-8.49337044449993
+2418226,23-02-2020,1,Anjing,60,Tidak sakit,Bali,Klungkung,Banjarangkan,Banjarangkan,115.370425676556,-8.55063999999993
+2375612,02-01-2020,1,kucing,64,Tidak sakit,Kalimantan Barat,Ketapang,Delta Pawan,Kantor,109.975790898672,-1.83153152449995
+2427267,04-03-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai kota,Laksamana,101.264234015972,1.74797606250004
+2436640,17-03-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bengkalis,Senggoro,102.214745926769,1.46629035400005
+2559231,22-09-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Bumi Ayu,101.264234015972,1.74797606250004
+2543869,27-08-2020,1,Anjing,60,Tidak sakit,Bali,Gianyar,Ubud,Mas,115.26968051738,-8.54620699999995
+2559230,22-09-2020,1,kucing,64,Tidak sakit,Riau,Dumai,Dumai Selatan,Ratu Sima,101.264234015972,1.74797606250004
+2444132,28-03-2020,1,Anjing,60,Tidak sakit,Jawa Barat,Bandung,Solokan Jeruk,Padamukti,107.763403210943,-7.01668715499994
+2471407,09-05-2020,1,Anjing,60,Tidak sakit,Riau,Dumai,Dumai Selatan,Bukit Timah,101.264234015972,1.74797606250004
+2420936,26-02-2020,1,kucing,64,Tidak sakit,Riau,Bengkalis,Bukit Batu,Sejangat,102.06706966492,1.27242243200004
